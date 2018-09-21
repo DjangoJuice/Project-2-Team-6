@@ -13,6 +13,8 @@ module.exports = function(sequelize, DataTypes) {
               }
           }
       }
+    },{
+        timestamps: false
     });
 
     Customer.associate = function(models) { 
@@ -26,8 +28,6 @@ module.exports = function(sequelize, DataTypes) {
                 // name: user_id,
                 allowNull: false
             }
-        },{
-            timestamps: false
         });
     }
     return Customer;

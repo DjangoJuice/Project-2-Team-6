@@ -61,4 +61,4 @@ INSERT INTO Users (email, password, createdAt, updatedAt) VALUES ("grapesongrams
 
 --Customer Table Seed Data--
 
-INSERT INTO Customers(customerName, customerPhone)
+INSERT INTO Customers(customerName, customerPhone) VALUES ("Gee", "555-555-5555", 1);
