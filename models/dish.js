@@ -4,13 +4,17 @@ module.exports = function(sequelize, DataTypes) {
         type: DataTypes.STRING,
         allowNull: false,
       },
+      dish_description: {
+        type: DataTypes.STRING,
+        allowNull: false,
+      },
       category: {
         type: DataTypes.STRING,
         allowNull: false,
       },
       dish_price: {
         type: DataTypes.FLOAT,
-        defaultValue: false,
+        allowNull: false,
         validate: {
           isFloat: true
         }
