@@ -5,8 +5,13 @@ module.exports = function(sequelize, DataTypes) {
         allowNull: false,
       },
       customerPhone: {
-          type: DataTypes.INTEGER,
+          type: DataTypes.STRING,
           allowNull: true,
+          isTwelve(value) {
+              if (value.length != 12) {
+                  throw new Error("Incorrect Phone Number Format");
+              }
+          }
       }
     });
 

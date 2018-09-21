@@ -60,3 +60,5 @@ INSERT INTO Restaurants (restaurantName, restaurantAddress, restaurantImg, resta
 INSERT INTO Users (email, password, createdAt, updatedAt) VALUES ("grapesongrams@gmail.com", "Grapes333!", "2018-09-21", "2018-09-21");
 
 --Customer Table Seed Data--
+
+INSERT INTO Customers(customerName, customerPhone)
