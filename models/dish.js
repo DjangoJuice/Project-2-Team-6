@@ -17,7 +17,7 @@ module.exports = function(sequelize, DataTypes) {
       }
     });
 
-    associate = function(models) {
+    Dish.associate = function(models) {
         models.Dish.belongsTo(models.Restaurant, {
             foreignKey: {
                 name: restaurant_id,
