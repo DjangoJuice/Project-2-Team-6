@@ -1,10 +1,10 @@
 module.exports = function(sequelize, DataTypes) {
     var Dish = sequelize.define("Dish", {
-      dish_name: {
+      dishName: {
         type: DataTypes.STRING,
         allowNull: false,
       },
-      dish_description: {
+      dishDescription: {
         type: DataTypes.STRING,
         allowNull: false,
       },
@@ -12,7 +12,7 @@ module.exports = function(sequelize, DataTypes) {
         type: DataTypes.STRING,
         allowNull: false,
       },
-      dish_price: {
+      dishPrice: {
         type: DataTypes.FLOAT,
         allowNull: false,
         validate: {

@@ -1,6 +1,6 @@
 module.exports = function(sequelize, DataTypes) {
     var Order = sequelize.define("Order", {
-      dish_name: {
+      dishName: {
         type: DataTypes.STRING,
         allowNull: false,
       },
@@ -8,14 +8,14 @@ module.exports = function(sequelize, DataTypes) {
         type: DataTypes.STRING,
         allowNull: false,
       },
-      dish_price: {
+      dishPrice: {
         type: DataTypes.FLOAT,
         allowNull: false,
         validate: {
           isFloat: true
         }
       },
-      dish_quantity: {
+      dishQuantity: {
           type: DataTypes.INTEGER,
           defaultValue: 1,
       },

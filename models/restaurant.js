@@ -1,18 +1,18 @@
 module.exports = function(sequelize, DataTypes) {
   var Restaurant = sequelize.define("Restaurant", {
-    restaurant_name: {
+    restaurantName: {
       type: DataTypes.STRING,
       allowNull: false,
     },
-    restaurant_address: {
+    restaurantAddress: {
       type: DataTypes.STRING,
       allowNull: false
     },
-    restaurant_img: {
+    restaurantImg: {
       type: DataTypes.STRING,
       allowNull: true,
     },
-    restaurant_description: {
+    restaurantDescription: {
       type: DataTypes.TEXT,
       allowNull: true,
       validate: {
