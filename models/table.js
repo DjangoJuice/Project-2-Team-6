@@ -16,10 +16,8 @@ module.exports = function(sequelize, DataTypes) {
 
     Table.associate = function(models) {
         Table.belongsTo(models.Restaurant, {
-            onDelete: "CASCADE",
             foreignKey: {
                 name: restaurant_id,
-                type: DataTypes.INTEGER,
                 allowNull: false
             }
         });
