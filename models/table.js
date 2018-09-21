@@ -1,6 +1,6 @@
 module.exports = function(sequelize, DataTypes) {
     var Table = sequelize.define("Table", {
-      table_num: {
+      tableNum: {
         type: DataTypes.STRING,
         allowNull: false,
       },
@@ -12,6 +12,8 @@ module.exports = function(sequelize, DataTypes) {
         type: DataTypes.BOOLEAN,
         defaultValue: false,
       }
+    }, {
+      timestamps: false
     });
 
     Table.associate = function(models) {

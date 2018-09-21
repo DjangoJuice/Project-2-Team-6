@@ -21,6 +21,8 @@ module.exports = function(sequelize, DataTypes) {
                 // name: user_id,
                 allowNull: false
             }
+        },{
+            timestamps: false
         });
     }
     return Customer;

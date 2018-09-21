@@ -19,6 +19,8 @@ module.exports = function(sequelize, DataTypes) {
           isFloat: true
         }
       }
+    },{
+      timestamps: false
     });
 
     Dish.associate = function(models) {
