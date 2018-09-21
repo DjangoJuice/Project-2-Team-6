@@ -53,3 +53,10 @@ INSERT INTO Restaurants (restaurantName, restaurantAddress, restaurantImg, resta
     INSERT INTO Dishes (dishName, dishDescription, category, dishPrice, RestaurantId) VALUES ("CHOCOLATE CHIP COOKIE DOUGH", "Vanilla Ice Cream, Milk, Chocolate Chip Cookie Dough, Chocolate Chip Cookies, Mini-Chocolate Chips,", "Drinks", 4.50, 2);
     INSERT INTO Dishes (dishName, dishDescription, category, dishPrice, RestaurantId) VALUES ("Thai Iced Tea", "This isn't your momma's sweet tea.", "Drinks", 2.25, 2);
     INSERT INTO Dishes (dishName, dishDescription, category, dishPrice, RestaurantId) VALUES ("Shu She Salmon", "fresh salmon filet topped with red shu she curry sauce, straw mushroom, bell peppers and basil leaves.", "Entree", 18.95, 2);
+
+--User Table Seed Data--
+--email: grapesongrams@gmail.com password: Grapes333!--
+
+INSERT INTO Users (email, password, createdAt, updatedAt) VALUES ("grapesongrams@gmail.com", "Grapes333!", "2018-09-21", "2018-09-21");
+
+--Customer Table Seed Data--
