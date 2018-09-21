@@ -29,7 +29,12 @@ module.exports = function(sequelize, DataTypes) {
       filled: {
           type: DataTypes.BOOLEAN,
           defaultValue: false
-      }
+      },
+      //part of a put method to indicate the time when the order has been filled
+      timeFilled: {
+          type: DataTypes.DATE,
+          allowNull: true
+        }
     });
 
     Order.associate = function(models) {

@@ -62,3 +62,6 @@ INSERT INTO Users (email, password, createdAt, updatedAt) VALUES ("grapesongrams
 --Customer Table Seed Data--
 
 INSERT INTO Customers(customerName, customerPhone) VALUES ("Gee", "555-555-5555", 1);
+
+--Order Table Seed Data--
+INSERT INTO ORDERS(dishName, category, dishPrice, dishQuantity, notes, createdAt, updatedAt, CustomerId, RestaurantId) VALUES("Shu She Salmon", "Entree", 18.95, 2, "Extra spicy please.", "2018-09-21 12:30:04PM", "2018-09-21 12:30:04PM", "2018-09-21 12:30:04PM", 1, 2);
