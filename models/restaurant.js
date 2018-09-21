@@ -7,9 +7,6 @@ module.exports = function(sequelize, DataTypes) {
     restaurant_img: {
       type: DataTypes.STRING,
       allowNull: true,
-      validate: {
-        
-      }
     },
     restaurant_description: {
       type: DataTypes.TEXT,
@@ -19,5 +16,14 @@ module.exports = function(sequelize, DataTypes) {
       }
     }
   });
+  Restaurant.associate = function(models) {
+    Restaurant.hasMany(models.Table, {
+      onDelete: "CASCADE"
+    });
+    Restaurant.hasMany(models.Dish, {
+      onDelete: "CASCADE"
+    });
+  }
   return Restaurant;
 };
+ 
