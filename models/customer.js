@@ -18,7 +18,7 @@ module.exports = function(sequelize, DataTypes) {
         });
         models.Customer.belongsTo(models.User, {
             foreignKey: {
-                name: user_id,
+                // name: user_id,
                 allowNull: false
             }
         });

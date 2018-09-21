@@ -5,7 +5,7 @@ module.exports = function(sequelize, DataTypes) {
       allowNull: false,
     },
     restaurant_address: {
-      type: Datatypes.STRING,
+      type: DataTypes.STRING,
       allowNull: false
     },
     restaurant_img: {

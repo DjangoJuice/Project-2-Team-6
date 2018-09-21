@@ -17,7 +17,7 @@ module.exports = function(sequelize, DataTypes) {
     Table.associate = function(models) {
         Table.belongsTo(models.Restaurant, {
             foreignKey: {
-                name: restaurant_id,
+                // name: restaurant_id,
                 allowNull: false
             }
         });

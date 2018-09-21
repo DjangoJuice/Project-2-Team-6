@@ -35,13 +35,13 @@ module.exports = function(sequelize, DataTypes) {
     Order.associate = function(models) {
         models.Order.belongsTo(models.Restaurant, {
             foreignKey: {
-                name: restaurant_id,
+                // name: restaurant_id,
                 allowNull: false
             }
         });
         models.Order.belongsTo(models.Customer, {
             foreignKey: {
-                name: customer_id,
+                // name: customer_id,
                 allowNull: false
             }
         });
