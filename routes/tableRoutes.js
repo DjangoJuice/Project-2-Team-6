@@ -15,13 +15,13 @@ module.exports = function(app) {
         });
     });
 
-    app.post("/api/tables", function(req, res) {
+    app.post("/api/tables/", function(req, res) {
         db.Table.create({
             tableNum: req.body.tableNum,
             section: req.body.section,
             RestaurantId: req.body.RestaurantId
-        }).then(function(dbRestaurant) {
-            res.json(dbRestaurant);
+        }).then(function(dbTables) {
+            res.json(dbTables);
         });
     });
 
