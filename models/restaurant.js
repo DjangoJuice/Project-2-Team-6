@@ -14,10 +14,7 @@ module.exports = function(sequelize, DataTypes) {
     },
     restaurantDescription: {
       type: DataTypes.TEXT,
-      allowNull: true,
-      validate: {
-        len: [1, 500]
-      }
+      allowNull: true
     }
   });
   Restaurant.associate = function(models) {

@@ -47,7 +47,7 @@ module.exports = function(app) {
 
   // Delete a Restaurant by supplying id
   app.delete("/api/restaurants/:id", function(req, res) {
-    db.Restaurant.destroy({ where: { id: req.params.id } }).then(function(dbRestaurant) {
+    db.Restaurant.destroy({ where: { id: req.params.id } }).then(function() {
       res.json({message: "Restaurant Deleted"});
     });
   });
