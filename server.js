@@ -22,7 +22,8 @@ app.use(express.static("public"));
 // Requiring our routes
 // require("./routes/htmlRoutes.js")(app);
 // // require("./routes/authRoutes.js")(app);
-// require("./routes/apiRoutes.js")(app);
+require("./routes/restaurantRoutes.js")(app);
+// require("./routes/tableRoutes.js")(app);
 
 // Syncing our database and logging a message to the user upon success
 db.sequelize.sync({force: false}).then(function() {
