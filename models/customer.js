@@ -12,6 +12,14 @@ module.exports = function(sequelize, DataTypes) {
                   throw new Error("Incorrect Phone Number Format");
               }
           }
+      },
+      customerEmail: {
+          type: DataTypes.STRING,
+          allowNull: false,
+          unique: true,
+          validate: {
+              isEmail: true
+          }
       }
     },{
         timestamps: false
