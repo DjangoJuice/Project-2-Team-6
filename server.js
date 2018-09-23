@@ -25,6 +25,8 @@ app.use(express.static("public"));
 require("./routes/restaurantRoutes.js")(app);
 require("./routes/tableRoutes.js")(app);
 require("./routes/dishRoutes.js")(app);
+require("./routes/orderRoutes.js")(app);
+require("./routes/customerRoutes.js")(app);
 
 // Syncing our database and logging a message to the user upon success
 db.sequelize.sync({force: false}).then(function() {

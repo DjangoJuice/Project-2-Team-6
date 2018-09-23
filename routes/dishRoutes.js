@@ -2,17 +2,19 @@
 var db = require("../models");
 
 module.exports = function(app) {
-    // Get Dishes Across All Restaurants
-    app.get("/api/dishes/", function(req, res) {
-        db.Dish.findAll({}).then(function(dbDishes) {
-            res.json(dbDishes);
-        });
-    });
-    // Get Tables by RestaurantId
-    app.get("/api/dishes/restaurants/:restaurantId", function(req, res) {
-        db.Dish.findAll({where: {RestaurantId: req.params.restaurantId}}).then(function(dbDishes){
-            res.json(dbDishes);
-        });
+    app.get("/api/dishes/restaurants/:restaurantId?", function(req, res) {
+        if(req.params.restaurantId) {
+            // Get Dishes by RestaurantId
+            db.Dish.findAll({where: {RestaurantId: req.params.restaurantId}}).then(function(dbDishes){
+                res.json(dbDishes);
+            });
+        }
+        else {
+            // Get Dishes Across All Restaurants
+            db.Dish.findAll({}).then(function(dbDishes) {
+                res.json(dbDishes);
+            });
+        }
     });
 
     app.post("/api/dishes/", function(req, res) {
@@ -47,4 +49,3 @@ module.exports = function(app) {
         })
     });
 };
-  
