@@ -21,7 +21,7 @@ app.use(express.static("public"));
 
 // Requiring our routes
 // require("./routes/htmlRoutes.js")(app);
-// // require("./routes/authRoutes.js")(app);
+require("./routes/authRoutes.js")(app);
 require("./routes/restaurantRoutes.js")(app);
 require("./routes/tableRoutes.js")(app);
 require("./routes/dishRoutes.js")(app);
