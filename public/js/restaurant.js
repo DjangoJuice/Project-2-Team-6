@@ -1,16 +1,16 @@
 $(function () {
 
-    GetAllRestaurants();
+    getAllRestaurants();
 
     //for homepage
-    function GetAllRestaurants () {
+    function getAllRestaurants () {
         $.ajax({
             url: "/api/restaurants/",
             method: "GET"
-        }).then(RestaurantGet)
+        }).then(restaurantGet)
     }
 
-    function RestaurantGet (data) {
+    function restaurantGet (data) {
         console.log(data);
 
         for (var i = 0; i < data.length; i++) {

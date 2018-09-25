@@ -6,13 +6,35 @@ module.exports = function(app) {
     app.get("/api/orders/restaurants/:restaurantId?", function(req, res) {
         if(req.params.restaurantId) {
             // Get Orders for Restaurant
-            db.Order.findAll({where: {RestaurantId: req.params.restaurantId}}).then(function(dbOrders){
+            db.Order.findAll({
+                include: [{
+                    model: db.Customer,
+                    include: [{
+                        model: db.Table,
+                        include: [{
+                            model: db.Restaurant
+                        }]
+                    }]
+                }]
+            },{
+                where: {RestaurantId: req.params.restaurantId}
+            }).then(function(dbOrders) {
                 res.json(dbOrders);
             });
         }
         else {
             // Get All Orders
-            db.Order.findAll({}).then(function(dbOrders) {
+            db.Order.findAll({
+                include: [{
+                    model: db.Customer,
+                    include: [{
+                        model: db.Table,
+                        include: [{
+                            model: db.Restaurant
+                        }]
+                    }]
+                }]
+            }).then(function(dbOrders) {
                 res.json(dbOrders);
             });
         }

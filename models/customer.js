@@ -37,6 +37,12 @@ module.exports = function(sequelize, DataTypes) {
                 allowNull: false
             }
         });
+
+        models.Customer.hasMany(models.Table, {
+            foreignKey: {
+                onDelete: "CASCADE"
+            }
+        });
     }
     return Customer;
   };

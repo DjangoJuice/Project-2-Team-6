@@ -65,7 +65,7 @@
                 <div class="col-md-1"></div>
                 <div class="border border-success text-center col-md-10">
                     <!--After a user chooses a restaurant, the user chooses a table and then can change that record-->
-                    <h5 id="table-update">Choose Restaurant</h5>
+                    <h5 id="table-update">Edit Tables</h5>
                     <div id="update-table-div">
 
                     </div>
@@ -74,13 +74,28 @@
 
             </div>
         </section>
-        <section class="col-md-6 row">
-            <div class="col-md-1"></div>
-            <div id="orders" class="border border-secondary text-center col-md-10">
-                <h5>Kitchen Tracker</h5>
-                
+
+        <section class="col-md-6">
+            <div class="row mb-4">
+                <div class="col-md-1"></div>
+                <div id="orders" class="border border-secondary text-center col-md-10" style="overflow-y: auto; height: 400px;">
+                    <h5>In the Kitchen</h5>
+                    <div id="orders" class="text-center mb-2">
+                        
+                    </div>
+                    
+                </div>
+                <div class="col-md-1"></div>
             </div>
-            <div class="col-md-1"></div>
+
+            <div class="row" class="border border-danger">
+                <div class="col-md-1"></div>
+                <div class="border border-secondary text-center col-md-10">
+                    <h5> Add Menu Items</h5>
+                    
+                </div>
+                <div class="col-md-1"></div>
+            </div>
 
         </section>
 
@@ -96,10 +111,12 @@
 
 
 <!--JQuery-->
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
 <!--Popper JS-->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 <!--Bootstrap Javascript--> 
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/js/my-restaurants.js"></script>
 </body>
 </html>

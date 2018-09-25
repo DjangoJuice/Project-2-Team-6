@@ -11,7 +11,7 @@ module.exports = function(sequelize, DataTypes) {
       occupied: {
         type: DataTypes.BOOLEAN,
         defaultValue: false,
-      }
+      },
     }, {
       timestamps: false
     });
@@ -22,6 +22,11 @@ module.exports = function(sequelize, DataTypes) {
                 // name: restaurant_id,
                 allowNull: false
             }
+        });
+        Table.belongsTo(models.Customer, {
+          foreignKey: {
+            allowNull: true
+          }
         });
     }
     return Table;
