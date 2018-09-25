@@ -112,6 +112,40 @@ $(function () {
         $("#r-display").append($div);
     }
 
+    $("#submit-restaurant").on("click", function () {
+        event.preventDefault();
+        var restaurantName = $("#restaurant-name").val().trim();
+        var restaurantAddress = $("#restaurant-address").val().trim();
+        var restaurantImage = $("#restaurant-img").val().trim();
+        var restaurantDescription = $("#restaurant-description").val().trim();
+
+        $.ajax({
+            url: "/api/restaurants/",
+            method: "POST",
+            data: {
+                restaurantName: restaurantName,
+                restaurantAddress: restaurantAddress,
+                restaurantImage: restaurantImage,
+                restaurantDescription: restaurantDescription 
+            }
+        }).then(function (result) {
+            console.log(result);
+                $("#restaurant-added").css("display", "none");
+
+                $restaurantDiv = $("<div>");
+                $restaurantDiv.attr("id", "added-dish");
+
+                $restaurantDiv.html("<p>Your restaurant has been added.</p>");
+
+                $("#add-restaurant").append($restaurantDiv);
+
+                setTimeout(function () {
+                    $("#add-restaurant").empty();
+                    location.reload();
+                }, 3000);
+        })
+    });
+
     $("body").on("click", ".rChoice", function() {
         event.preventDefault();
         var id = $(this).data("restaurantId");
@@ -139,7 +173,6 @@ $(function () {
                     RestaurantId: id
                 }
             }).then(function (result) {
-                console.log(result);
                 $("#add-to-menu").css("display", "none");
 
                 $dishDiv = $("<div>");
