@@ -1,6 +1,8 @@
 $(function () {
     getAllOrders();
+    getAllRestaurants();
 
+    //In the Kitchen
     function getAllOrders () {
         $.ajax({
             url: "/api/orders/restaurants/",
@@ -9,7 +11,6 @@ $(function () {
     }
 
     function displayOrders (data) {
-        console.log(data);
         for (var i = 0; i < data.length; i++) {
             if (!data[i].filled) {
                 $Order = $("<div>");
@@ -84,5 +85,85 @@ $(function () {
             console.log("successful");
             location.reload();
         });
+    });
+
+    //Add Menu Item
+    function getAllRestaurants () {
+        $.ajax({
+            url: "/api/restaurants/",
+            method: "GET"   
+        }).then(displayAllRestaurants);
+    }
+
+    function displayAllRestaurants (data) {
+        console.log(data);
+        $div = $("<div>");
+        $div.attr("id", "rMenu");
+        $div.addClass("list-group mx-3");
+
+        for (var i = 0; i < data.length; i++) {
+            $button = $("<button>");
+            $button.text(data[i].restaurantName);
+            $button.addClass("list-group-item rChoice");
+            $button.data("restaurantId", data[i].id);
+            
+            $div.append($button);
+        }
+        $("#r-display").append($div);
+    }
+
+    $("body").on("click", ".rChoice", function() {
+        event.preventDefault();
+        var id = $(this).data("restaurantId");
+        
+        //display of all restaurants is hidden
+        $("#r-display").css("display", "none");
+        //shows form for adding to restaurants menu items
+        $("#add-to-menu").css("display", "block");
+
+
+        $("body").on("click", "#submit-dish", function () {
+            var dishName = $("#dish-name").val().trim();
+            var dishDescription = $("#dish-description").val().trim();
+            var category = $("#dish-category").val().trim();
+            var dishPrice = $("#dish-price").val().trim();
+
+            $.ajax({
+                url: "/api/dishes/",
+                method: "POST",
+                data: {
+                    dishName: dishName,
+                    dishDescription: dishDescription,
+                    category: category,
+                    dishPrice: dishPrice,
+                    RestaurantId: id
+                }
+            }).then(function (result) {
+                console.log(result);
+                $("#add-to-menu").css("display", "none");
+
+                $dishDiv = $("<div>");
+                $dishDiv.attr("id", "added-dish");
+
+                $dishDiv.html("<p>This item has been added to the menu.</p>");
+
+                $("#menu-add-section").append($dishDiv);
+
+                setTimeout(function () {
+                    $("#menu-add-section").empty();
+                    location.reload();
+                }, 3000);
+
+
+            })
+        })
+
+
+
+
+
+
+
+
     });
 });
