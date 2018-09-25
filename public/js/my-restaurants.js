@@ -3,7 +3,7 @@ $(function () {
 
     function getAllOrders () {
         $.ajax({
-            url: "/api/orders/restaurants/1",
+            url: "/api/orders/restaurants/",
             method: "GET"   
         }).then(displayOrders);
     }
@@ -12,10 +12,9 @@ $(function () {
         console.log(data);
         for (var i = 0; i < data.length; i++) {
             if (!data[i].filled) {
-                var price = (data[i].dishPrice * data[i].dishQuantity);
-
                 $Order = $("<div>");
-                $Order.addClass("border border-dark mb-2 py-2 rounded")
+                $Order.addClass("border border-dark mb-2 py-2 rounded");
+                $Order.attr("id", "order-" + i);
 
                 $ul = $("<ul>");
                 $ul.addClass("list-group mx-3");
@@ -46,6 +45,8 @@ $(function () {
                 $buttonLi.addClass("list-group-item");
                 $button = $("<button>");
                 $button.addClass("btn btn-sm btn-danger done-btn");
+                $button.data("dishId", data[i].id);
+                $button.data("order", i);
                 $button.text("done");
                 $buttonLi.append($button);
 
@@ -60,9 +61,28 @@ $(function () {
                 $("#orders").append($Order);
             }
         }
-
+    
 
         
         
     }
+
+    $("body").on("click", ".done-btn", function() {
+        event.preventDefault();
+        var id = $(this).data("dishId");
+        var order = $(this).data("order");
+        console.log(id);
+
+        queryUrl = "/api/orders/restaurants/" + id,
+        $.ajax({
+            method: "PUT",
+            url: queryUrl,
+            data: {
+                filled: true
+            }
+        }).then(function () {
+            console.log("successful");
+            location.reload();
+        });
+    });
 });

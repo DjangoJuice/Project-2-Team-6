@@ -73,7 +73,7 @@ module.exports = function(app) {
 
     //Updating Record for filled orders. (Send filled: true)
     app.put("/api/orders/restaurants/:id", function(req, res) {
-            db.Dish.update({
+            db.Order.update({
             filled: req.body.filled,
             timeFilled: new Date()
         }, {
@@ -85,7 +85,7 @@ module.exports = function(app) {
 
     //General Order Updates 
     app.put("/api/orders/restaurants/:id", function(req, res) {
-            db.Dish.update({
+            db.Order.update({
             dishName: req.body.dishName,
             category: req.body.category,
             dishPrice: req.body.dishPrice,
