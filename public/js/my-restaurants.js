@@ -96,7 +96,6 @@ $(function () {
     }
 
     function displayAllRestaurants (data) {
-        console.log(data);
         $div = $("<div>");
         $div.attr("id", "rMenu");
         $div.addClass("list-group mx-3");
@@ -118,6 +117,7 @@ $(function () {
         var restaurantAddress = $("#restaurant-address").val().trim();
         var restaurantImage = $("#restaurant-img").val().trim();
         var restaurantDescription = $("#restaurant-description").val().trim();
+        var numOfTables = $("#restaurant-tables").val().trim();
 
         $.ajax({
             url: "/api/restaurants/",
@@ -139,11 +139,48 @@ $(function () {
 
                 $("#add-restaurant").append($restaurantDiv);
 
-                setTimeout(function () {
-                    $("#add-restaurant").empty();
-                    location.reload();
-                }, 3000);
-        })
+                createTables();
+
+                // setTimeout(function () {
+                //     $("#add-restaurant").empty();
+                //     location.reload();
+                // }, 3000);
+        });
+
+        function createTables () {
+            $.ajax({
+                url: "/api/restaurants/",
+                method: "GET"   
+            }).then(getRestaurant);
+        }
+
+        function getRestaurant (data) {
+            var id = data[data.length - 1].id;
+            var count = 0;
+            makeTable();
+            function makeTable () {
+                if (count < numOfTables) {
+
+                    $.ajax({
+                        url: "/api/tables/", 
+                        method: "POST",
+                        data: {
+                            tableNum: "Table " + (count + 1),
+                            RestaurantId: id
+                        }
+                    }).then(function (data) {
+                        console.log(data);
+                        count++;
+                        makeTable();
+                    });
+                } else {
+                    setTimeout(function () {
+                        $("#add-restaurant").empty();
+                        location.reload();
+                    }, 3000);
+                }
+            }
+        }
     });
 
     $("body").on("click", ".rChoice", function() {

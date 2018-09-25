@@ -35,7 +35,6 @@ module.exports = function(app) {
     app.post("/api/tables/", function(req, res) {
         db.Table.create({
             tableNum: req.body.tableNum,
-            section: req.body.section,
             RestaurantId: req.body.RestaurantId
         }).then(function(dbTables) {
             res.json(dbTables);
