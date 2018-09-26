@@ -1,6 +1,7 @@
 $(function () {
     getAllOrders();
     getAllRestaurants();
+    // gAllRestaurants();s
 
     //In the Kitchen
     function getAllOrders () {
@@ -12,6 +13,7 @@ $(function () {
 
     function displayOrders (data) {
         for (var i = 0; i < data.length; i++) {
+            console.log(data);
             if (!data[i].filled) {
                 $Order = $("<div>");
                 $Order.addClass("border border-dark mb-2 py-2 rounded");
@@ -111,6 +113,60 @@ $(function () {
         $("#r-display").append($div);
     }
 
+    // //Edit Tables
+    // function gAllRestaurants () {
+    //     $.ajax({
+    //         url: "/api/restaurants/",
+    //         method: "GET"   
+    //     }).then(dAllRestaurants);
+    // }
+
+    // function dAllRestaurants (data) {
+    //     $div = $("<div>");
+    //     $div.attr("id", "rTables");
+    //     $div.addClass("list-group mx-3");
+
+    //     for (var i = 0; i < data.length; i++) {
+    //         $button = $("<button>");
+    //         $button.text(data[i].restaurantName);
+    //         $button.addClass("list-group-item rTChoice");
+    //         $button.data("restaurantId", data[i].id);
+            
+    //         $div.append($button);
+    //     }
+    //     $("#update-table-div").append($div);
+    // }
+
+    // $("body").on("click", ".rTChoice", function () {
+    //     event.preventDefault();
+    //     var restaurantId = $(this).data("restaurantId");
+
+    //     queryUrl = "/api/tables/restaurants/" + restaurantId
+    //     $.ajax({
+    //         url: queryUrl,
+    //         method: "GET"
+    //     }).then(function (data) {
+    //         console.log(data);
+    //         //display of all restaurants is hidden
+    //         $("#rTables").css("display", "none");
+
+    //         $div = $("<div>");
+    //         $div.attr("id", "table-div");
+    //         $div.addClass("list-group mx-3");
+
+    //         for (var i = 0; i < data.length; i++) {
+    //             $button = $("<button>");
+    //             $button.text(data[i].tableNum);
+    //             $button.addClass("list-group-item table");
+    //             $button.data("table-id", data[i].id);
+
+    //             $div.append($button);
+    //         }
+    //         $("").append
+    //     });
+    // });
+
+
     $("#submit-restaurant").on("click", function () {
         event.preventDefault();
         var restaurantName = $("#restaurant-name").val().trim();
@@ -140,11 +196,6 @@ $(function () {
                 $("#add-restaurant").append($restaurantDiv);
 
                 createTables();
-
-                // setTimeout(function () {
-                //     $("#add-restaurant").empty();
-                //     location.reload();
-                // }, 3000);
         });
 
         function createTables () {
