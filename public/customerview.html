@@ -26,8 +26,7 @@
 <body>
     <header>
         <nav class="navbar navbar-expand-lg customer-navbar">
-            <!-- Replace GRAMS - Demo with Restuarent Title in Restuarent Table -->
-            <a class="navbar-brand" href="#">GRAMS - Demo</a>
+            <a class="navbar-brand" id="restaurantTitle" href="#"><!--Title Placeholder--></a>
         </nav>
     </header>
 
@@ -43,5 +42,11 @@
 
     </footer>
     <!--<script src="main.js"></script>-->
+    <script>
+    $.get("../api/examples/:id").then(function(results) {
+        $("#restaurantTitle").text(results.id);
+    }
+        )
+    </script>
 </body>
 </html>
