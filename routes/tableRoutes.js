@@ -5,13 +5,21 @@ module.exports = function(app) {
     app.get("/api/tables/restaurants/:restaurantId?", function(req, res) {
         if (req.params.restaurantId) {
             // Get Tables by RestaurantId
-            db.Table.findAll({where: {RestaurantId: req.params.restaurantId}}).then(function(dbTables){
+            db.Table.findAll({
+                include: [{
+                    model: db.Restaurant
+                }]
+            },{where: {RestaurantId: req.params.restaurantId}}).then(function(dbTables){
                 res.json(dbTables);
             });
         }
         else {
             // Get Tables Across All Restaurants
-            db.Table.findAll({}).then(function(dbTables) {
+            db.Table.findAll({
+                include: [{
+                    model: db.Restaurant
+                }]
+            }).then(function(dbTables) {
                 res.json(dbTables);
             });   
         }
@@ -43,9 +51,7 @@ module.exports = function(app) {
 
     app.put("/api/tables/:id", function(req, res) {
         db.Table.update({
-            tableNum: req.body.tableNum,
             section: req.body.section,
-            RestaurantId: req.body.RestaurantId
         }, {
             where: {id: req.params.id}
         }).then(function() {
