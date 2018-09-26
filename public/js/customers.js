@@ -11,13 +11,9 @@ $(function () {
     }
 
     function displayAllRestaurants(data) {
-        console.log(data);
-
-        console.log(data[0].restaurantName);
-
         for (var i = 0; i < data.length; i++) {
             $div = $("<div>");
-            $div.addClass("card");
+            $div.addClass("card my-2");
             $div.css("max-width", "18rem");
 
             $img = $("<img>");
@@ -37,10 +33,9 @@ $(function () {
             $descriptionP.addClass("card-text");
             $descriptionP.text(data[i].restaurantDescription);
 
-
-
             $button = $("<button>");
             $button.addClass("restaurant-btn");
+            $button.attr("dataRestaurantId", data[i].id)
             $button.addClass("btn btn-sm btn-success");
             $button.text("Get Seated");
 
@@ -54,6 +49,15 @@ $(function () {
 
             $("#all-restaurants").append($div);
         }
-
     }
+
+
+    //Hava - SVG Ajax Calls - Look here!!!
+    $("body").on("click", ".restaurant-btn", function () {
+        var id = $(this).data("dataRestaurantId");
+        
+
+    });
+
+    
 });
