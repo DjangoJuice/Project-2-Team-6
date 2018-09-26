@@ -41,7 +41,11 @@ $(function () {
 
                 $for = $("<li>");
                 $for.addClass("list-group-item");
-                $for.text("Customer: " + data[i].Customer.customerName + " - " + data[i].Customer.Tables[0].tableNum);
+                if (data[i].Customer.Tables[0].section) {
+                    $for.text("Customer: " + data[i].Customer.customerName + " - " + data[i].Customer.Tables[0].tableNum + " (" + data[i].Customer.Tables[0].section + ")");
+                } else {
+                    $for.text("Customer: " + data[i].Customer.customerName + " - " + data[i].Customer.Tables[0].tableNum);
+                }
 
                 $buttonLi = $("<li>");
                 $buttonLi.addClass("list-group-item");
