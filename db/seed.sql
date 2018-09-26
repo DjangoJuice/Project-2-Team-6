@@ -8,9 +8,10 @@ INSERT INTO Restaurants (restaurantName, restaurantAddress, restaurantImg, resta
 
 INSERT INTO Restaurants (restaurantName, restaurantAddress, restaurantImg, restaurantDescription, createdAt, updatedAt) VALUES ("Thai Cafe", "2501 University Dr, Durham, NC 27707","https://images.unsplash.com/photo-1534345115699-7be8b13815ab?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=77a0221b3741bcf490ba382a9d6f3b0f&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb", "Family-run spot serving standard Thai dishes plus sushi in a polished, laid-back setting.", "2018-09-21", "2018-09-21");
 
-/*--"Table" MySQL Table Seed Data--*/
-    /*--ZinBurger RestaurantId = 1--*/
-    INSERT INTO Tables (tableNum, RestaurantId) VALUES("Table 1", 1); 
+--"Table" MySQL Table Seed Data--
+    --ZinBurger RestaurantId = 1--
+    INSERT INTO Tables (tableNum, occupied, RestaurantId, CustomerId) VALUES("Table 1", "false", 1, 1); 
+
     INSERT INTO Tables (tableNum, RestaurantId) VALUES("Table 2", 1); 
     INSERT INTO Tables (tableNum, RestaurantId) VALUES("Table 3", 1); 
     INSERT INTO Tables (tableNum, RestaurantId) VALUES("Table 4", 1); 
@@ -76,11 +77,11 @@ INSERT INTO Customers(customerName, customerPhone) VALUES ("Gee", "555-555-5555"
 INSERT INTO Users (email, password, createdAt, updatedAt) VALUES ("grapesongrams@gmail.com", "Grapes333!", "2018-09-21", "2018-09-21");
 
 
-INSERT INTO Customers(customerName, customerPhone) VALUES ("Gee", "555-555-5555", 1);
+INSERT INTO Customers (customerName, customerPhone, customerEmail, UserId) VALUES ("Gee", "555-555-5555", "grapesongrams@gmail.com", 1);
 
     --Thai Cafe RestaurantId = 2, ClientId = 1--
-    INSERT INTO ORDERS(dishName, category, dishPrice, dishQuantity, notes, createdAt, updatedAt, CustomerId, RestaurantId) VALUES("Shu She Salmon", "Entree", 18.95, 2, "Extra spicy please.", "2018-09-21", "2018-09-21", 1, 2);
-    INSERT INTO ORDERS(dishName, category, dishPrice, dishQuantity, createdAt, updatedAt, CustomerId, RestaurantId) VALUES("Thai Iced Tea", "Drinks", 2.25, 2, "2018-09-21", "2018-09-21", 1, 2);
+    --INSERT INTO ORDERS(dishName, category, dishPrice, dishQuantity, notes, createdAt, updatedAt, CustomerId, RestaurantId) VALUES("Shu She Salmon", "Entree", 18.95, 2, "Extra spicy please.", "2018-09-21", "2018-09-21", 1, 2);
+    --INSERT INTO ORDERS(dishName, category, dishPrice, dishQuantity, createdAt, updatedAt, CustomerId, RestaurantId) VALUES("Thai Iced Tea", "Drinks", 2.25, 2, "2018-09-21", "2018-09-21", 1, 2);
 
     --ZinBurger RestaurantId = 1, ClientId = 1--
     INSERT INTO ORDERS(dishName, category, dishPrice, createdAt, updatedAt, CustomerId, RestaurantId) VALUES("SAMBURGER", "Entree", 12.00, "2018-09-21", "2018-09-21", 1, 1);

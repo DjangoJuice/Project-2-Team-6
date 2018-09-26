@@ -32,4 +32,9 @@ module.exports = function(app) {
     res.sendFile(path.join(__dirname, "../public/example.html"));
   });
 
+  //Homepage for Store Owners
+  app.get("/my-restaurants/", function(req, res) {
+    res.sendFile(path.join(__dirname, "../public/my-restaurant.html"));
+  });
+
 };

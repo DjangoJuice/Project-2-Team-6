@@ -6,13 +6,35 @@ module.exports = function(app) {
     app.get("/api/orders/restaurants/:restaurantId?", function(req, res) {
         if(req.params.restaurantId) {
             // Get Orders for Restaurant
-            db.Order.findAll({where: {RestaurantId: req.params.restaurantId}}).then(function(dbOrders){
+            db.Order.findAll({
+                include: [{
+                    model: db.Customer,
+                    include: [{
+                        model: db.Table,
+                        include: [{
+                            model: db.Restaurant
+                        }]
+                    }]
+                }]
+            },{
+                where: {RestaurantId: req.params.restaurantId}
+            }).then(function(dbOrders) {
                 res.json(dbOrders);
             });
         }
         else {
             // Get All Orders
-            db.Order.findAll({}).then(function(dbOrders) {
+            db.Order.findAll({
+                include: [{
+                    model: db.Customer,
+                    include: [{
+                        model: db.Table,
+                        include: [{
+                            model: db.Restaurant
+                        }]
+                    }]
+                }]
+            }).then(function(dbOrders) {
                 res.json(dbOrders);
             });
         }
@@ -51,7 +73,7 @@ module.exports = function(app) {
 
     //Updating Record for filled orders. (Send filled: true)
     app.put("/api/orders/restaurants/:id", function(req, res) {
-            db.Dish.update({
+            db.Order.update({
             filled: req.body.filled,
             timeFilled: new Date()
         }, {
@@ -63,7 +85,7 @@ module.exports = function(app) {
 
     //General Order Updates 
     app.put("/api/orders/restaurants/:id", function(req, res) {
-            db.Dish.update({
+            db.Order.update({
             dishName: req.body.dishName,
             category: req.body.category,
             dishPrice: req.body.dishPrice,

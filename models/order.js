@@ -30,6 +30,10 @@ module.exports = function(sequelize, DataTypes) {
           type: DataTypes.BOOLEAN,
           defaultValue: false
       },
+      paid: {
+          type: DataTypes.BOOLEAN,
+          defaultValue: false       
+      },
       //part of a put method to indicate the time when the order has been filled
       timeFilled: {
           type: DataTypes.DATE,

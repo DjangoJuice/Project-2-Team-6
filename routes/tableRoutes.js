@@ -17,10 +17,24 @@ module.exports = function(app) {
         }
     });
 
+    app.get("/api/tables/customers/:customerId?", function (req, res) {
+        if (req.params.customerId) {
+            db.Table.findAll({
+                where: {CustomerId: req.params.customerId}
+            }).then(function(dbTables) {
+                res.json(dbTables);
+            });
+        }
+        else {
+            db.Table.findAll({}).then(function(dbTables) {
+                res.json(dbTables);
+            });
+        }
+    });
+
     app.post("/api/tables/", function(req, res) {
         db.Table.create({
             tableNum: req.body.tableNum,
-            section: req.body.section,
             RestaurantId: req.body.RestaurantId
         }).then(function(dbTables) {
             res.json(dbTables);
