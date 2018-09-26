@@ -32,8 +32,13 @@ module.exports = function(app) {
     res.sendFile(path.join(__dirname, "../public/example.html"));
   });
 
+  //add isAuthenticated to this path
+  app.get("/grams/customers/", function(req, res) {
+    res.sendFile(path.join(__dirname, "../public/customers.html"));
+  });
+
   //Homepage for Store Owners
-  app.get("/my-restaurants/", function(req, res) {
+  app.get("/grams/my-restaurants/", function(req, res) {
     res.sendFile(path.join(__dirname, "../public/my-restaurant.html"));
   });
 

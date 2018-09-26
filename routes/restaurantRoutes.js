@@ -21,8 +21,8 @@ module.exports = function(app) {
     db.Restaurant.create({
       restaurantName: req.body.restaurantName,
       restaurantAddress: req.body.restaurantAddress,
-      restaurantImg: req.body.restaurantImg,
-      restaurantDescription: req.body.TEXT,
+      restaurantImg: req.body.restaurantImage,
+      restaurantDescription: req.body.restaurantDescription,
       createdAt: new Date(),
       updatedAt: new Date()
     }).then(function(dbRestaurant) {
@@ -35,8 +35,8 @@ module.exports = function(app) {
     db.Restaurant.update({
       restaurantName: req.body.restaurantName,
       restaurantAddress: req.body.restaurantAddress,
-      restaurantImg: req.body.restaurantImg,
-      restaurantDescription: req.body.TEXT,
+      restaurantImg: req.body.restaurantImage,
+      restaurantDescription: req.body.restaurantDescription,
       updatedAt: new Date()
     },
     {
