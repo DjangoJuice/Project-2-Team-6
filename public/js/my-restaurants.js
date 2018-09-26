@@ -15,7 +15,7 @@ $(function () {
         for (var i = 0; i < data.length; i++) {
             if (!data[i].filled) {
                 $Order = $("<div>");
-                $Order.addClass("border border-dark mb-2 py-2 rounded");
+                $Order.addClass("border border-dark mb-2 py-2 rounded bg-white");
                 $Order.attr("id", "order-" + i);
 
                 $ul = $("<ul>");
@@ -286,16 +286,8 @@ $(function () {
                     location.reload();
                 }, 3000);
 
-
-            })
-        })
-
-
-
-
-
-
-
+            });
+        });
 
     });
 });
