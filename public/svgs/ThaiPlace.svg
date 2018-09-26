@@ -1,0 +1,1183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="674.05" height="625.179" xlink="http://www.w3.org/1999/xlink" style="position:relative;overflow:hidden;" viewBox="392.908 543.5 674.05 625.179">
+   <defs />
+   <g>
+      <g width="608.926" height="563.346" transform="scale(1,1) translate(424.408,575)">
+         <g transform="scale(1,1) translate(0,0)" fill="#000000" stroke="#000000" stroke-opacity="1">
+            <path d="M414.22,563.019 L0,563.019 L0,0 L608.926,0 L608.926,563.346 L331.316,563.346 L331.316,401.204 L0.592,401.204" fill="none" stroke-width="8.333" stroke-dasharray="none" />
+            <g>
+               <g stroke-dasharray="none">
+                  <path d="M405.887,554.686L422.553,554.686L422.553,571.352L405.887,571.352z" stroke-width="0" fill="none" />
+               </g>
+            </g>
+         </g>
+      </g>
+      <g width="82.886" height="49.8" transform="rotate(90,1013.823,858.739) scale(1,1) translate(972.38,833.839)">
+         <g width="82.886" height="49.8">
+            <g transform="scale(0.6586972322172293,0.714828804693235) translate(0,0)">
+               <g>
+                  <g width="122.833" height="14.667" transform="scale(1,1) translate(0.5,0)">
+                     <g id="frontdoor" stroke="#BFBFBF" opacity="1" stroke-width="0" stroke-dasharray="none" width="122.833" height="14.667" transform="scale(1,1) translate(0,0)" fill="lightgrey" fill-opacity="1" stroke-opacity="1">
+                        <rect width="122.833" height="14.667" />
+                     </g>
+                  </g>
+                  <g width="61.333" height="54.5" transform="scale(1,1) translate(0.5,14.667)">
+                     <g transform="scale(1,1) translate(0,0)" fill="#000000" stroke="#000000" stroke-opacity="1">
+                        <path d="M0,0 L0,54.5 L0,54.5 L2.111,54.355 L4.167,54.148 L6.172,53.883 L8.128,53.563 L10.038,53.192 L11.905,52.772 L13.731,52.306 L15.517,51.795 L17.265,51.242 L18.977,50.647 L20.653,50.013 L22.295,49.34 L23.904,48.63 L25.48,47.883 L27.025,47.1 L28.539,46.283 L30.022,45.431 L31.475,44.546 L32.899,43.627 L34.294,42.676 L35.659,41.692 L36.996,40.675 L38.305,39.627 L39.585,38.547 L40.836,37.434 L42.06,36.29 L43.255,35.114 L44.421,33.906 L45.559,32.666 L46.668,31.393 L47.747,30.087 L48.798,28.748 L49.818,27.375 L50.807,25.968 L51.766,24.526 L52.693,23.048 L53.588,21.534 L54.449,19.982 L55.276,18.392 L56.068,16.762 L56.823,15.091 L57.54,13.378 L58.218,11.619 L58.854,9.815 L59.447,7.961 L59.995,6.056 L60.494,4.097 L60.941,2.079 L61.333,0 L61.333,0" fill="none" stroke-width="1" stroke-dasharray="none" />
+                        <g>
+                           <g stroke-dasharray="none">
+                              <path d="M-1,-1L1,-1L1,1L-1,1z" stroke-width="0" fill="none" />
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+                  <g width="61.333" height="54.5" transform="scale(1,1) translate(62,14.667)">
+                     <g transform="scale(1,1) translate(0,0)" fill="#000000" stroke="#000000" stroke-opacity="1">
+                        <path d="M61.333,0 L61.333,54.5 L61.333,54.5 L59.223,54.354 L57.168,54.146 L55.164,53.88 L53.209,53.559 L51.299,53.187 L49.433,52.767 L47.608,52.3 L45.822,51.789 L44.075,51.235 L42.363,50.64 L40.687,50.005 L39.046,49.332 L37.437,48.621 L35.861,47.874 L34.316,47.091 L32.803,46.273 L31.32,45.422 L29.867,44.536 L28.443,43.617 L27.049,42.666 L25.683,41.681 L24.346,40.665 L23.038,39.617 L21.758,38.536 L20.506,37.424 L19.283,36.28 L18.088,35.104 L16.921,33.896 L15.783,32.655 L14.674,31.383 L13.595,30.077 L12.544,28.738 L11.524,27.365 L10.534,25.958 L9.575,24.517 L8.648,23.039 L7.753,21.525 L6.891,19.974 L6.064,18.385 L5.272,16.755 L4.516,15.085 L3.798,13.371 L3.12,11.614 L2.483,9.81 L1.889,7.957 L1.341,6.053 L0.842,4.095 L0.393,2.078 L0,0 L0,0" fill="none" stroke-width="1" stroke-dasharray="none" />
+                        <g>
+                           <g stroke-dasharray="none">
+                              <path d="M60.333,-1L62.333,-1L62.333,1L60.333,1z" stroke-width="0" fill="none" />
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+            </g>
+         </g>
+         <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" transform="scale(1,1) translate(0,0)" opacity="0">
+            <path fill="none" stroke-width="1" stroke-dasharray="none" d="M0,0" />
+         </g>
+         <g width="26.88262939453125" height="15.624999046325684" transform="rotate(180,54.884,-6) scale(1,1) translate(54.884,-6)" opacity="0">
+            <text width="26.88262939453125" height="15.624999046325684" transform="scale(1,1) translate(0,0)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="13.88888888888889" font-weight="normal" font-style="normal" fill="#000" opacity="1" x="0" text-anchor="start" y="12.5" textLength="26.88262939453125" style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">3' 4"</tspan></text>
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M24.095,-17.719 L24.095,-9.906 L16.283,-13.812 L24.095,-17.719 z" />
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M58.79,-17.719 L58.79,-9.906 L66.603,-13.812 L58.79,-17.719 z" />
+         </g>
+         <g width="26.88262939453125" height="15.624999046325684" transform="rotate(270,88.886,38.341) scale(1,1) translate(88.886,38.341)" opacity="0">
+            <text width="26.88262939453125" height="15.624999046325684" transform="scale(1,1) translate(0,0)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="13.88888888888889" font-weight="normal" font-style="normal" fill="#000" opacity="1" x="0" text-anchor="start" y="12.5" textLength="26.88262939453125" style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">2' 0"</tspan></text>
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M100.605,7.552 L92.792,7.552 L96.698,-0.26 L100.605,7.552 z" />
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M100.605,42.248 L92.792,42.248 L96.698,50.06 L100.605,42.248 z" />
+         </g>
+      </g>
+      <g width="58" height="58" transform="scale(1,1) translate(562.502,925.662)">
+         <g width="58" height="58">
+            <g transform="scale(0.9914533147089102,0.9887488043912852) translate(0,0)">
+               <g>
+                  <g width="56.5" height="43.993" transform="scale(1,1) translate(0.5,0.5)">
+                     <g transform="scale(1,1) translate(0,0)" fill="#000000" stroke="#000000" stroke-opacity="1">
+                        <path d="M56.5,43.993 L56.5,43.993 L56.392,41.736 L56.187,39.609 L55.897,37.594 L55.534,35.676 L55.106,33.845 L54.619,32.092 L54.079,30.41 L53.49,28.793 L52.855,27.236 L52.178,25.736 L51.461,24.29 L50.705,22.893 L49.914,21.545 L49.088,20.244 L48.228,18.986 L47.337,17.771 L46.414,16.598 L45.46,15.465 L44.477,14.371 L43.465,13.317 L42.424,12.3 L41.355,11.322 L40.258,10.38 L39.132,9.476 L37.979,8.608 L36.798,7.778 L35.59,6.985 L34.353,6.229 L33.088,5.511 L31.794,4.831 L30.471,4.189 L29.118,3.587 L27.734,3.026 L26.32,2.506 L24.873,2.029 L23.393,1.596 L21.879,1.21 L20.328,0.871 L18.739,0.583 L17.11,0.348 L15.439,0.17 L13.722,0.052 L11.956,0 L10.136,0.019 L8.258,0.115 L6.315,0.298 L4.299,0.578 L2.199,0.97 L0,1.493 L0,1.493 L0,43.326" fill="none" stroke-width="1" stroke-dasharray="none" />
+                        <g>
+                           <g stroke-dasharray="none">
+                              <path d="M55.5,42.993L57.5,42.993L57.5,44.993L55.5,44.993z" stroke-width="0" fill="none" />
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+                  <g width="56.833" height="14.167" transform="scale(1,1) translate(0.167,44.493)">
+                     <g id="privateroomdoor" stroke="#BFBFBF" opacity="1" stroke-width="0" stroke-dasharray="none" width="56.833" height="14.167" transform="scale(1,1) translate(0,0)" fill="lightgrey" fill-opacity="1" stroke-opacity="1">
+                        <rect width="56.833" height="14.167" />
+                     </g>
+                  </g>
+               </g>
+            </g>
+         </g>
+         <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" transform="scale(1,1) translate(0,0)" opacity="0">
+            <path fill="none" stroke-width="1" stroke-dasharray="none" d="M0,0" />
+         </g>
+         <g width="26.88262939453125" height="15.624999046325684" transform="scale(1,1) translate(15.559,-21.625)" opacity="0">
+            <text width="26.88262939453125" height="15.624999046325684" transform="scale(1,1) translate(0,0)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="13.88888888888889" font-weight="normal" font-style="normal" fill="#000" opacity="1" x="0" text-anchor="start" y="12.5" textLength="26.88262939453125" style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">2' 4"</tspan></text>
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M11.652,-17.719 L11.652,-9.906 L3.84,-13.812 L11.652,-17.719 z" />
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M46.348,-17.719 L46.348,-9.906 L54.16,-13.812 L46.348,-17.719 z" />
+         </g>
+         <g width="26.88262939453125" height="15.624999046325684" transform="rotate(270,64,42.441) scale(1,1) translate(64,42.441)" opacity="0">
+            <text width="26.88262939453125" height="15.624999046325684" transform="scale(1,1) translate(0,0)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="13.88888888888889" font-weight="normal" font-style="normal" fill="#000" opacity="1" x="0" text-anchor="start" y="12.5" textLength="26.88262939453125" style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">2' 4"</tspan></text>
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M75.719,11.652 L67.906,11.652 L71.812,3.84 L75.719,11.652 z" />
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M75.719,46.348 L67.906,46.348 L71.812,54.16 L75.719,46.348 z" />
+         </g>
+      </g>
+      <g width="75" height="13" transform="scale(1,1) translate(445.833,1131.519)">
+         <g width="75" height="13">
+            <g transform="scale(0.9740256844976793,0.9629635298478926) translate(0,0)">
+               <g>
+                  <g width="75" height="12.5" transform="scale(1,1) translate(0.5,0.5)">
+                     <g id="frontwindow1" stroke="#000000" opacity="1" stroke-width="1" stroke-dasharray="none" width="75" height="12.5" transform="scale(1,1) translate(0,0)" fill="lightgrey" fill-opacity="1" stroke-opacity="1">
+                        <rect width="75" height="12.5" />
+                     </g>
+                  </g>
+                  <g width="75" height="0" transform="scale(1,1) translate(0.5,6.667)">
+                     <g transform="scale(1,1) translate(0,0)" fill="#000000" stroke="#000000" stroke-opacity="1">
+                        <path d="M0,0 L75,0" fill="none" stroke-width="1" stroke-dasharray="none" />
+                        <g>
+                           <g stroke-dasharray="none">
+                              <path d="M-1,-1L1,-1L1,1L-1,1z" stroke-width="0" fill="none" />
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+            </g>
+         </g>
+         <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" transform="scale(1,1) translate(0,0)" opacity="0">
+            <path fill="none" stroke-width="1" stroke-dasharray="none" d="M0,0" />
+         </g>
+         <g width="26.88262939453125" height="15.624999046325684" transform="scale(1,1) translate(24.059,-21.625)" opacity="0">
+            <text width="26.88262939453125" height="15.624999046325684" transform="scale(1,1) translate(0,0)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="13.88888888888889" font-weight="normal" font-style="normal" fill="#000" opacity="1" x="0" text-anchor="start" y="12.5" textLength="26.88262939453125" style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">3' 0"</tspan></text>
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M20.152,-17.719 L20.152,-9.906 L12.34,-13.812 L20.152,-17.719 z" />
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M54.848,-17.719 L54.848,-9.906 L62.66,-13.812 L54.848,-17.719 z" />
+         </g>
+         <g width="26.88262939453125" height="15.624999046325684" transform="rotate(270,81,19.941) scale(1,1) translate(81,19.941)" opacity="0">
+            <text width="26.88262939453125" height="15.624999046325684" transform="scale(1,1) translate(0,0)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="13.88888888888889" font-weight="normal" font-style="normal" fill="#000" opacity="1" x="0" text-anchor="start" y="12.5" textLength="26.88262939453125" style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">0' 6"</tspan></text>
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M92.719,-10.848 L84.906,-10.848 L88.812,-18.66 L92.719,-10.848 z" />
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M92.719,23.848 L84.906,23.848 L88.812,31.66 L92.719,23.848 z" />
+         </g>
+      </g>
+      <g width="75" height="13" transform="scale(1,1) translate(562.5,1131.519)">
+         <g width="75" height="13">
+            <g transform="scale(0.9740256844976793,0.9629635298478926) translate(0,0)">
+               <g>
+                  <g width="75" height="12.5" transform="scale(1,1) translate(0.5,0.5)">
+                     <g id="frontwindow2" stroke="#000000" opacity="1" stroke-width="1" stroke-dasharray="none" width="75" height="12.5" transform="scale(1,1) translate(0,0)" fill="lightgrey" fill-opacity="1" stroke-opacity="1">
+                        <rect width="75" height="12.5" />
+                     </g>
+                  </g>
+                  <g width="75" height="0" transform="scale(1,1) translate(0.5,6.667)">
+                     <g transform="scale(1,1) translate(0,0)" fill="#000000" stroke="#000000" stroke-opacity="1">
+                        <path d="M0,0 L75,0" fill="none" stroke-width="1" stroke-dasharray="none" />
+                        <g>
+                           <g stroke-dasharray="none">
+                              <path d="M-1,-1L1,-1L1,1L-1,1z" stroke-width="0" fill="none" />
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+            </g>
+         </g>
+         <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" transform="scale(1,1) translate(0,0)" opacity="0">
+            <path fill="none" stroke-width="1" stroke-dasharray="none" d="M0,0" />
+         </g>
+         <g width="26.88262939453125" height="15.624999046325684" transform="scale(1,1) translate(24.059,-21.625)" opacity="0">
+            <text width="26.88262939453125" height="15.624999046325684" transform="scale(1,1) translate(0,0)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="13.88888888888889" font-weight="normal" font-style="normal" fill="#000" opacity="1" x="0" text-anchor="start" y="12.5" textLength="26.88262939453125" style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">3' 0"</tspan></text>
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M20.152,-17.719 L20.152,-9.906 L12.34,-13.812 L20.152,-17.719 z" />
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M54.848,-17.719 L54.848,-9.906 L62.66,-13.812 L54.848,-17.719 z" />
+         </g>
+         <g width="26.88262939453125" height="15.624999046325684" transform="rotate(270,81,19.941) scale(1,1) translate(81,19.941)" opacity="0">
+            <text width="26.88262939453125" height="15.624999046325684" transform="scale(1,1) translate(0,0)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="13.88888888888889" font-weight="normal" font-style="normal" fill="#000" opacity="1" x="0" text-anchor="start" y="12.5" textLength="26.88262939453125" style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">0' 6"</tspan></text>
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M92.719,-10.848 L84.906,-10.848 L88.812,-18.66 L92.719,-10.848 z" />
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M92.719,23.848 L84.906,23.848 L88.812,31.66 L92.719,23.848 z" />
+         </g>
+      </g>
+      <g width="75" height="13" transform="scale(1,1) translate(679.167,1131.519)">
+         <g width="75" height="13">
+            <g transform="scale(0.9740256844976793,0.9629635298478926) translate(0,0)">
+               <g>
+                  <g width="75" height="12.5" transform="scale(1,1) translate(0.5,0.5)">
+                     <g id="frontwindow3" stroke="#000000" opacity="1" stroke-width="1" stroke-dasharray="none" width="75" height="12.5" transform="scale(1,1) translate(0,0)" fill="lightgrey" fill-opacity="1" stroke-opacity="1">
+                        <rect width="75" height="12.5" />
+                     </g>
+                  </g>
+                  <g width="75" height="0" transform="scale(1,1) translate(0.5,6.667)">
+                     <g transform="scale(1,1) translate(0,0)" fill="#000000" stroke="#000000" stroke-opacity="1">
+                        <path d="M0,0 L75,0" fill="none" stroke-width="1" stroke-dasharray="none" />
+                        <g>
+                           <g stroke-dasharray="none">
+                              <path d="M-1,-1L1,-1L1,1L-1,1z" stroke-width="0" fill="none" />
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+            </g>
+         </g>
+         <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" transform="scale(1,1) translate(0,0)" opacity="0">
+            <path fill="none" stroke-width="1" stroke-dasharray="none" d="M0,0" />
+         </g>
+         <g width="26.88262939453125" height="15.624999046325684" transform="scale(1,1) translate(24.059,-21.625)" opacity="0">
+            <text width="26.88262939453125" height="15.624999046325684" transform="scale(1,1) translate(0,0)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="13.88888888888889" font-weight="normal" font-style="normal" fill="#000" opacity="1" x="0" text-anchor="start" y="12.5" textLength="26.88262939453125" style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">3' 0"</tspan></text>
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M20.152,-17.719 L20.152,-9.906 L12.34,-13.812 L20.152,-17.719 z" />
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M54.848,-17.719 L54.848,-9.906 L62.66,-13.812 L54.848,-17.719 z" />
+         </g>
+         <g width="26.88262939453125" height="15.624999046325684" transform="rotate(270,81,19.941) scale(1,1) translate(81,19.941)" opacity="0">
+            <text width="26.88262939453125" height="15.624999046325684" transform="scale(1,1) translate(0,0)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="13.88888888888889" font-weight="normal" font-style="normal" fill="#000" opacity="1" x="0" text-anchor="start" y="12.5" textLength="26.88262939453125" style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">0' 6"</tspan></text>
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M92.719,-10.848 L84.906,-10.848 L88.812,-18.66 L92.719,-10.848 z" />
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M92.719,23.848 L84.906,23.848 L88.812,31.66 L92.719,23.848 z" />
+         </g>
+      </g>
+      <g width="0" height="238.346" transform="scale(1,1) translate(625,575)">
+         <g transform="scale(1,1) translate(0,0)" fill="#000000" stroke="#000000" stroke-opacity="1">
+            <path d="M0,0 L0,238.346" fill="none" stroke-width="8.333" stroke-dasharray="none" />
+            <g>
+               <g stroke-dasharray="none">
+                  <path d="M-8.333,-8.333L8.333,-8.333L8.333,8.333L-8.333,8.333z" stroke-width="0" fill="none" />
+               </g>
+            </g>
+         </g>
+      </g>
+      <g width="133.926" height="0" transform="scale(1,1) translate(424.408,788.346)">
+         <g transform="scale(1,1) translate(0,0)" fill="#000000" stroke="#000000" stroke-opacity="1">
+            <path d="M0,0 L133.926,0" fill="none" stroke-width="8.333" stroke-dasharray="none" />
+            <g>
+               <g stroke-dasharray="none">
+                  <path d="M-8.333,-8.333L8.333,-8.333L8.333,8.333L-8.333,8.333z" stroke-width="0" fill="none" />
+               </g>
+            </g>
+         </g>
+      </g>
+      <g width="150.26" height="13" transform="rotate(90,1033.333,1021.679) scale(1,1) translate(958.203,1015.179)">
+         <g width="150.26" height="13">
+            <g transform="scale(1.9514334023640585,0.9629635298478926) translate(0,0)">
+               <g>
+                  <g width="75" height="12.5" transform="scale(1,1) translate(0.5,0.5)">
+                     <g id="bottomsidewindow" stroke="#000000" opacity="1" stroke-width="1" stroke-dasharray="none" width="75" height="12.5" transform="scale(1,1) translate(0,0)" fill="lightgrey" fill-opacity="1" stroke-opacity="1">
+                        <rect width="75" height="12.5" />
+                     </g>
+                  </g>
+                  <g width="75" height="0" transform="scale(1,1) translate(0.5,6.667)">
+                     <g transform="scale(1,1) translate(0,0)" fill="#000000" stroke="#000000" stroke-opacity="1">
+                        <path d="M0,0 L75,0" fill="none" stroke-width="1" stroke-dasharray="none" />
+                        <g>
+                           <g stroke-dasharray="none">
+                              <path d="M-1,-1L1,-1L1,1L-1,1z" stroke-width="0" fill="none" />
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+            </g>
+         </g>
+         <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" transform="scale(1,1) translate(0,0)" opacity="0">
+            <path fill="none" stroke-width="1" stroke-dasharray="none" d="M0,0" />
+         </g>
+         <g width="26.88262939453125" height="15.624999046325684" transform="rotate(180,88.572,-6) scale(1,1) translate(88.572,-6)" opacity="0">
+            <text width="26.88262939453125" height="15.624999046325684" transform="scale(1,1) translate(0,0)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="13.88888888888889" font-weight="normal" font-style="normal" fill="#000" opacity="1" x="0" text-anchor="start" y="12.5" textLength="26.88262939453125" style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">6' 0"</tspan></text>
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M57.783,-17.719 L57.783,-9.906 L49.97,-13.812 L57.783,-17.719 z" />
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M92.478,-17.719 L92.478,-9.906 L100.29,-13.812 L92.478,-17.719 z" />
+         </g>
+         <g width="26.88262939453125" height="15.624999046325684" transform="rotate(270,156.26,19.941) scale(1,1) translate(156.26,19.941)" opacity="0">
+            <text width="26.88262939453125" height="15.624999046325684" transform="scale(1,1) translate(0,0)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="13.88888888888889" font-weight="normal" font-style="normal" fill="#000" opacity="1" x="0" text-anchor="start" y="12.5" textLength="26.88262939453125" style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">0' 6"</tspan></text>
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M167.979,-10.848 L160.167,-10.848 L164.073,-18.66 L167.979,-10.848 z" />
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M167.979,23.848 L160.167,23.848 L164.073,31.66 L167.979,23.848 z" />
+         </g>
+      </g>
+      <g width="149.999" height="13" transform="rotate(90,1033.333,680.012) scale(1,1) translate(958.334,673.512)">
+         <g width="149.999" height="13">
+            <g transform="scale(1.9480337676659703,0.9629635298478926) translate(0,0)">
+               <g>
+                  <g width="75" height="12.5" transform="scale(1,1) translate(0.5,0.5)">
+                     <g id="topsidewindow" stroke="#000000" opacity="1" stroke-width="1" stroke-dasharray="none" width="75" height="12.5" transform="scale(1,1) translate(0,0)" fill="lightgrey" fill-opacity="1" stroke-opacity="1">
+                        <rect width="75" height="12.5" />
+                     </g>
+                  </g>
+                  <g width="75" height="0" transform="scale(1,1) translate(0.5,6.667)">
+                     <g transform="scale(1,1) translate(0,0)" fill="#000000" stroke="#000000" stroke-opacity="1">
+                        <path d="M0,0 L75,0" fill="none" stroke-width="1" stroke-dasharray="none" />
+                        <g>
+                           <g stroke-dasharray="none">
+                              <path d="M-1,-1L1,-1L1,1L-1,1z" stroke-width="0" fill="none" />
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+            </g>
+         </g>
+         <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" transform="scale(1,1) translate(0,0)" opacity="0">
+            <path fill="none" stroke-width="1" stroke-dasharray="none" d="M0,0" />
+         </g>
+         <g width="26.88262939453125" height="15.624999046325684" transform="rotate(180,88.441,-6) scale(1,1) translate(88.441,-6)" opacity="0">
+            <text width="26.88262939453125" height="15.624999046325684" transform="scale(1,1) translate(0,0)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="13.88888888888889" font-weight="normal" font-style="normal" fill="#000" opacity="1" x="0" text-anchor="start" y="12.5" textLength="26.88262939453125" style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">6' 0"</tspan></text>
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M57.652,-17.719 L57.652,-9.906 L49.839,-13.812 L57.652,-17.719 z" />
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M92.347,-17.719 L92.347,-9.906 L100.159,-13.812 L92.347,-17.719 z" />
+         </g>
+         <g width="26.88262939453125" height="15.624999046325684" transform="rotate(270,155.999,19.941) scale(1,1) translate(155.999,19.941)" opacity="0">
+            <text width="26.88262939453125" height="15.624999046325684" transform="scale(1,1) translate(0,0)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="13.88888888888889" font-weight="normal" font-style="normal" fill="#000" opacity="1" x="0" text-anchor="start" y="12.5" textLength="26.88262939453125" style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">0' 6"</tspan></text>
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M167.717,-10.848 L159.905,-10.848 L163.811,-18.66 L167.717,-10.848 z" />
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M167.717,23.848 L159.905,23.848 L163.811,31.66 L167.717,23.848 z" />
+         </g>
+      </g>
+      <g width="166.645" height="166.664" transform="scale(1,1) translate(441.427,596.93)">
+         <g width="166.645" height="166.664" transform="scale(0.8695506220448054,0.8695506220448054) translate(0,0)">
+            <g width="30.571" height="29.391" transform="scale(1,1) translate(133.569,30.263)">
+               <g transform="rotate(224.7,15.285,14.695) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                  <path d="M29.124,0 L1.903,0 L1.61,0 L1.171,0.297 L0.878,0.297 L0.439,0.742 L0.293,0.891 L0,1.336 L0,1.782 L0,2.227 L2.781,27.763 L2.781,28.505 L3.073,28.654 L3.22,29.099 L3.512,29.396 L3.952,29.544 L4.098,29.841 L4.537,30.138 L4.83,30.138 L26.636,30.138 L27.075,30.138 L27.514,29.841 L27.661,29.544 L27.807,29.396 L28.1,29.099 L28.246,28.654 L28.539,28.505 L28.539,28.06 L31.319,2.227 L31.319,1.782 L31.319,1.336 L30.88,0.891 L30.734,0.742 L30.441,0.297 L30.002,0.297 L29.563,0 L29.124,0 z" stroke-width="0.249" stroke-dasharray="none" />
+               </g>
+            </g>
+            <g width="35.562" height="9.589" transform="scale(1,1) translate(143.052,28.644)">
+               <g transform="rotate(224.8,17.781,4.795) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                  <path d="M32.665,8.839 L31.644,8.839 L30.769,8.839 L29.894,9.138 L29.019,9.138 L28.144,9.288 L27.269,9.288 L26.249,9.288 L25.52,9.588 L24.499,9.588 L23.624,9.588 L22.749,9.737 L21.874,10.037 L20.999,10.037 L19.978,10.037 L19.395,10.337 L18.52,10.337 L17.353,10.337 L16.478,10.037 L15.749,10.037 L14.437,10.037 L13.708,9.737 L12.687,9.588 L11.812,9.588 L10.937,9.588 L9.916,9.288 L9.041,9.288 L8.166,9.288 L7.145,9.138 L6.271,9.138 L5.104,8.839 L4.229,8.839 L3.354,8.839 L2.771,8.839 L1.896,8.689 L1.458,8.239 L0.875,7.79 L0.437,7.041 L0.146,6.442 L0,5.543 L0,4.794 L0,4.045 L0,3.146 L0.146,2.547 L0.437,1.798 L1.021,1.348 L1.458,0.749 L2.187,0.449 L2.771,0 L3.354,0 L4.521,0 L5.396,0 L6.271,0 L7.145,0.3 L8.166,0.449 L9.041,0.449 L9.916,0.749 L10.937,0.899 L11.812,0.899 L12.687,1.198 L13.562,1.348 L14.437,1.348 L15.312,1.348 L16.332,1.648 L17.207,1.648 L18.082,1.648 L19.103,1.648 L19.978,1.648 L20.853,1.348 L21.728,1.348 L22.749,1.348 L23.624,1.198 L24.499,0.899 L25.374,0.899 L26.249,0.749 L27.124,0.449 L27.999,0.449 L29.019,0.3 L29.894,0 L30.769,0 L31.644,0 L32.665,0 L33.248,0 L33.977,0.449 L34.561,0.749 L34.998,1.348 L35.727,1.798 L35.873,2.547 L36.311,3.146 L36.311,4.045 L36.311,4.794 L36.311,5.543 L35.873,6.442 L35.727,7.041 L34.998,7.79 L34.561,8.239 L33.977,8.689 L33.248,8.839 L32.665,8.839 z" stroke-width="0.249" stroke-dasharray="none" />
+               </g>
+            </g>
+            <g width="30.696" height="29.391" transform="scale(1,1) translate(154.032,80.95)">
+               <g transform="rotate(270,15.348,14.695) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                  <path d="M29.24,0 L1.91,0 L1.616,0 L1.175,0.297 L0.882,0.297 L0.441,0.742 L0.294,0.891 L0,1.336 L0,1.782 L0,2.227 L2.792,27.763 L2.792,28.505 L3.086,28.654 L3.233,29.099 L3.526,29.396 L3.967,29.544 L4.114,29.841 L4.555,30.138 L4.849,30.138 L26.742,30.138 L27.183,30.138 L27.624,29.841 L27.771,29.544 L27.918,29.396 L28.212,29.099 L28.359,28.654 L28.652,28.505 L28.652,28.06 L31.444,2.227 L31.444,1.782 L31.444,1.336 L31.003,0.891 L30.857,0.742 L30.563,0.297 L30.122,0.297 L29.681,0 L29.24,0 z" stroke-width="0.249" stroke-dasharray="none" />
+               </g>
+            </g>
+            <g width="35.687" height="9.589" transform="scale(1,1) translate(168.257,91.162)">
+               <g transform="rotate(269.6,17.843,4.795) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                  <path d="M32.777,8.839 L31.753,8.839 L30.875,8.839 L29.997,9.138 L29.119,9.138 L28.241,9.288 L27.363,9.288 L26.339,9.288 L25.607,9.588 L24.583,9.588 L23.705,9.588 L22.827,9.737 L21.949,10.037 L21.071,10.037 L20.047,10.037 L19.461,10.337 L18.584,10.337 L17.413,10.337 L16.535,10.037 L15.803,10.037 L14.486,10.037 L13.755,9.737 L12.73,9.588 L11.852,9.588 L10.975,9.588 L9.95,9.288 L9.072,9.288 L8.194,9.288 L7.17,9.138 L6.292,9.138 L5.121,8.839 L4.243,8.839 L3.366,8.839 L2.78,8.839 L1.902,8.689 L1.463,8.239 L0.878,7.79 L0.439,7.041 L0.146,6.442 L0,5.543 L0,4.794 L0,4.045 L0,3.146 L0.146,2.547 L0.439,1.798 L1.024,1.348 L1.463,0.749 L2.195,0.449 L2.78,0 L3.366,0 L4.536,0 L5.414,0 L6.292,0 L7.17,0.3 L8.194,0.449 L9.072,0.449 L9.95,0.749 L10.975,0.899 L11.852,0.899 L12.73,1.198 L13.608,1.348 L14.486,1.348 L15.364,1.348 L16.389,1.648 L17.267,1.648 L18.145,1.648 L19.169,1.648 L20.047,1.648 L20.925,1.348 L21.803,1.348 L22.827,1.348 L23.705,1.198 L24.583,0.899 L25.461,0.899 L26.339,0.749 L27.217,0.449 L28.095,0.449 L29.119,0.3 L29.997,0 L30.875,0 L31.753,0 L32.777,0 L33.363,0 L34.094,0.449 L34.679,0.749 L35.118,1.348 L35.85,1.798 L35.996,2.547 L36.435,3.146 L36.435,4.045 L36.435,4.794 L36.435,5.543 L35.996,6.442 L35.85,7.041 L35.118,7.79 L34.679,8.239 L34.094,8.689 L33.363,8.839 L32.777,8.839 z" stroke-width="0.249" stroke-dasharray="none" />
+               </g>
+            </g>
+            <g width="30.696" height="29.266" transform="scale(1,1) translate(134.317,131.637)">
+               <g transform="rotate(314.7,15.348,14.633) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                  <path d="M29.24,0 L1.91,0 L1.616,0 L1.175,0.296 L0.882,0.296 L0.441,0.739 L0.294,0.887 L0,1.331 L0,1.774 L0,2.218 L2.792,27.648 L2.792,28.387 L3.086,28.535 L3.233,28.979 L3.526,29.274 L3.967,29.422 L4.114,29.718 L4.555,30.014 L4.849,30.014 L26.742,30.014 L27.183,30.014 L27.624,29.718 L27.771,29.422 L27.918,29.274 L28.212,28.979 L28.359,28.535 L28.652,28.387 L28.652,27.944 L31.444,2.218 L31.444,1.774 L31.444,1.331 L31.003,0.887 L30.857,0.739 L30.563,0.296 L30.122,0.296 L29.681,0 L29.24,0 z" stroke-width="0.249" stroke-dasharray="none" />
+               </g>
+            </g>
+            <g width="35.687" height="9.589" transform="scale(1,1) translate(143.426,153.431)">
+               <g transform="rotate(314.5,17.843,4.795) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                  <path d="M32.777,8.839 L31.753,8.839 L30.875,8.839 L29.997,9.138 L29.119,9.138 L28.241,9.288 L27.363,9.288 L26.339,9.288 L25.607,9.588 L24.583,9.588 L23.705,9.588 L22.827,9.737 L21.949,10.037 L21.071,10.037 L20.047,10.037 L19.461,10.337 L18.584,10.337 L17.413,10.337 L16.535,10.037 L15.803,10.037 L14.486,10.037 L13.755,9.737 L12.73,9.588 L11.852,9.588 L10.975,9.588 L9.95,9.288 L9.072,9.288 L8.194,9.288 L7.17,9.138 L6.292,9.138 L5.121,8.839 L4.243,8.839 L3.366,8.839 L2.78,8.839 L1.902,8.689 L1.463,8.239 L0.878,7.79 L0.439,7.041 L0.146,6.442 L0,5.543 L0,4.794 L0,4.045 L0,3.146 L0.146,2.547 L0.439,1.798 L1.024,1.348 L1.463,0.749 L2.195,0.449 L2.78,0 L3.366,0 L4.536,0 L5.414,0 L6.292,0 L7.17,0.3 L8.194,0.449 L9.072,0.449 L9.95,0.749 L10.975,0.899 L11.852,0.899 L12.73,1.198 L13.608,1.348 L14.486,1.348 L15.364,1.348 L16.389,1.648 L17.267,1.648 L18.145,1.648 L19.169,1.648 L20.047,1.648 L20.925,1.348 L21.803,1.348 L22.827,1.348 L23.705,1.198 L24.583,0.899 L25.461,0.899 L26.339,0.749 L27.217,0.449 L28.095,0.449 L29.119,0.3 L29.997,0 L30.875,0 L31.753,0 L32.777,0 L33.363,0 L34.094,0.449 L34.679,0.749 L35.118,1.348 L35.85,1.798 L35.996,2.547 L36.435,3.146 L36.435,4.045 L36.435,4.794 L36.435,5.543 L35.996,6.442 L35.85,7.041 L35.118,7.79 L34.679,8.239 L34.094,8.689 L33.363,8.839 L32.777,8.839 z" stroke-width="0.249" stroke-dasharray="none" />
+               </g>
+            </g>
+            <g width="30.571" height="29.391" transform="scale(1,1) translate(81.411,154.676)">
+               <g transform="scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                  <path d="M29.124,0 L1.903,0 L1.61,0 L1.171,0.297 L0.878,0.297 L0.439,0.742 L0.293,0.891 L0,1.336 L0,1.782 L0,2.227 L2.781,27.763 L2.781,28.505 L3.073,28.654 L3.22,29.099 L3.512,29.396 L3.952,29.544 L4.098,29.841 L4.537,30.138 L4.83,30.138 L26.636,30.138 L27.075,30.138 L27.514,29.841 L27.661,29.544 L27.807,29.396 L28.1,29.099 L28.246,28.654 L28.539,28.505 L28.539,28.06 L31.319,2.227 L31.319,1.782 L31.319,1.336 L30.88,0.891 L30.734,0.742 L30.441,0.297 L30.002,0.297 L29.563,0 L29.124,0 z" stroke-width="0.249" stroke-dasharray="none" />
+               </g>
+            </g>
+            <g width="35.562" height="9.589" transform="scale(1,1) translate(78.666,181.327)">
+               <g transform="rotate(359.6,17.781,4.795) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                  <path d="M32.665,8.839 L31.644,8.839 L30.769,8.839 L29.894,9.138 L29.019,9.138 L28.144,9.288 L27.269,9.288 L26.249,9.288 L25.52,9.588 L24.499,9.588 L23.624,9.588 L22.749,9.737 L21.874,10.037 L20.999,10.037 L19.978,10.037 L19.395,10.337 L18.52,10.337 L17.353,10.337 L16.478,10.037 L15.749,10.037 L14.437,10.037 L13.708,9.737 L12.687,9.588 L11.812,9.588 L10.937,9.588 L9.916,9.288 L9.041,9.288 L8.166,9.288 L7.145,9.138 L6.271,9.138 L5.104,8.839 L4.229,8.839 L3.354,8.839 L2.771,8.839 L1.896,8.689 L1.458,8.239 L0.875,7.79 L0.437,7.041 L0.146,6.442 L0,5.543 L0,4.794 L0,4.045 L0,3.146 L0.146,2.547 L0.437,1.798 L1.021,1.348 L1.458,0.749 L2.187,0.449 L2.771,0 L3.354,0 L4.521,0 L5.396,0 L6.271,0 L7.145,0.3 L8.166,0.449 L9.041,0.449 L9.916,0.749 L10.937,0.899 L11.812,0.899 L12.687,1.198 L13.562,1.348 L14.437,1.348 L15.312,1.348 L16.332,1.648 L17.207,1.648 L18.082,1.648 L19.103,1.648 L19.978,1.648 L20.853,1.348 L21.728,1.348 L22.749,1.348 L23.624,1.198 L24.499,0.899 L25.374,0.899 L26.249,0.749 L27.124,0.449 L27.999,0.449 L29.019,0.3 L29.894,0 L30.769,0 L31.644,0 L32.665,0 L33.248,0 L33.977,0.449 L34.561,0.749 L34.998,1.348 L35.727,1.798 L35.873,2.547 L36.311,3.146 L36.311,4.045 L36.311,4.794 L36.311,5.543 L35.873,6.442 L35.727,7.041 L34.998,7.79 L34.561,8.239 L33.977,8.689 L33.248,8.839 L32.665,8.839 z" stroke-width="0.249" stroke-dasharray="none" />
+               </g>
+            </g>
+            <g width="30.696" height="29.266" transform="scale(1,1) translate(27.007,132.508)">
+               <g transform="rotate(44.6,15.348,14.633) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                  <path d="M29.24,0 L1.91,0 L1.616,0 L1.175,0.296 L0.882,0.296 L0.441,0.739 L0.294,0.887 L0,1.331 L0,1.774 L0,2.218 L2.792,27.648 L2.792,28.387 L3.086,28.535 L3.233,28.979 L3.526,29.274 L3.967,29.422 L4.114,29.718 L4.555,30.014 L4.849,30.014 L26.742,30.014 L27.183,30.014 L27.624,29.718 L27.771,29.422 L27.918,29.274 L28.212,28.979 L28.359,28.535 L28.652,28.387 L28.652,27.944 L31.444,2.218 L31.444,1.774 L31.444,1.331 L31.003,0.887 L30.857,0.739 L30.563,0.296 L30.122,0.296 L29.681,0 L29.24,0 z" stroke-width="0.249" stroke-dasharray="none" />
+               </g>
+            </g>
+            <g width="35.687" height="9.589" transform="scale(1,1) translate(12.658,153.929)">
+               <g transform="rotate(44.4,17.843,4.795) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                  <path d="M32.777,8.839 L31.753,8.839 L30.875,8.839 L29.997,9.138 L29.119,9.138 L28.241,9.288 L27.363,9.288 L26.339,9.288 L25.607,9.588 L24.583,9.588 L23.705,9.588 L22.827,9.737 L21.949,10.037 L21.071,10.037 L20.047,10.037 L19.461,10.337 L18.584,10.337 L17.413,10.337 L16.535,10.037 L15.803,10.037 L14.486,10.037 L13.755,9.737 L12.73,9.588 L11.852,9.588 L10.975,9.588 L9.95,9.288 L9.072,9.288 L8.194,9.288 L7.17,9.138 L6.292,9.138 L5.121,8.839 L4.243,8.839 L3.366,8.839 L2.78,8.839 L1.902,8.689 L1.463,8.239 L0.878,7.79 L0.439,7.041 L0.146,6.442 L0,5.543 L0,4.794 L0,4.045 L0,3.146 L0.146,2.547 L0.439,1.798 L1.024,1.348 L1.463,0.749 L2.195,0.449 L2.78,0 L3.366,0 L4.536,0 L5.414,0 L6.292,0 L7.17,0.3 L8.194,0.449 L9.072,0.449 L9.95,0.749 L10.975,0.899 L11.852,0.899 L12.73,1.198 L13.608,1.348 L14.486,1.348 L15.364,1.348 L16.389,1.648 L17.267,1.648 L18.145,1.648 L19.169,1.648 L20.047,1.648 L20.925,1.348 L21.803,1.348 L22.827,1.348 L23.705,1.198 L24.583,0.899 L25.461,0.899 L26.339,0.749 L27.217,0.449 L28.095,0.449 L29.119,0.3 L29.997,0 L30.875,0 L31.753,0 L32.777,0 L33.363,0 L34.094,0.449 L34.679,0.749 L35.118,1.348 L35.85,1.798 L35.996,2.547 L36.435,3.146 L36.435,4.045 L36.435,4.794 L36.435,5.543 L35.996,6.442 L35.85,7.041 L35.118,7.79 L34.679,8.239 L34.094,8.689 L33.363,8.839 L32.777,8.839 z" stroke-width="0.249" stroke-dasharray="none" />
+               </g>
+            </g>
+            <g width="30.696" height="29.391" transform="scale(1,1) translate(6.918,82.195)">
+               <g transform="rotate(90,15.348,14.695) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                  <path d="M29.24,0 L1.91,0 L1.616,0 L1.175,0.297 L0.882,0.297 L0.441,0.742 L0.294,0.891 L0,1.336 L0,1.782 L0,2.227 L2.792,27.763 L2.792,28.505 L3.086,28.654 L3.233,29.099 L3.526,29.396 L3.967,29.544 L4.114,29.841 L4.555,30.138 L4.849,30.138 L26.742,30.138 L27.183,30.138 L27.624,29.841 L27.771,29.544 L27.918,29.396 L28.212,29.099 L28.359,28.654 L28.652,28.505 L28.652,28.06 L31.444,2.227 L31.444,1.782 L31.444,1.336 L31.003,0.891 L30.857,0.742 L30.563,0.297 L30.122,0.297 L29.681,0 L29.24,0 z" stroke-width="0.249" stroke-dasharray="none" />
+               </g>
+            </g>
+            <g width="35.687" height="9.589" transform="scale(1,1) translate(-12.298,91.909)">
+               <g transform="rotate(89.5,17.843,4.795) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                  <path d="M32.777,8.839 L31.753,8.839 L30.875,8.839 L29.997,9.138 L29.119,9.138 L28.241,9.288 L27.363,9.288 L26.339,9.288 L25.607,9.588 L24.583,9.588 L23.705,9.588 L22.827,9.737 L21.949,10.037 L21.071,10.037 L20.047,10.037 L19.461,10.337 L18.584,10.337 L17.413,10.337 L16.535,10.037 L15.803,10.037 L14.486,10.037 L13.755,9.737 L12.73,9.588 L11.852,9.588 L10.975,9.588 L9.95,9.288 L9.072,9.288 L8.194,9.288 L7.17,9.138 L6.292,9.138 L5.121,8.839 L4.243,8.839 L3.366,8.839 L2.78,8.839 L1.902,8.689 L1.463,8.239 L0.878,7.79 L0.439,7.041 L0.146,6.442 L0,5.543 L0,4.794 L0,4.045 L0,3.146 L0.146,2.547 L0.439,1.798 L1.024,1.348 L1.463,0.749 L2.195,0.449 L2.78,0 L3.366,0 L4.536,0 L5.414,0 L6.292,0 L7.17,0.3 L8.194,0.449 L9.072,0.449 L9.95,0.749 L10.975,0.899 L11.852,0.899 L12.73,1.198 L13.608,1.348 L14.486,1.348 L15.364,1.348 L16.389,1.648 L17.267,1.648 L18.145,1.648 L19.169,1.648 L20.047,1.648 L20.925,1.348 L21.803,1.348 L22.827,1.348 L23.705,1.198 L24.583,0.899 L25.461,0.899 L26.339,0.749 L27.217,0.449 L28.095,0.449 L29.119,0.3 L29.997,0 L30.875,0 L31.753,0 L32.777,0 L33.363,0 L34.094,0.449 L34.679,0.749 L35.118,1.348 L35.85,1.798 L35.996,2.547 L36.435,3.146 L36.435,4.045 L36.435,4.794 L36.435,5.543 L35.996,6.442 L35.85,7.041 L35.118,7.79 L34.679,8.239 L34.094,8.689 L33.363,8.839 L32.777,8.839 z" stroke-width="0.249" stroke-dasharray="none" />
+               </g>
+            </g>
+            <g width="30.571" height="29.391" transform="scale(1,1) translate(26.259,31.259)">
+               <g transform="rotate(135.3,15.285,14.695) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                  <path d="M29.124,0 L1.903,0 L1.61,0 L1.171,0.297 L0.878,0.297 L0.439,0.742 L0.293,0.891 L0,1.336 L0,1.782 L0,2.227 L2.781,27.763 L2.781,28.505 L3.073,28.654 L3.22,29.099 L3.512,29.396 L3.952,29.544 L4.098,29.841 L4.537,30.138 L4.83,30.138 L26.636,30.138 L27.075,30.138 L27.514,29.841 L27.661,29.544 L27.807,29.396 L28.1,29.099 L28.246,28.654 L28.539,28.505 L28.539,28.06 L31.319,2.227 L31.319,1.782 L31.319,1.336 L30.88,0.891 L30.734,0.742 L30.441,0.297 L30.002,0.297 L29.563,0 L29.124,0 z" stroke-width="0.249" stroke-dasharray="none" />
+               </g>
+            </g>
+            <g width="35.562" height="9.589" transform="scale(1,1) translate(12.034,29.266)">
+               <g transform="rotate(134.4,17.781,4.795) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                  <path d="M32.665,8.839 L31.644,8.839 L30.769,8.839 L29.894,9.138 L29.019,9.138 L28.144,9.288 L27.269,9.288 L26.249,9.288 L25.52,9.588 L24.499,9.588 L23.624,9.588 L22.749,9.737 L21.874,10.037 L20.999,10.037 L19.978,10.037 L19.395,10.337 L18.52,10.337 L17.353,10.337 L16.478,10.037 L15.749,10.037 L14.437,10.037 L13.708,9.737 L12.687,9.588 L11.812,9.588 L10.937,9.588 L9.916,9.288 L9.041,9.288 L8.166,9.288 L7.145,9.138 L6.271,9.138 L5.104,8.839 L4.229,8.839 L3.354,8.839 L2.771,8.839 L1.896,8.689 L1.458,8.239 L0.875,7.79 L0.437,7.041 L0.146,6.442 L0,5.543 L0,4.794 L0,4.045 L0,3.146 L0.146,2.547 L0.437,1.798 L1.021,1.348 L1.458,0.749 L2.187,0.449 L2.771,0 L3.354,0 L4.521,0 L5.396,0 L6.271,0 L7.145,0.3 L8.166,0.449 L9.041,0.449 L9.916,0.749 L10.937,0.899 L11.812,0.899 L12.687,1.198 L13.562,1.348 L14.437,1.348 L15.312,1.348 L16.332,1.648 L17.207,1.648 L18.082,1.648 L19.103,1.648 L19.978,1.648 L20.853,1.348 L21.728,1.348 L22.749,1.348 L23.624,1.198 L24.499,0.899 L25.374,0.899 L26.249,0.749 L27.124,0.449 L27.999,0.449 L29.019,0.3 L29.894,0 L30.769,0 L31.644,0 L32.665,0 L33.248,0 L33.977,0.449 L34.561,0.749 L34.998,1.348 L35.727,1.798 L35.873,2.547 L36.311,3.146 L36.311,4.045 L36.311,4.794 L36.311,5.543 L35.873,6.442 L35.727,7.041 L34.998,7.79 L34.561,8.239 L33.977,8.689 L33.248,8.839 L32.665,8.839 z" stroke-width="0.249" stroke-dasharray="none" />
+               </g>
+            </g>
+            <g width="30.571" height="29.266" transform="scale(1,1) translate(80.038,7.472)">
+               <g transform="rotate(180,15.285,14.633) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                  <path d="M29.124,0 L1.903,0 L1.61,0 L1.171,0.296 L0.878,0.296 L0.439,0.739 L0.293,0.887 L0,1.331 L0,1.774 L0,2.218 L2.781,27.648 L2.781,28.387 L3.073,28.535 L3.22,28.979 L3.512,29.274 L3.952,29.422 L4.098,29.718 L4.537,30.014 L4.83,30.014 L26.636,30.014 L27.075,30.014 L27.514,29.718 L27.661,29.422 L27.807,29.274 L28.1,28.979 L28.246,28.535 L28.539,28.387 L28.539,27.944 L31.319,2.218 L31.319,1.774 L31.319,1.331 L30.88,0.887 L30.734,0.739 L30.441,0.296 L30.002,0.296 L29.563,0 L29.124,0 z" stroke-width="0.249" stroke-dasharray="none" />
+               </g>
+            </g>
+            <g width="35.562" height="9.589" transform="scale(1,1) translate(77.792,0.747)">
+               <g transform="rotate(180,17.781,4.795) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                  <path d="M32.665,8.839 L31.644,8.839 L30.769,8.839 L29.894,9.138 L29.019,9.138 L28.144,9.288 L27.269,9.288 L26.249,9.288 L25.52,9.588 L24.499,9.588 L23.624,9.588 L22.749,9.737 L21.874,10.037 L20.999,10.037 L19.978,10.037 L19.395,10.337 L18.52,10.337 L17.353,10.337 L16.478,10.037 L15.749,10.037 L14.437,10.037 L13.708,9.737 L12.687,9.588 L11.812,9.588 L10.937,9.588 L9.916,9.288 L9.041,9.288 L8.166,9.288 L7.145,9.138 L6.271,9.138 L5.104,8.839 L4.229,8.839 L3.354,8.839 L2.771,8.839 L1.896,8.689 L1.458,8.239 L0.875,7.79 L0.437,7.041 L0.146,6.442 L0,5.543 L0,4.794 L0,4.045 L0,3.146 L0.146,2.547 L0.437,1.798 L1.021,1.348 L1.458,0.749 L2.187,0.449 L2.771,0 L3.354,0 L4.521,0 L5.396,0 L6.271,0 L7.145,0.3 L8.166,0.449 L9.041,0.449 L9.916,0.749 L10.937,0.899 L11.812,0.899 L12.687,1.198 L13.562,1.348 L14.437,1.348 L15.312,1.348 L16.332,1.648 L17.207,1.648 L18.082,1.648 L19.103,1.648 L19.978,1.648 L20.853,1.348 L21.728,1.348 L22.749,1.348 L23.624,1.198 L24.499,0.899 L25.374,0.899 L26.249,0.749 L27.124,0.449 L27.999,0.449 L29.019,0.3 L29.894,0 L30.769,0 L31.644,0 L32.665,0 L33.248,0 L33.977,0.449 L34.561,0.749 L34.998,1.348 L35.727,1.798 L35.873,2.547 L36.311,3.146 L36.311,4.045 L36.311,4.794 L36.311,5.543 L35.873,6.442 L35.727,7.041 L34.998,7.79 L34.561,8.239 L33.977,8.689 L33.248,8.839 L32.665,8.839 z" stroke-width="0.249" stroke-dasharray="none" />
+               </g>
+            </g>
+            <g width="152.854" height="153.182" transform="scale(1,1) translate(19.521,19.677)">
+               <g class="tableshape" id="tb1" width="152.854" height="153.182" transform="scale(1,1) translate(0,0)" stroke="#000000" stroke-width="0.24930806150150656" stroke-dasharray="none" fill="white" fill-opacity="1" stroke-opacity="1">
+                  <ellipse rx="76.427" ry="76.591" cx="76.427" cy="76.591" />
+               </g>
+            </g>
+         </g>
+      </g>
+      <g width="32.833" height="32.833" transform="scale(1,1) translate(508.333,663.846)">
+         <g width="32.833" height="32.833" transform="scale(1,1) translate(0,0)" stroke="#000000" stroke-width="1" stroke-dasharray="none" fill="none" stroke-opacity="1">
+            <ellipse rx="16.4165" ry="16.4165" cx="16.4165" cy="16.4165" />
+         </g>
+         <g width="22.50956589366666" height="23.958332061767578" transform="scale(1,1) translate(5.162,5.162)">
+            <text width="22.50956589366666" height="23.958332061767578" transform="scale(1,1) translate(0,0)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="19.444444444444443" font-weight="normal" font-style="normal" fill="#000000" opacity="1" x="5.075" text-anchor="start" y="19.792" textLength="12.36054801940918" style="font-family: Verdana, Geneva, sans-serif;">1</tspan></text>
+         </g>
+      </g>
+      <g width="133.167" height="133.333" transform="scale(1,1) translate(440.167,988.346)">
+         <g width="133.167" height="133.333" transform="scale(1,1) translate(0,0)">
+            <g width="133.167" height="133.333" transform="scale(1,1) translate(0,0)">
+               <g width="133.167" height="133.333" transform="scale(1,1) translate(0,0)">
+                  <g width="28.333" height="25.833" transform="scale(1,1) translate(7.5,77)">
+                     <g transform="rotate(60.1,14.167,12.917) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                        <path d="M26,0 L1.667,0 L1.5,0 L1,0.331 L0.833,0.331 L0.333,0.662 L0.333,0.828 L0,1.159 L0,1.49 L0,1.821 L2.5,23.513 L2.5,24.175 L2.667,24.175 L2.833,24.672 L3.167,24.838 L3.5,25.003 L3.667,25.169 L4,25.5 L4.333,25.5 L23.667,25.5 L24.167,25.5 L24.5,25.169 L24.667,25.003 L24.833,24.838 L25,24.672 L25.167,24.175 L25.5,24.175 L25.5,23.679 L28,1.821 L28,1.49 L28,1.159 L27.5,0.828 L27.333,0.662 L27.167,0.331 L26.667,0.331 L26.333,0 L26,0 z" stroke-width="0.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="32.667" height="8.833" transform="scale(1,1) translate(-5.833,91.833)">
+                     <g transform="rotate(59.8,16.333,4.417) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                        <path d="M29.167,7.333 L28.333,7.333 L27.5,7.333 L26.667,7.667 L26,7.667 L25.167,7.667 L24.333,7.667 L23.5,7.667 L22.833,8 L22,8 L21.167,8 L20.333,8.167 L19.5,8.333 L18.833,8.333 L17.833,8.333 L17.333,8.667 L16.5,8.667 L15.5,8.667 L14.667,8.333 L14.167,8.333 L13,8.333 L12.333,8.167 L11.333,8 L10.5,8 L9.833,8 L8.833,7.667 L8.167,7.667 L7.333,7.667 L6.333,7.667 L5.667,7.667 L4.5,7.333 L3.833,7.333 L3,7.333 L2.5,7.333 L1.667,7.167 L1.333,6.833 L0.833,6.5 L0.333,5.833 L0.167,5.333 L0,4.667 L0,4 L0,3.333 L0,2.667 L0.167,2.167 L0.333,1.5 L0.833,1.167 L1.333,0.667 L2,0.333 L2.5,0 L3,0 L4,0 L4.833,0 L5.667,0 L6.333,0.167 L7.333,0.333 L8.167,0.333 L8.833,0.667 L9.833,0.667 L10.5,0.667 L11.333,1 L12.167,1.167 L13,1.167 L13.667,1.167 L14.667,1.333 L15.333,1.333 L16.167,1.333 L17.167,1.333 L17.833,1.333 L18.667,1.167 L19.5,1.167 L20.333,1.167 L21.167,1 L22,0.667 L22.667,0.667 L23.5,0.667 L24.333,0.333 L25,0.333 L26,0.167 L26.667,0 L27.5,0 L28.333,0 L29.167,0 L29.833,0 L30.333,0.333 L31,0.667 L31.333,1.167 L32,1.5 L32.167,2.167 L32.5,2.667 L32.5,3.333 L32.5,4 L32.5,4.667 L32.167,5.333 L32,5.833 L31.333,6.5 L31,6.833 L30.333,7.167 L29.833,7.333 L29.167,7.333 z" stroke-width="0.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="28.167" height="26" transform="scale(1,1) translate(8,30.167)">
+                     <g transform="rotate(119.8,14.083,13) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                        <path d="M25.845,0 L1.657,0 L1.491,0 L0.994,0.333 L0.828,0.333 L0.331,0.667 L0.331,0.833 L0,1.167 L0,1.5 L0,1.833 L2.485,23.667 L2.485,24.333 L2.651,24.333 L2.816,24.833 L3.148,25 L3.479,25.167 L3.645,25.333 L3.976,25.667 L4.308,25.667 L23.526,25.667 L24.023,25.667 L24.354,25.333 L24.52,25.167 L24.686,25 L24.851,24.833 L25.017,24.333 L25.348,24.333 L25.348,23.833 L27.833,1.833 L27.833,1.5 L27.833,1.167 L27.336,0.833 L27.171,0.667 L27.005,0.333 L26.508,0.333 L26.177,0 L25.845,0 z" stroke-width="0.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="32.667" height="8.833" transform="scale(1,1) translate(-5.333,32.5)">
+                     <g transform="rotate(119.9,16.333,4.417) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                        <path d="M29.167,7.192 L28.167,7.192 L27.5,7.192 L26.667,7.519 L25.833,7.519 L25,7.519 L24.333,7.519 L23.333,7.519 L22.667,7.846 L21.833,7.846 L21,7.846 L20.333,8.01 L19.5,8.173 L18.667,8.173 L17.833,8.173 L17.333,8.5 L16.5,8.5 L15.5,8.5 L14.667,8.173 L14,8.173 L12.833,8.173 L12.167,8.01 L11.333,7.846 L10.5,7.846 L9.667,7.846 L8.833,7.519 L8,7.519 L7.333,7.519 L6.333,7.519 L5.667,7.519 L4.5,7.192 L3.833,7.192 L3,7.192 L2.5,7.192 L1.667,7.029 L1.333,6.702 L0.833,6.375 L0.333,5.721 L0.167,5.231 L0,4.577 L0,3.923 L0,3.269 L0,2.615 L0.167,2.125 L0.333,1.471 L0.833,1.144 L1.333,0.654 L2,0.327 L2.5,0 L3,0 L4,0 L4.833,0 L5.667,0 L6.333,0.163 L7.333,0.327 L8,0.327 L8.833,0.654 L9.667,0.654 L10.5,0.654 L11.333,0.981 L12.167,1.144 L12.833,1.144 L13.667,1.144 L14.5,1.308 L15.333,1.308 L16.167,1.308 L17,1.308 L17.833,1.308 L18.667,1.144 L19.333,1.144 L20.333,1.144 L21,0.981 L21.833,0.654 L22.667,0.654 L23.333,0.654 L24.167,0.327 L25,0.327 L25.833,0.163 L26.667,0 L27.5,0 L28.167,0 L29.167,0 L29.667,0 L30.333,0.327 L30.833,0.654 L31.167,1.144 L31.833,1.471 L32,2.125 L32.333,2.615 L32.333,3.269 L32.333,3.923 L32.333,4.577 L32,5.231 L31.833,5.721 L31.167,6.375 L30.833,6.702 L30.333,7.029 L29.667,7.192 L29.167,7.192 z" stroke-width="0.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="28.167" height="26" transform="scale(1,1) translate(52.333,6.833)">
+                     <g transform="rotate(180,14.083,13) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                        <path d="M25.845,0 L1.657,0 L1.491,0 L0.994,0.331 L0.828,0.331 L0.331,0.662 L0.331,0.828 L0,1.159 L0,1.49 L0,1.822 L2.485,23.514 L2.485,24.176 L2.651,24.342 L2.816,24.673 L3.148,25.004 L3.479,25.17 L3.645,25.335 L3.976,25.667 L4.308,25.667 L23.526,25.667 L24.023,25.667 L24.354,25.335 L24.52,25.17 L24.686,25.004 L24.851,24.673 L25.017,24.342 L25.348,24.176 L25.348,23.845 L27.833,1.822 L27.833,1.49 L27.833,1.159 L27.336,0.828 L27.171,0.662 L27.005,0.331 L26.508,0.331 L26.177,0 L25.845,0 z" stroke-width="0.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="32.833" height="8.5" transform="scale(1,1) translate(50,0.833)">
+                     <g transform="rotate(180,16.417,4.25) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                        <path d="M29.184,7.167 L28.355,7.167 L27.526,7.167 L26.696,7.333 L25.867,7.333 L25.204,7.5 L24.375,7.5 L23.38,7.5 L22.883,7.667 L21.888,7.667 L21.059,7.667 L20.395,7.833 L19.566,8.167 L18.737,8.167 L17.908,8.167 L17.411,8.333 L16.582,8.333 L15.587,8.333 L14.758,8.167 L14.094,8.167 L12.934,8.167 L12.27,7.833 L11.276,7.667 L10.612,7.667 L9.783,7.667 L8.788,7.5 L8.125,7.5 L7.296,7.5 L6.467,7.333 L5.638,7.333 L4.643,7.167 L3.814,7.167 L2.985,7.167 L2.487,7.167 L1.658,7 L1.327,6.667 L0.829,6.333 L0.332,5.667 L0.166,5.167 L0,4.5 L0,3.833 L0,3.333 L0,2.5 L0.166,2 L0.332,1.5 L0.995,1.167 L1.327,0.667 L1.99,0.333 L2.487,0 L2.985,0 L3.98,0 L4.809,0 L5.638,0 L6.467,0.167 L7.296,0.333 L8.125,0.333 L8.788,0.667 L9.783,0.667 L10.612,0.667 L11.276,1 L12.105,1.167 L12.934,1.167 L13.763,1.167 L14.592,1.333 L15.421,1.333 L16.084,1.333 L17.079,1.333 L17.908,1.333 L18.571,1.167 L19.401,1.167 L20.395,1.167 L21.059,1 L21.888,0.667 L22.717,0.667 L23.38,0.667 L24.209,0.333 L25.038,0.333 L25.867,0.167 L26.696,0 L27.526,0 L28.355,0 L29.184,0 L29.681,0 L30.344,0.333 L30.842,0.667 L31.339,1.167 L32.003,1.5 L32.003,2 L32.5,2.5 L32.5,3.333 L32.5,3.833 L32.5,4.5 L32.003,5.167 L32.003,5.667 L31.339,6.333 L30.842,6.667 L30.344,7 L29.681,7.167 L29.184,7.167 z" stroke-width="0.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="28.167" height="26" transform="scale(1,1) translate(96.833,30.833)">
+                     <g transform="rotate(240.2,14.083,13) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                        <path d="M25.845,0 L1.657,0 L1.491,0 L0.994,0.331 L0.828,0.331 L0.331,0.662 L0.331,0.828 L0,1.159 L0,1.49 L0,1.822 L2.485,23.514 L2.485,24.176 L2.651,24.342 L2.816,24.673 L3.148,25.004 L3.479,25.17 L3.645,25.335 L3.976,25.667 L4.308,25.667 L23.526,25.667 L24.023,25.667 L24.354,25.335 L24.52,25.17 L24.686,25.004 L24.851,24.673 L25.017,24.342 L25.348,24.176 L25.348,23.845 L27.833,1.822 L27.833,1.49 L27.833,1.159 L27.336,0.828 L27.171,0.662 L27.005,0.331 L26.508,0.331 L26.177,0 L25.845,0 z" stroke-width="0.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="32.667" height="9" transform="scale(1,1) translate(105.833,33.167)">
+                     <g transform="rotate(239.9,16.333,4.5) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                        <path d="M29.167,7.333 L28.333,7.333 L27.5,7.333 L26.667,7.667 L26,7.667 L25.167,7.667 L24.333,7.667 L23.5,7.667 L22.833,8 L22,8 L21.167,8 L20.333,8.167 L19.5,8.333 L18.833,8.333 L17.833,8.333 L17.333,8.667 L16.5,8.667 L15.5,8.667 L14.667,8.333 L14.167,8.333 L13,8.333 L12.333,8.167 L11.333,8 L10.5,8 L9.833,8 L8.833,7.667 L8.167,7.667 L7.333,7.667 L6.333,7.667 L5.667,7.667 L4.5,7.333 L3.833,7.333 L3,7.333 L2.5,7.333 L1.667,7.167 L1.333,6.833 L0.833,6.5 L0.333,5.833 L0.167,5.333 L0,4.667 L0,4 L0,3.333 L0,2.667 L0.167,2.167 L0.333,1.5 L0.833,1.167 L1.333,0.667 L2,0.333 L2.5,0 L3,0 L4,0 L4.833,0 L5.667,0 L6.333,0.167 L7.333,0.333 L8.167,0.333 L8.833,0.667 L9.833,0.667 L10.5,0.667 L11.333,1 L12.167,1.167 L13,1.167 L13.667,1.167 L14.667,1.333 L15.333,1.333 L16.167,1.333 L17.167,1.333 L17.833,1.333 L18.667,1.167 L19.5,1.167 L20.333,1.167 L21.167,1 L22,0.667 L22.667,0.667 L23.5,0.667 L24.333,0.333 L25,0.333 L26,0.167 L26.667,0 L27.5,0 L28.333,0 L29.167,0 L29.833,0 L30.333,0.333 L31,0.667 L31.333,1.167 L32,1.5 L32.167,2.167 L32.5,2.667 L32.5,3.333 L32.5,4 L32.5,4.667 L32.167,5.333 L32,5.833 L31.333,6.5 L31,6.833 L30.333,7.167 L29.833,7.333 L29.167,7.333 z" stroke-width="0.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="28.167" height="26.167" transform="scale(1,1) translate(97.167,77.667)">
+                     <g transform="rotate(299.9,14.083,13.083) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                        <path d="M25.833,0 L1.667,0 L1.5,0 L1,0.333 L0.833,0.333 L0.333,0.667 L0.333,0.833 L0,1.167 L0,1.5 L0,1.833 L2.5,23.667 L2.5,24.333 L2.667,24.5 L2.833,24.833 L3.167,25.167 L3.5,25.333 L3.667,25.5 L4,25.833 L4.333,25.833 L23.667,25.833 L24,25.833 L24.333,25.5 L24.5,25.333 L24.667,25.167 L25,24.833 L25,24.5 L25.333,24.333 L25.333,24 L27.833,1.833 L27.833,1.5 L27.833,1.167 L27.333,0.833 L27.333,0.667 L27,0.333 L26.667,0.333 L26.167,0 L25.833,0 z" stroke-width="0.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="32.667" height="8.833" transform="scale(1,1) translate(106.167,92.667)">
+                     <g transform="rotate(300,16.333,4.417) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                        <path d="M29.167,7.192 L28.333,7.192 L27.5,7.192 L26.667,7.519 L26,7.519 L25.167,7.519 L24.333,7.519 L23.5,7.519 L22.833,7.846 L22,7.846 L21.167,7.846 L20.333,8.01 L19.5,8.173 L18.833,8.173 L17.833,8.173 L17.333,8.5 L16.5,8.5 L15.5,8.5 L14.667,8.173 L14.167,8.173 L13,8.173 L12.333,8.01 L11.333,7.846 L10.5,7.846 L9.833,7.846 L8.833,7.519 L8.167,7.519 L7.333,7.519 L6.333,7.519 L5.667,7.519 L4.5,7.192 L3.833,7.192 L3,7.192 L2.5,7.192 L1.667,7.029 L1.333,6.702 L0.833,6.375 L0.333,5.721 L0.167,5.231 L0,4.577 L0,3.923 L0,3.269 L0,2.615 L0.167,2.125 L0.333,1.471 L0.833,1.144 L1.333,0.654 L2,0.327 L2.5,0 L3,0 L4,0 L4.833,0 L5.667,0 L6.333,0.163 L7.333,0.327 L8.167,0.327 L8.833,0.654 L9.833,0.654 L10.5,0.654 L11.333,0.981 L12.167,1.144 L13,1.144 L13.667,1.144 L14.667,1.308 L15.333,1.308 L16.167,1.308 L17.167,1.308 L17.833,1.308 L18.667,1.144 L19.5,1.144 L20.333,1.144 L21.167,0.981 L22,0.654 L22.667,0.654 L23.5,0.654 L24.333,0.327 L25,0.327 L26,0.163 L26.667,0 L27.5,0 L28.333,0 L29.167,0 L29.833,0 L30.333,0.327 L31,0.654 L31.333,1.144 L32,1.471 L32.167,2.125 L32.5,2.615 L32.5,3.269 L32.5,3.923 L32.5,4.577 L32.167,5.231 L32,5.721 L31.333,6.375 L31,6.702 L30.333,7.029 L29.833,7.192 L29.167,7.192 z" stroke-width="0.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="28" height="26" transform="scale(1,1) translate(52.5,101.167)">
+                     <g transform="scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                        <path d="M25.679,0 L1.657,0 L1.491,0 L0.994,0.333 L0.828,0.333 L0.331,0.667 L0.331,0.833 L0,1.167 L0,1.5 L0,1.833 L2.485,23.667 L2.485,24.333 L2.651,24.5 L2.816,24.833 L3.148,25.167 L3.479,25.333 L3.645,25.5 L3.976,25.833 L4.307,25.833 L23.525,25.833 L23.856,25.833 L24.188,25.5 L24.353,25.333 L24.519,25.167 L24.85,24.833 L24.85,24.5 L25.182,24.333 L25.182,24 L27.667,1.833 L27.667,1.5 L27.667,1.167 L27.17,0.833 L27.17,0.667 L26.838,0.333 L26.507,0.333 L26.01,0 L25.679,0 z" stroke-width="0.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="32.833" height="8.667" transform="scale(1,1) translate(50,123.833)">
+                     <g transform="scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                        <path d="M29.184,7.167 L28.355,7.167 L27.526,7.167 L26.696,7.5 L25.867,7.5 L25.204,7.667 L24.375,7.667 L23.38,7.667 L22.883,7.833 L21.888,7.833 L21.059,7.833 L20.395,8 L19.566,8.167 L18.737,8.167 L17.908,8.167 L17.411,8.5 L16.582,8.5 L15.587,8.5 L14.758,8.167 L14.094,8.167 L12.934,8.167 L12.27,8 L11.276,7.833 L10.612,7.833 L9.783,7.833 L8.788,7.667 L8.125,7.667 L7.296,7.667 L6.467,7.5 L5.638,7.5 L4.643,7.167 L3.814,7.167 L2.985,7.167 L2.487,7.167 L1.658,7.167 L1.327,6.667 L0.829,6.333 L0.332,5.833 L0.166,5.333 L0,4.5 L0,4 L0,3.333 L0,2.5 L0.166,2.167 L0.332,1.5 L0.995,1.167 L1.327,0.667 L1.99,0.333 L2.487,0 L2.985,0 L3.98,0 L4.809,0 L5.638,0 L6.467,0.167 L7.296,0.333 L8.125,0.333 L8.788,0.667 L9.783,0.667 L10.612,0.667 L11.276,1 L12.105,1.167 L12.934,1.167 L13.763,1.167 L14.592,1.333 L15.421,1.333 L16.084,1.333 L17.079,1.333 L17.908,1.333 L18.571,1.167 L19.401,1.167 L20.395,1.167 L21.059,1 L21.888,0.667 L22.717,0.667 L23.38,0.667 L24.209,0.333 L25.038,0.333 L25.867,0.167 L26.696,0 L27.526,0 L28.355,0 L29.184,0 L29.681,0 L30.344,0.333 L30.842,0.667 L31.339,1.167 L32.003,1.5 L32.003,2.167 L32.5,2.5 L32.5,3.333 L32.5,4 L32.5,4.5 L32.003,5.333 L32.003,5.833 L31.339,6.333 L30.842,6.667 L30.344,7.167 L29.681,7.167 L29.184,7.167 z" stroke-width="0.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="102.5" height="100.5" transform="scale(1,1) translate(15.167,16.833)">
+                     <g class="tableshape" id="tb2" width="102.5" height="100.5" transform="scale(1,1) translate(0,0)" stroke="#000000" stroke-width="0.3333333333333333" stroke-dasharray="none" fill="white" fill-opacity="1" stroke-opacity="1">
+                        <ellipse rx="51.25" ry="50.25" cx="51.25" cy="50.25" />
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g width="34.66" height="34.66" transform="scale(1,1) translate(49.253,49.42)">
+               <g width="34.66" height="34.66" transform="scale(1,1) translate(0,0)" stroke="#000000" stroke-width="1" stroke-dasharray="none" fill="none" stroke-opacity="1">
+                  <ellipse rx="17.33" ry="17.33" cx="17.33" cy="17.33" />
+               </g>
+               <g width="23.801231288767575" height="23.958332061767578" transform="scale(1,1) translate(5.429,5.429)">
+                  <text width="23.801231288767575" height="23.958332061767578" transform="scale(1,1) translate(0,0)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="19.444444444444443" font-weight="normal" font-style="normal" fill="#000000" opacity="1" x="5.72" text-anchor="start" y="19.792" textLength="12.36054801940918" style="font-family: Verdana, Geneva, sans-serif;">2</tspan></text>
+               </g>
+            </g>
+         </g>
+      </g>
+      <g width="133.128" height="133.333" transform="scale(1,1) translate(608.333,988.346)">
+         <g width="133.128" height="133.333" transform="scale(1,1) translate(0,0)">
+            <g width="133.128" height="133.333" transform="scale(1,1) translate(0,0)">
+               <g width="133.128" height="133.333" transform="scale(1,1) translate(0,0)">
+                  <g width="28.184" height="25.908" transform="scale(1,1) translate(7.576,76.967)">
+                     <g transform="rotate(60.1,14.092,12.954) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                        <path d="M26.937,0 L1.76,0 L1.489,0 L1.083,0.263 L0.812,0.263 L0.406,0.657 L0.271,0.788 L0,1.182 L0,1.576 L0,1.97 L2.572,24.565 L2.572,25.222 L2.843,25.353 L2.978,25.747 L3.249,26.01 L3.655,26.141 L3.79,26.404 L4.196,26.667 L4.467,26.667 L24.636,26.667 L25.042,26.667 L25.448,26.404 L25.583,26.141 L25.718,26.01 L25.989,25.747 L26.124,25.353 L26.395,25.222 L26.395,24.828 L28.967,1.97 L28.967,1.576 L28.967,1.182 L28.561,0.788 L28.426,0.657 L28.155,0.263 L27.749,0.263 L27.343,0 L26.937,0 z" stroke-width="0.261" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="32.751" height="8.847" transform="scale(1,1) translate(-5.864,91.88)">
+                     <g transform="rotate(59.8,16.376,4.423) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                        <path d="M30.167,8.213 L29.224,8.213 L28.416,8.213 L27.608,8.491 L26.8,8.491 L25.992,8.631 L25.184,8.631 L24.241,8.631 L23.568,8.909 L22.625,8.909 L21.817,8.909 L21.009,9.048 L20.201,9.327 L19.393,9.327 L18.45,9.327 L17.912,9.605 L17.104,9.605 L16.026,9.605 L15.218,9.327 L14.545,9.327 L13.333,9.327 L12.659,9.048 L11.717,8.909 L10.909,8.909 L10.101,8.909 L9.158,8.631 L8.35,8.631 L7.542,8.631 L6.599,8.491 L5.791,8.491 L4.714,8.213 L3.906,8.213 L3.098,8.213 L2.559,8.213 L1.751,8.074 L1.347,7.656 L0.808,7.239 L0.404,6.543 L0.135,5.986 L0,5.151 L0,4.455 L0,3.758 L0,2.923 L0.135,2.366 L0.404,1.67 L0.943,1.253 L1.347,0.696 L2.02,0.418 L2.559,0 L3.098,0 L4.175,0 L4.983,0 L5.791,0 L6.599,0.278 L7.542,0.418 L8.35,0.418 L9.158,0.696 L10.101,0.835 L10.909,0.835 L11.717,1.114 L12.525,1.253 L13.333,1.253 L14.141,1.253 L15.084,1.531 L15.892,1.531 L16.7,1.531 L17.642,1.531 L18.45,1.531 L19.258,1.253 L20.066,1.253 L21.009,1.253 L21.817,1.114 L22.625,0.835 L23.433,0.835 L24.241,0.696 L25.049,0.418 L25.857,0.418 L26.8,0.278 L27.608,0 L28.416,0 L29.224,0 L30.167,0 L30.706,0 L31.379,0.418 L31.918,0.696 L32.322,1.253 L32.995,1.67 L33.13,2.366 L33.534,2.923 L33.534,3.758 L33.534,4.455 L33.534,5.151 L33.13,5.986 L32.995,6.543 L32.322,7.239 L31.918,7.656 L31.379,8.074 L30.706,8.213 L30.167,8.213 z" stroke-width="0.261" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="28.184" height="25.908" transform="scale(1,1) translate(7.967,30.205)">
+                     <g transform="rotate(119.8,14.092,12.954) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                        <path d="M26.937,0 L1.76,0 L1.489,0 L1.083,0.263 L0.812,0.263 L0.406,0.657 L0.271,0.788 L0,1.182 L0,1.576 L0,1.97 L2.572,24.565 L2.572,25.222 L2.843,25.353 L2.978,25.747 L3.249,26.01 L3.655,26.141 L3.79,26.404 L4.196,26.667 L4.467,26.667 L24.636,26.667 L25.042,26.667 L25.448,26.404 L25.583,26.141 L25.718,26.01 L25.989,25.747 L26.124,25.353 L26.395,25.222 L26.395,24.828 L28.967,1.97 L28.967,1.576 L28.967,1.182 L28.561,0.788 L28.426,0.657 L28.155,0.263 L27.749,0.263 L27.343,0 L26.937,0 z" stroke-width="0.261" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="32.621" height="8.847" transform="scale(1,1) translate(-5.342,32.48)">
+                     <g transform="rotate(119.9,16.31,4.423) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                        <path d="M30.05,8.213 L29.111,8.213 L28.306,8.213 L27.501,8.491 L26.696,8.491 L25.891,8.631 L25.086,8.631 L24.147,8.631 L23.476,8.909 L22.537,8.909 L21.732,8.909 L20.927,9.048 L20.123,9.327 L19.318,9.327 L18.379,9.327 L17.842,9.605 L17.037,9.605 L15.964,9.605 L15.159,9.327 L14.488,9.327 L13.281,9.327 L12.61,9.048 L11.671,8.909 L10.866,8.909 L10.061,8.909 L9.122,8.631 L8.317,8.631 L7.512,8.631 L6.573,8.491 L5.768,8.491 L4.695,8.213 L3.89,8.213 L3.085,8.213 L2.549,8.213 L1.744,8.074 L1.342,7.656 L0.805,7.239 L0.402,6.543 L0.134,5.986 L0,5.151 L0,4.455 L0,3.758 L0,2.923 L0.134,2.366 L0.402,1.67 L0.939,1.253 L1.342,0.696 L2.012,0.418 L2.549,0 L3.085,0 L4.159,0 L4.964,0 L5.768,0 L6.573,0.278 L7.512,0.418 L8.317,0.418 L9.122,0.696 L10.061,0.835 L10.866,0.835 L11.671,1.114 L12.476,1.253 L13.281,1.253 L14.086,1.253 L15.025,1.531 L15.83,1.531 L16.635,1.531 L17.574,1.531 L18.379,1.531 L19.184,1.253 L19.988,1.253 L20.927,1.253 L21.732,1.114 L22.537,0.835 L23.342,0.835 L24.147,0.696 L24.952,0.418 L25.757,0.418 L26.696,0.278 L27.501,0 L28.306,0 L29.111,0 L30.05,0 L30.586,0 L31.257,0.418 L31.794,0.696 L32.196,1.253 L32.867,1.67 L33.001,2.366 L33.403,2.923 L33.403,3.758 L33.403,4.455 L33.403,5.151 L33.001,5.986 L32.867,6.543 L32.196,7.239 L31.794,7.656 L31.257,8.074 L30.586,8.213 L30.05,8.213 z" stroke-width="0.261" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="28.184" height="26.035" transform="scale(1,1) translate(52.331,6.825)">
+                     <g transform="rotate(180,14.092,13.017) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                        <path d="M26.937,0 L1.76,0 L1.489,0 L1.083,0.264 L0.812,0.264 L0.406,0.66 L0.271,0.792 L0,1.188 L0,1.584 L0,1.98 L2.572,24.681 L2.572,25.341 L2.843,25.473 L2.978,25.869 L3.249,26.133 L3.655,26.265 L3.79,26.529 L4.196,26.793 L4.467,26.793 L24.636,26.793 L25.042,26.793 L25.448,26.529 L25.583,26.265 L25.718,26.133 L25.989,25.869 L26.124,25.473 L26.395,25.341 L26.395,24.945 L28.967,1.98 L28.967,1.584 L28.967,1.188 L28.561,0.792 L28.426,0.66 L28.155,0.264 L27.749,0.264 L27.343,0 L26.937,0 z" stroke-width="0.261" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="32.882" height="8.594" transform="scale(1,1) translate(49.982,0.758)">
+                     <g transform="rotate(180,16.441,4.297) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                        <path d="M30.284,7.997 L29.338,7.997 L28.527,7.997 L27.716,8.268 L26.904,8.268 L26.093,8.404 L25.282,8.404 L24.336,8.404 L23.66,8.675 L22.713,8.675 L21.902,8.675 L21.091,8.81 L20.28,9.081 L19.469,9.081 L18.522,9.081 L17.981,9.352 L17.17,9.352 L16.089,9.352 L15.277,9.081 L14.601,9.081 L13.385,9.081 L12.709,8.81 L11.762,8.675 L10.951,8.675 L10.14,8.675 L9.193,8.404 L8.382,8.404 L7.571,8.404 L6.625,8.268 L5.814,8.268 L4.732,7.997 L3.921,7.997 L3.11,7.997 L2.569,7.997 L1.758,7.861 L1.352,7.455 L0.811,7.048 L0.406,6.37 L0.135,5.828 L0,5.015 L0,4.337 L0,3.66 L0,2.846 L0.135,2.304 L0.406,1.626 L0.946,1.22 L1.352,0.678 L2.028,0.407 L2.569,0 L3.11,0 L4.191,0 L5.002,0 L5.814,0 L6.625,0.271 L7.571,0.407 L8.382,0.407 L9.193,0.678 L10.14,0.813 L10.951,0.813 L11.762,1.084 L12.573,1.22 L13.385,1.22 L14.196,1.22 L15.142,1.491 L15.953,1.491 L16.765,1.491 L17.711,1.491 L18.522,1.491 L19.333,1.22 L20.145,1.22 L21.091,1.22 L21.902,1.084 L22.713,0.813 L23.525,0.813 L24.336,0.678 L25.147,0.407 L25.958,0.407 L26.904,0.271 L27.716,0 L28.527,0 L29.338,0 L30.284,0 L30.825,0 L31.501,0.407 L32.042,0.678 L32.448,1.22 L33.124,1.626 L33.259,2.304 L33.664,2.846 L33.664,3.66 L33.664,4.337 L33.664,5.015 L33.259,5.828 L33.124,6.37 L32.448,7.048 L32.042,7.455 L31.501,7.861 L30.825,7.997 L30.284,7.997 z" stroke-width="0.261" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="28.184" height="26.035" transform="scale(1,1) translate(96.825,30.837)">
+                     <g transform="rotate(240.2,14.092,13.017) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                        <path d="M26.937,0 L1.76,0 L1.489,0 L1.083,0.264 L0.812,0.264 L0.406,0.66 L0.271,0.792 L0,1.188 L0,1.584 L0,1.98 L2.572,24.681 L2.572,25.341 L2.843,25.473 L2.978,25.869 L3.249,26.133 L3.655,26.265 L3.79,26.529 L4.196,26.793 L4.467,26.793 L24.636,26.793 L25.042,26.793 L25.448,26.529 L25.583,26.265 L25.718,26.133 L25.989,25.869 L26.124,25.473 L26.395,25.341 L26.395,24.945 L28.967,1.98 L28.967,1.584 L28.967,1.188 L28.561,0.792 L28.426,0.66 L28.155,0.264 L27.749,0.264 L27.343,0 L26.937,0 z" stroke-width="0.261" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="32.751" height="8.847" transform="scale(1,1) translate(105.829,33.239)">
+                     <g transform="rotate(239.9,16.376,4.423) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                        <path d="M30.167,8.213 L29.224,8.213 L28.416,8.213 L27.608,8.491 L26.8,8.491 L25.992,8.631 L25.184,8.631 L24.241,8.631 L23.568,8.909 L22.625,8.909 L21.817,8.909 L21.009,9.048 L20.201,9.327 L19.393,9.327 L18.45,9.327 L17.912,9.605 L17.104,9.605 L16.026,9.605 L15.218,9.327 L14.545,9.327 L13.333,9.327 L12.659,9.048 L11.717,8.909 L10.909,8.909 L10.101,8.909 L9.158,8.631 L8.35,8.631 L7.542,8.631 L6.599,8.491 L5.791,8.491 L4.714,8.213 L3.906,8.213 L3.098,8.213 L2.559,8.213 L1.751,8.074 L1.347,7.656 L0.808,7.239 L0.404,6.543 L0.135,5.986 L0,5.151 L0,4.455 L0,3.758 L0,2.923 L0.135,2.366 L0.404,1.67 L0.943,1.253 L1.347,0.696 L2.02,0.418 L2.559,0 L3.098,0 L4.175,0 L4.983,0 L5.791,0 L6.599,0.278 L7.542,0.418 L8.35,0.418 L9.158,0.696 L10.101,0.835 L10.909,0.835 L11.717,1.114 L12.525,1.253 L13.333,1.253 L14.141,1.253 L15.084,1.531 L15.892,1.531 L16.7,1.531 L17.642,1.531 L18.45,1.531 L19.258,1.253 L20.066,1.253 L21.009,1.253 L21.817,1.114 L22.625,0.835 L23.433,0.835 L24.241,0.696 L25.049,0.418 L25.857,0.418 L26.8,0.278 L27.608,0 L28.416,0 L29.224,0 L30.167,0 L30.706,0 L31.379,0.418 L31.918,0.696 L32.322,1.253 L32.995,1.67 L33.13,2.366 L33.534,2.923 L33.534,3.758 L33.534,4.455 L33.534,5.151 L33.13,5.986 L32.995,6.543 L32.322,7.239 L31.918,7.656 L31.379,8.074 L30.706,8.213 L30.167,8.213 z" stroke-width="0.261" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="28.054" height="26.035" transform="scale(1,1) translate(97.217,77.725)">
+                     <g transform="rotate(299.9,14.027,13.017) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                        <path d="M26.815,0 L1.752,0 L1.482,0 L1.078,0.264 L0.809,0.264 L0.404,0.66 L0.27,0.792 L0,1.188 L0,1.584 L0,1.98 L2.56,24.681 L2.56,25.341 L2.83,25.473 L2.965,25.869 L3.234,26.133 L3.638,26.265 L3.773,26.529 L4.177,26.793 L4.447,26.793 L24.525,26.793 L24.929,26.793 L25.333,26.529 L25.468,26.265 L25.603,26.133 L25.872,25.869 L26.007,25.473 L26.276,25.341 L26.276,24.945 L28.837,1.98 L28.837,1.584 L28.837,1.188 L28.432,0.792 L28.298,0.66 L28.028,0.264 L27.624,0.264 L27.22,0 L26.815,0 z" stroke-width="0.261" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="32.751" height="8.847" transform="scale(1,1) translate(106.09,92.638)">
+                     <g transform="rotate(300,16.376,4.423) scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                        <path d="M30.167,8.213 L29.224,8.213 L28.416,8.213 L27.608,8.491 L26.8,8.491 L25.992,8.631 L25.184,8.631 L24.241,8.631 L23.568,8.909 L22.625,8.909 L21.817,8.909 L21.009,9.048 L20.201,9.327 L19.393,9.327 L18.45,9.327 L17.912,9.605 L17.104,9.605 L16.026,9.605 L15.218,9.327 L14.545,9.327 L13.333,9.327 L12.659,9.048 L11.717,8.909 L10.909,8.909 L10.101,8.909 L9.158,8.631 L8.35,8.631 L7.542,8.631 L6.599,8.491 L5.791,8.491 L4.714,8.213 L3.906,8.213 L3.098,8.213 L2.559,8.213 L1.751,8.074 L1.347,7.656 L0.808,7.239 L0.404,6.543 L0.135,5.986 L0,5.151 L0,4.455 L0,3.758 L0,2.923 L0.135,2.366 L0.404,1.67 L0.943,1.253 L1.347,0.696 L2.02,0.418 L2.559,0 L3.098,0 L4.175,0 L4.983,0 L5.791,0 L6.599,0.278 L7.542,0.418 L8.35,0.418 L9.158,0.696 L10.101,0.835 L10.909,0.835 L11.717,1.114 L12.525,1.253 L13.333,1.253 L14.141,1.253 L15.084,1.531 L15.892,1.531 L16.7,1.531 L17.642,1.531 L18.45,1.531 L19.258,1.253 L20.066,1.253 L21.009,1.253 L21.817,1.114 L22.625,0.835 L23.433,0.835 L24.241,0.696 L25.049,0.418 L25.857,0.418 L26.8,0.278 L27.608,0 L28.416,0 L29.224,0 L30.167,0 L30.706,0 L31.379,0.418 L31.918,0.696 L32.322,1.253 L32.995,1.67 L33.13,2.366 L33.534,2.923 L33.534,3.758 L33.534,4.455 L33.534,5.151 L33.13,5.986 L32.995,6.543 L32.322,7.239 L31.918,7.656 L31.379,8.074 L30.706,8.213 L30.167,8.213 z" stroke-width="0.261" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="28.054" height="26.035" transform="scale(1,1) translate(52.462,101.106)">
+                     <g transform="scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                        <path d="M26.815,0 L1.752,0 L1.482,0 L1.078,0.264 L0.809,0.264 L0.404,0.66 L0.27,0.792 L0,1.188 L0,1.584 L0,1.98 L2.56,24.681 L2.56,25.341 L2.83,25.473 L2.965,25.869 L3.234,26.133 L3.638,26.265 L3.773,26.529 L4.177,26.793 L4.447,26.793 L24.525,26.793 L24.929,26.793 L25.333,26.529 L25.468,26.265 L25.603,26.133 L25.872,25.869 L26.007,25.473 L26.276,25.341 L26.276,24.945 L28.837,1.98 L28.837,1.584 L28.837,1.188 L28.432,0.792 L28.298,0.66 L28.028,0.264 L27.624,0.264 L27.22,0 L26.815,0 z" stroke-width="0.261" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="32.882" height="8.72" transform="scale(1,1) translate(49.982,123.855)">
+                     <g transform="scale(1,1) translate(0,0)" stroke="#000000" fill="#F2F2F2" fill-opacity="1" stroke-opacity="1">
+                        <path d="M30.284,8.105 L29.338,8.105 L28.527,8.105 L27.716,8.38 L26.904,8.38 L26.093,8.517 L25.282,8.517 L24.336,8.517 L23.66,8.792 L22.713,8.792 L21.902,8.792 L21.091,8.929 L20.28,9.204 L19.469,9.204 L18.522,9.204 L17.981,9.479 L17.17,9.479 L16.089,9.479 L15.277,9.204 L14.601,9.204 L13.385,9.204 L12.709,8.929 L11.762,8.792 L10.951,8.792 L10.14,8.792 L9.193,8.517 L8.382,8.517 L7.571,8.517 L6.625,8.38 L5.814,8.38 L4.732,8.105 L3.921,8.105 L3.11,8.105 L2.569,8.105 L1.758,7.968 L1.352,7.555 L0.811,7.143 L0.406,6.456 L0.135,5.907 L0,5.083 L0,4.396 L0,3.709 L0,2.885 L0.135,2.335 L0.406,1.648 L0.946,1.236 L1.352,0.687 L2.028,0.412 L2.569,0 L3.11,0 L4.191,0 L5.002,0 L5.814,0 L6.625,0.275 L7.571,0.412 L8.382,0.412 L9.193,0.687 L10.14,0.824 L10.951,0.824 L11.762,1.099 L12.573,1.236 L13.385,1.236 L14.196,1.236 L15.142,1.511 L15.953,1.511 L16.765,1.511 L17.711,1.511 L18.522,1.511 L19.333,1.236 L20.145,1.236 L21.091,1.236 L21.902,1.099 L22.713,0.824 L23.525,0.824 L24.336,0.687 L25.147,0.412 L25.958,0.412 L26.904,0.275 L27.716,0 L28.527,0 L29.338,0 L30.284,0 L30.825,0 L31.501,0.412 L32.042,0.687 L32.448,1.236 L33.124,1.648 L33.259,2.335 L33.664,2.885 L33.664,3.709 L33.664,4.396 L33.664,5.083 L33.259,5.907 L33.124,6.456 L32.448,7.143 L32.042,7.555 L31.501,7.968 L30.825,8.105 L30.284,8.105 z" stroke-width="0.261" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="102.559" height="100.474" transform="scale(1,1) translate(15.144,16.809)">
+                     <g class="tableshape" id="tb3" width="102.559" height="100.474" transform="scale(1,1) translate(0,0)" stroke="#000000" stroke-width="0.26070344446976795" stroke-dasharray="none" fill="white" fill-opacity="1" stroke-opacity="1">
+                        <ellipse rx="51.2795" ry="50.237" cx="51.2795" cy="50.237" />
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g width="34.882" height="34.882" transform="scale(1,1) translate(49.123,49.226)">
+               <g width="34.882" height="34.882" transform="scale(1,1) translate(0,0)" stroke="#000000" stroke-width="1" stroke-dasharray="none" fill="none" stroke-opacity="1">
+                  <ellipse rx="17.441" ry="17.441" cx="17.441" cy="17.441" />
+               </g>
+               <g width="23.958332061767578" height="23.958332061767578" transform="scale(1,1) translate(5.462,5.462)">
+                  <text width="23.958332061767578" height="23.958332061767578" transform="scale(1,1) translate(0,0)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="19.444444444444443" font-weight="normal" font-style="normal" fill="#000000" opacity="1" x="5.799" text-anchor="start" y="19.792" textLength="12.36054801940918" style="font-family: Verdana, Geneva, sans-serif;">3</tspan></text>
+               </g>
+            </g>
+         </g>
+      </g>
+      <g width="60.5" height="96.5" transform="rotate(90,812.917,965.429) scale(1,1) translate(782.667,917.179)">
+         <g transform="scale(1,1) translate(0,0)" stroke="#000000" fill="#FFFFFF" fill-opacity="1" stroke-opacity="1">
+            <path class="tableshape" id="tb13" d="M0.249,0 L0.249,0 L0.249,85.167 L0.249,85.167 L0.249,85.167 L0.217,85.333 L0.188,85.498 L0.16,85.661 L0.134,85.824 L0.111,85.985 L0.09,86.145 L0.071,86.303 L0.055,86.46 L0.04,86.616 L0.028,86.771 L0.018,86.925 L0.01,87.077 L0.005,87.228 L0.001,87.378 L0,87.526 L0.001,87.674 L0.004,87.819 L0.01,87.964 L0.017,88.108 L0.027,88.25 L0.039,88.391 L0.053,88.53 L0.069,88.669 L0.088,88.806 L0.109,88.942 L0.132,89.076 L0.157,89.21 L0.184,89.342 L0.214,89.473 L0.246,89.602 L0.28,89.731 L0.316,89.858 L0.354,89.984 L0.395,90.108 L0.437,90.231 L0.482,90.353 L0.529,90.474 L0.579,90.594 L0.63,90.712 L0.684,90.829 L0.74,90.945 L0.798,91.059 L0.859,91.172 L0.921,91.284 L0.986,91.395 L1.053,91.504 L1.122,91.612 L1.193,91.719 L1.267,91.825 L1.343,91.929 L1.421,92.032 L1.501,92.134 L1.583,92.235 L1.668,92.334 L1.755,92.432 L1.844,92.529 L1.935,92.625 L2.028,92.719 L2.124,92.812 L2.221,92.904 L2.321,92.994 L2.423,93.084 L2.528,93.172 L2.634,93.258 L2.743,93.344 L2.854,93.428 L2.967,93.511 L3.083,93.593 L3.2,93.673 L3.32,93.752 L3.442,93.83 L3.566,93.907 L3.692,93.982 L3.821,94.056 L3.952,94.129 L4.085,94.201 L4.22,94.271 L4.357,94.34 L4.497,94.408 L4.638,94.475 L4.782,94.54 L4.928,94.604 L5.077,94.667 L5.227,94.728 L5.38,94.789 L5.535,94.848 L5.692,94.905 L5.851,94.962 L6.013,95.017 L6.177,95.071 L6.343,95.124 L6.511,95.175 L6.681,95.225 L6.854,95.274 L7.028,95.322 L7.205,95.368 L7.384,95.413 L7.566,95.457 L7.749,95.5 L7.749,95.5 L7.749,95.5 L50.583,95.5 L50.583,95.5 L50.583,95.5 L50.711,95.443 L50.839,95.385 L50.966,95.326 L51.092,95.266 L51.217,95.204 L51.342,95.142 L51.466,95.078 L51.589,95.013 L51.711,94.947 L51.833,94.88 L51.954,94.812 L52.074,94.743 L52.193,94.672 L52.311,94.6 L52.429,94.527 L52.546,94.454 L52.662,94.378 L52.778,94.302 L52.892,94.225 L53.006,94.146 L53.119,94.067 L53.232,93.986 L53.343,93.904 L53.454,93.821 L53.564,93.736 L53.674,93.651 L53.782,93.564 L53.89,93.477 L53.997,93.388 L54.103,93.298 L54.209,93.207 L54.313,93.115 L54.417,93.021 L54.521,92.927 L54.623,92.831 L54.725,92.734 L54.825,92.636 L54.926,92.537 L55.025,92.437 L55.123,92.336 L55.221,92.233 L55.318,92.129 L55.415,92.025 L55.51,91.919 L55.605,91.812 L55.699,91.703 L55.792,91.594 L55.884,91.484 L55.976,91.372 L56.067,91.259 L56.157,91.145 L56.247,91.03 L56.335,90.914 L56.423,90.796 L56.51,90.678 L56.596,90.558 L56.682,90.438 L56.767,90.316 L56.851,90.193 L56.934,90.068 L57.016,89.943 L57.098,89.816 L57.179,89.689 L57.259,89.56 L57.339,89.43 L57.417,89.299 L57.495,89.167 L57.572,89.034 L57.649,88.899 L57.724,88.763 L57.799,88.627 L57.873,88.489 L57.946,88.35 L58.019,88.209 L58.091,88.068 L58.162,87.926 L58.232,87.782 L58.301,87.637 L58.37,87.491 L58.438,87.344 L58.505,87.196 L58.571,87.047 L58.637,86.896 L58.702,86.745 L58.766,86.592 L58.829,86.438 L58.892,86.283 L58.954,86.127 L59.015,85.969 L59.075,85.811 L59.134,85.651 L59.193,85.491 L59.251,85.329 L59.308,85.166 L59.365,85.001 L59.42,84.836 L59.475,84.67 L59.529,84.502 L59.583,84.333 L59.583,84.333 L59.583,84.333 L59.583,0 L59.583,0 L59.583,0 L0.249,0 L0.249,0 z" stroke-width="1" stroke-dasharray="none" />
+         </g>
+      </g>
+      <g width="100" height="25" transform="scale(1,1) translate(762.667,910.346)">
+         <g transform="scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+            <path d="M0,5 a5,5 0 0,1 5,-5 l90,0 a5,5 0 0,1 5,5 l0,15 a5,5 0 0,1 -5,5 l-90,0 a5,5 0 0,1 -5,-5 z" stroke-width="1" stroke-dasharray="none" />
+         </g>
+      </g>
+      <g width="100" height="25" transform="scale(1,1) translate(762.667,991.679)">
+         <g transform="scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+            <path d="M0,5 a5,5 0 0,1 5,-5 l90,0 a5,5 0 0,1 5,5 l0,15 a5,5 0 0,1 -5,5 l-90,0 a5,5 0 0,1 -5,-5 z" stroke-width="1" stroke-dasharray="none" />
+         </g>
+      </g>
+      <g width="36.409" height="36.583" transform="scale(1,1) translate(794.712,947.221)">
+         <g width="36.409" height="36.583" transform="scale(1,1) translate(0,0)" stroke="#000000" stroke-width="1" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+            <ellipse rx="18.2045" ry="18.2915" cx="18.2045" cy="18.2915" />
+         </g>
+         <g width="25.03759240608784" height="25.16077278497821" transform="scale(1,1) translate(5.685,5.711)">
+            <text width="25.03759240608784" height="23.958332061767578" transform="scale(1,1) translate(0,0.601220361605316)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="19.444444444444443" font-weight="normal" font-style="normal" fill="#000000" opacity="1" x="0.158" text-anchor="start" y="19.792" textLength="24.72109603881836" style="font-family: Verdana, Geneva, sans-serif;">13</tspan></text>
+         </g>
+      </g>
+      <g width="60.5" height="96.5" transform="rotate(90,812.917,1075.834) scale(1,1) translate(782.667,1027.584)">
+         <g transform="scale(1,1) translate(0,0)" stroke="#000000" fill="#FFFFFF" fill-opacity="1" stroke-opacity="1">
+            <path class="tableshape" id="tb14" d="M0.249,0 L0.249,0 L0.249,85.167 L0.249,85.167 L0.249,85.167 L0.217,85.333 L0.188,85.498 L0.16,85.661 L0.134,85.824 L0.111,85.985 L0.09,86.145 L0.071,86.303 L0.055,86.46 L0.04,86.616 L0.028,86.771 L0.018,86.925 L0.01,87.077 L0.005,87.228 L0.001,87.378 L0,87.526 L0.001,87.674 L0.004,87.819 L0.01,87.964 L0.017,88.108 L0.027,88.25 L0.039,88.391 L0.053,88.53 L0.069,88.669 L0.088,88.806 L0.109,88.942 L0.132,89.076 L0.157,89.21 L0.184,89.342 L0.214,89.473 L0.246,89.602 L0.28,89.731 L0.316,89.858 L0.354,89.984 L0.395,90.108 L0.437,90.231 L0.482,90.353 L0.529,90.474 L0.579,90.594 L0.63,90.712 L0.684,90.829 L0.74,90.945 L0.798,91.059 L0.859,91.172 L0.921,91.284 L0.986,91.395 L1.053,91.504 L1.122,91.612 L1.193,91.719 L1.267,91.825 L1.343,91.929 L1.421,92.032 L1.501,92.134 L1.583,92.235 L1.668,92.334 L1.755,92.432 L1.844,92.529 L1.935,92.625 L2.028,92.719 L2.124,92.812 L2.221,92.904 L2.321,92.994 L2.423,93.084 L2.528,93.172 L2.634,93.258 L2.743,93.344 L2.854,93.428 L2.967,93.511 L3.083,93.593 L3.2,93.673 L3.32,93.752 L3.442,93.83 L3.566,93.907 L3.692,93.982 L3.821,94.056 L3.952,94.129 L4.085,94.201 L4.22,94.271 L4.357,94.34 L4.497,94.408 L4.638,94.475 L4.782,94.54 L4.928,94.604 L5.077,94.667 L5.227,94.728 L5.38,94.789 L5.535,94.848 L5.692,94.905 L5.851,94.962 L6.013,95.017 L6.177,95.071 L6.343,95.124 L6.511,95.175 L6.681,95.225 L6.854,95.274 L7.028,95.322 L7.205,95.368 L7.384,95.413 L7.566,95.457 L7.749,95.5 L7.749,95.5 L7.749,95.5 L50.583,95.5 L50.583,95.5 L50.583,95.5 L50.711,95.443 L50.839,95.385 L50.966,95.326 L51.092,95.266 L51.217,95.204 L51.342,95.142 L51.466,95.078 L51.589,95.013 L51.711,94.947 L51.833,94.88 L51.954,94.812 L52.074,94.743 L52.193,94.672 L52.311,94.6 L52.429,94.527 L52.546,94.454 L52.662,94.378 L52.778,94.302 L52.892,94.225 L53.006,94.146 L53.119,94.067 L53.232,93.986 L53.343,93.904 L53.454,93.821 L53.564,93.736 L53.674,93.651 L53.782,93.564 L53.89,93.477 L53.997,93.388 L54.103,93.298 L54.209,93.207 L54.313,93.115 L54.417,93.021 L54.521,92.927 L54.623,92.831 L54.725,92.734 L54.825,92.636 L54.926,92.537 L55.025,92.437 L55.123,92.336 L55.221,92.233 L55.318,92.129 L55.415,92.025 L55.51,91.919 L55.605,91.812 L55.699,91.703 L55.792,91.594 L55.884,91.484 L55.976,91.372 L56.067,91.259 L56.157,91.145 L56.247,91.03 L56.335,90.914 L56.423,90.796 L56.51,90.678 L56.596,90.558 L56.682,90.438 L56.767,90.316 L56.851,90.193 L56.934,90.068 L57.016,89.943 L57.098,89.816 L57.179,89.689 L57.259,89.56 L57.339,89.43 L57.417,89.299 L57.495,89.167 L57.572,89.034 L57.649,88.899 L57.724,88.763 L57.799,88.627 L57.873,88.489 L57.946,88.35 L58.019,88.209 L58.091,88.068 L58.162,87.926 L58.232,87.782 L58.301,87.637 L58.37,87.491 L58.438,87.344 L58.505,87.196 L58.571,87.047 L58.637,86.896 L58.702,86.745 L58.766,86.592 L58.829,86.438 L58.892,86.283 L58.954,86.127 L59.015,85.969 L59.075,85.811 L59.134,85.651 L59.193,85.491 L59.251,85.329 L59.308,85.166 L59.365,85.001 L59.42,84.836 L59.475,84.67 L59.529,84.502 L59.583,84.333 L59.583,84.333 L59.583,84.333 L59.583,0 L59.583,0 L59.583,0 L0.249,0 L0.249,0 z" stroke-width="1" stroke-dasharray="none" />
+         </g>
+      </g>
+      <g width="100" height="25" transform="scale(1,1) translate(762.667,1020.751)">
+         <g transform="scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+            <path d="M0,5 a5,5 0 0,1 5,-5 l90,0 a5,5 0 0,1 5,5 l0,15 a5,5 0 0,1 -5,5 l-90,0 a5,5 0 0,1 -5,-5 z" stroke-width="1" stroke-dasharray="none" />
+         </g>
+      </g>
+      <g width="100" height="25" transform="scale(1,1) translate(762.667,1102.084)">
+         <g transform="scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+            <path d="M0,5 a5,5 0 0,1 5,-5 l90,0 a5,5 0 0,1 5,5 l0,15 a5,5 0 0,1 -5,5 l-90,0 a5,5 0 0,1 -5,-5 z" stroke-width="1" stroke-dasharray="none" />
+         </g>
+      </g>
+      <g width="36.409" height="36.583" transform="scale(1,1) translate(794.712,1057.626)">
+         <g width="36.409" height="36.583" transform="scale(1,1) translate(0,0)" stroke="#000000" stroke-width="1" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+            <ellipse rx="18.2045" ry="18.2915" cx="18.2045" cy="18.2915" />
+         </g>
+         <g width="25.03759240608784" height="25.16077278497821" transform="scale(1,1) translate(5.685,5.711)">
+            <text width="25.03759240608784" height="23.958332061767578" transform="scale(1,1) translate(0,0.601220361605316)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="19.444444444444443" font-weight="normal" font-style="normal" fill="#000000" opacity="1" x="0.158" text-anchor="start" y="19.792" textLength="24.72109603881836" style="font-family: Verdana, Geneva, sans-serif;">14</tspan></text>
+         </g>
+      </g>
+      <g width="100.667" height="58.5" transform="scale(1,1) translate(441.667,804.846)">
+         <g width="100.667" height="58.5" transform="scale(1,1) translate(0,0)">
+            <g width="100.667" height="58.5" transform="scale(1,1) translate(0,0)">
+               <g width="100.667" height="58.5" transform="scale(1,1) translate(0,0)">
+                  <g width="26.333" height="17.833" transform="scale(1,1) translate(-4.167,20.167)">
+                     <g transform="rotate(270,13.167,8.917) scale(1,1) translate(0,0)" stroke="#000000" fill="#FFFFFF" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.659 a1.659,1.659 0 0,1 1.659,-1.659 l23.016,0 a1.659,1.659 0 0,1 1.659,1.659 l0,14.516 a1.659,1.659 0 0,1 -1.659,1.659 l-23.016,0 a1.659,1.659 0 0,1 -1.659,-1.659 z" stroke-width="1.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="26.667" height="13.667" transform="scale(1,1) translate(-2.5,22.333)">
+                     <g transform="rotate(270,13.333,6.833) scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.333 a1.333,1.333 0 0,1 1.333,-1.333 l24,0 a1.333,1.333 0 0,1 1.333,1.333 l0,11 a1.333,1.333 0 0,1 -1.333,1.333 l-24,0 a1.333,1.333 0 0,1 -1.333,-1.333 z" stroke-width="1.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="26.333" height="17.667" transform="scale(1,1) translate(78.667,20.167)">
+                     <g transform="rotate(90,13.167,8.833) scale(1,1) translate(0,0)" stroke="#000000" fill="#FFFFFF" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.643 a1.643,1.643 0 0,1 1.643,-1.643 l23.047,0 a1.643,1.643 0 0,1 1.643,1.643 l0,14.38 a1.643,1.643 0 0,1 -1.643,1.643 l-23.047,0 a1.643,1.643 0 0,1 -1.643,-1.643 z" stroke-width="1.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="26.667" height="13.333" transform="scale(1,1) translate(76.5,22.333)">
+                     <g transform="rotate(90,13.333,6.667) scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.301 a1.301,1.301 0 0,1 1.301,-1.301 l24.065,0 a1.301,1.301 0 0,1 1.301,1.301 l0,10.732 a1.301,1.301 0 0,1 -1.301,1.301 l-24.065,0 a1.301,1.301 0 0,1 -1.301,-1.301 z" stroke-width="1.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="71.333" height="58.5" transform="scale(1,1) translate(14.833,0)">
+                     <g class="tableshape" id="tb4" stroke="#000000" stroke-opacity="1" stroke-width="1.3333333333333333" stroke-dasharray="none" width="71.333" height="58.5" transform="scale(1,1) translate(0,0)" fill="white" fill-opacity="1">
+                        <rect width="71.333" height="58.5" />
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g width="34.896" height="34.896" transform="scale(1,1) translate(32.969,11.802)">
+               <g width="34.896" height="34.896" transform="scale(1,1) translate(0,0)" stroke="#000000" stroke-width="1" stroke-dasharray="none" fill="none" stroke-opacity="1">
+                  <ellipse rx="17.448" ry="17.448" cx="17.448" cy="17.448" />
+               </g>
+               <g width="23.967897955434243" height="23.967897955434243" transform="scale(1,1) translate(5.464,5.464)">
+                  <text width="23.967897955434243" height="23.958332061767578" transform="scale(1,1) translate(0,0.004782946833332247)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="19.444444444444443" font-weight="normal" font-style="normal" fill="#000000" opacity="1" x="5.804" text-anchor="start" y="19.792" textLength="12.36054801940918" style="font-family: Verdana, Geneva, sans-serif;">4</tspan></text>
+               </g>
+            </g>
+         </g>
+      </g>
+      <g width="100.598" height="58.5" transform="scale(1,1) translate(441.667,905.012)">
+         <g width="100.598" height="58.5" transform="scale(1,1) translate(0,0)">
+            <g width="100.598" height="58.5" transform="scale(1,1) translate(0,0)">
+               <g width="100.598" height="58.5" transform="scale(1,1) translate(0,0)">
+                  <g width="26.334" height="17.855" transform="scale(1,1) translate(-4.239,20.205)">
+                     <g transform="rotate(270,13.167,8.928) scale(1,1) translate(0,0)" stroke="#000000" fill="#FFFFFF" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.661 a1.661,1.661 0 0,1 1.661,-1.661 l23.012,0 a1.661,1.661 0 0,1 1.661,1.661 l0,14.533 a1.661,1.661 0 0,1 -1.661,1.661 l-23.012,0 a1.661,1.661 0 0,1 -1.661,-1.661 z" stroke-width="1.41" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="26.788" height="13.627" transform="scale(1,1) translate(-2.65,22.319)">
+                     <g transform="rotate(270,13.394,6.813) scale(1,1) translate(0,0)" stroke="#000000" fill="#f4f4f4" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.329 a1.329,1.329 0 0,1 1.329,-1.329 l24.129,0 a1.329,1.329 0 0,1 1.329,1.329 l0,10.968 a1.329,1.329 0 0,1 -1.329,1.329 l-24.129,0 a1.329,1.329 0 0,1 -1.329,-1.329 z" stroke-width="1.41" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="26.334" height="17.62" transform="scale(1,1) translate(78.621,20.205)">
+                     <g transform="rotate(90,13.167,8.81) scale(1,1) translate(0,0)" stroke="#000000" fill="#FFFFFF" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.639 a1.639,1.639 0 0,1 1.639,-1.639 l23.055,0 a1.639,1.639 0 0,1 1.639,1.639 l0,14.342 a1.639,1.639 0 0,1 -1.639,1.639 l-23.055,0 a1.639,1.639 0 0,1 -1.639,-1.639 z" stroke-width="1.41" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="26.788" height="13.392" transform="scale(1,1) translate(76.351,22.319)">
+                     <g transform="rotate(90,13.394,6.696) scale(1,1) translate(0,0)" stroke="#000000" fill="#f4f4f4" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.306 a1.306,1.306 0 0,1 1.306,-1.306 l24.175,0 a1.306,1.306 0 0,1 1.306,1.306 l0,10.779 a1.306,1.306 0 0,1 -1.306,1.306 l-24.175,0 a1.306,1.306 0 0,1 -1.306,-1.306 z" stroke-width="1.41" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="71.283" height="58.5" transform="scale(1,1) translate(14.83,0)">
+                     <g class="tableshape" id="tb5" stroke="#000000" stroke-opacity="1" stroke-width="1.4096385542168675" stroke-dasharray="none" width="71.283" height="58.5" transform="scale(1,1) translate(0,0)" fill="white" fill-opacity="1">
+                        <rect width="71.283" height="58.5" />
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g width="34.882" height="34.882" transform="scale(1,1) translate(32.858,11.809)">
+               <g width="34.882" height="34.882" transform="scale(1,1) translate(0,0)" stroke="#000000" stroke-width="1" stroke-dasharray="none" fill="none" stroke-opacity="1">
+                  <ellipse rx="17.441" ry="17.441" cx="17.441" cy="17.441" />
+               </g>
+               <g width="23.958332061767578" height="23.958332061767578" transform="scale(1,1) translate(5.462,5.462)">
+                  <text width="23.958332061767578" height="23.958332061767578" transform="scale(1,1) translate(0,0)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="19.444444444444443" font-weight="normal" font-style="normal" fill="#000000" opacity="1" x="5.799" text-anchor="start" y="19.792" textLength="12.36054801940918" style="font-family: Verdana, Geneva, sans-serif;">5</tspan></text>
+               </g>
+            </g>
+         </g>
+      </g>
+      <g width="91.667" height="91.333" transform="scale(1,1) translate(641.667,588.679)">
+         <g width="91.667" height="91.333" transform="scale(1,1) translate(0,0)">
+            <g width="91.667" height="91.333" transform="scale(1,1) translate(0,0)">
+               <g width="91.667" height="91.333" transform="scale(0.7735583684950773,0.7740112994350282) translate(0,0)">
+                  <g width="34.167" height="22.5" transform="scale(1,1) translate(81.333,86.833)">
+                     <g transform="rotate(135,17.083,11.25) scale(1,1) translate(0,0)" stroke="#000000" fill="#FFFFFF" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,2.093 a2.093,2.093 0 0,1 2.093,-2.093 l29.981,0 a2.093,2.093 0 0,1 2.093,2.093 l0,18.314 a2.093,2.093 0 0,1 -2.093,2.093 l-29.981,0 a2.093,2.093 0 0,1 -2.093,-2.093 z" stroke-width="1.667" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="34.667" height="17.333" transform="scale(1,1) translate(79.167,87.667)">
+                     <g transform="rotate(135,17.333,8.667) scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.691 a1.691,1.691 0 0,1 1.691,-1.691 l31.285,0 a1.691,1.691 0 0,1 1.691,1.691 l0,13.951 a1.691,1.691 0 0,1 -1.691,1.691 l-31.285,0 a1.691,1.691 0 0,1 -1.691,-1.691 z" stroke-width="1.667" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="34.167" height="22.5" transform="scale(1,1) translate(3.167,8.5)">
+                     <g transform="rotate(318.2,17.083,11.25) scale(1,1) translate(0,0)" stroke="#000000" fill="#FFFFFF" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,2.093 a2.093,2.093 0 0,1 2.093,-2.093 l29.981,0 a2.093,2.093 0 0,1 2.093,2.093 l0,18.314 a2.093,2.093 0 0,1 -2.093,2.093 l-29.981,0 a2.093,2.093 0 0,1 -2.093,-2.093 z" stroke-width="1.667" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="34.667" height="17.333" transform="scale(1,1) translate(4.833,12.833)">
+                     <g transform="rotate(319,17.333,8.667) scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.691 a1.691,1.691 0 0,1 1.691,-1.691 l31.285,0 a1.691,1.691 0 0,1 1.691,1.691 l0,13.951 a1.691,1.691 0 0,1 -1.691,1.691 l-31.285,0 a1.691,1.691 0 0,1 -1.691,-1.691 z" stroke-width="1.667" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="34" height="22.667" transform="scale(1,1) translate(4.5,86.333)">
+                     <g transform="rotate(224,17,11.333) scale(1,1) translate(0,0)" stroke="#000000" fill="#FFFFFF" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,2.109 a2.109,2.109 0 0,1 2.109,-2.109 l29.783,0 a2.109,2.109 0 0,1 2.109,2.109 l0,18.45 a2.109,2.109 0 0,1 -2.109,2.109 l-29.783,0 a2.109,2.109 0 0,1 -2.109,-2.109 z" stroke-width="1.667" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="34.5" height="17.667" transform="scale(1,1) translate(6,86.5)">
+                     <g transform="rotate(225,17.25,8.833) scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.724 a1.724,1.724 0 0,1 1.724,-1.724 l31.053,0 a1.724,1.724 0 0,1 1.724,1.724 l0,14.22 a1.724,1.724 0 0,1 -1.724,1.724 l-31.053,0 a1.724,1.724 0 0,1 -1.724,-1.724 z" stroke-width="1.667" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="34" height="22.333" transform="scale(1,1) translate(80.5,9.167)">
+                     <g transform="rotate(45,17,11.167) scale(1,1) translate(0,0)" stroke="#000000" fill="#FFFFFF" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,2.078 a2.078,2.078 0 0,1 2.078,-2.078 l29.845,0 a2.078,2.078 0 0,1 2.078,2.078 l0,18.178 a2.078,2.078 0 0,1 -2.078,2.078 l-29.845,0 a2.078,2.078 0 0,1 -2.078,-2.078 z" stroke-width="1.667" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="34.5" height="17.833" transform="scale(1,1) translate(78.5,13.5)">
+                     <g transform="rotate(45,17.25,8.917) scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.74 a1.74,1.74 0 0,1 1.74,-1.74 l31.02,0 a1.74,1.74 0 0,1 1.74,1.74 l0,14.354 a1.74,1.74 0 0,1 -1.74,1.74 l-31.02,0 a1.74,1.74 0 0,1 -1.74,-1.74 z" stroke-width="1.667" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="98.5" height="101.333" transform="scale(1,1) translate(8.833,8.5)">
+                     <g class="tableshape" id="tb6" width="98.5" height="101.333" transform="rotate(45,49.25,50.667) scale(1,1) translate(0,0)" stroke="#000000" stroke-width="1.6666666666666665" stroke-dasharray="none" fill="white" fill-opacity="1" stroke-opacity="1">
+                        <ellipse rx="49.25" ry="50.6665" cx="49.25" cy="50.6665" />
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g width="34.5" height="34.5" transform="scale(1,1) translate(28.667,28.333)">
+               <g width="34.5" height="34.5" transform="scale(1,1) translate(0,0)" stroke="#000000" stroke-width="1" stroke-dasharray="none" fill="none" stroke-opacity="1">
+                  <ellipse rx="17.25" ry="17.25" cx="17.25" cy="17.25" />
+               </g>
+               <g width="23.688077197" height="23.958332061767578" transform="scale(1,1) translate(5.406,5.406)">
+                  <text width="23.688077197" height="23.958332061767578" transform="scale(1,1) translate(0,0)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="19.444444444444443" font-weight="normal" font-style="normal" fill="#000000" opacity="1" x="5.664" text-anchor="start" y="19.792" textLength="12.36054801940918" style="font-family: Verdana, Geneva, sans-serif;">6</tspan></text>
+               </g>
+            </g>
+         </g>
+      </g>
+      <g width="91.667" height="91.333" transform="scale(1,1) translate(641.667,721.679)">
+         <g width="91.667" height="91.333" transform="scale(1,1) translate(0,0)">
+            <g width="91.667" height="91.333" transform="scale(1,1) translate(0,0)">
+               <g width="91.667" height="91.333" transform="scale(0.7735583684950773,0.7740112994350282) translate(0,0)">
+                  <g width="34.167" height="22.5" transform="scale(1,1) translate(81.333,86.833)">
+                     <g transform="rotate(135,17.083,11.25) scale(1,1) translate(0,0)" stroke="#000000" fill="#FFFFFF" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,2.093 a2.093,2.093 0 0,1 2.093,-2.093 l29.981,0 a2.093,2.093 0 0,1 2.093,2.093 l0,18.314 a2.093,2.093 0 0,1 -2.093,2.093 l-29.981,0 a2.093,2.093 0 0,1 -2.093,-2.093 z" stroke-width="1.667" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="34.667" height="17.333" transform="scale(1,1) translate(79.167,87.667)">
+                     <g transform="rotate(135,17.333,8.667) scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.691 a1.691,1.691 0 0,1 1.691,-1.691 l31.285,0 a1.691,1.691 0 0,1 1.691,1.691 l0,13.951 a1.691,1.691 0 0,1 -1.691,1.691 l-31.285,0 a1.691,1.691 0 0,1 -1.691,-1.691 z" stroke-width="1.667" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="34.167" height="22.5" transform="scale(1,1) translate(3.167,8.5)">
+                     <g transform="rotate(318.2,17.083,11.25) scale(1,1) translate(0,0)" stroke="#000000" fill="#FFFFFF" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,2.093 a2.093,2.093 0 0,1 2.093,-2.093 l29.981,0 a2.093,2.093 0 0,1 2.093,2.093 l0,18.314 a2.093,2.093 0 0,1 -2.093,2.093 l-29.981,0 a2.093,2.093 0 0,1 -2.093,-2.093 z" stroke-width="1.667" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="34.667" height="17.333" transform="scale(1,1) translate(4.833,12.833)">
+                     <g transform="rotate(319,17.333,8.667) scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.691 a1.691,1.691 0 0,1 1.691,-1.691 l31.285,0 a1.691,1.691 0 0,1 1.691,1.691 l0,13.951 a1.691,1.691 0 0,1 -1.691,1.691 l-31.285,0 a1.691,1.691 0 0,1 -1.691,-1.691 z" stroke-width="1.667" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="34" height="22.667" transform="scale(1,1) translate(4.5,86.333)">
+                     <g transform="rotate(224,17,11.333) scale(1,1) translate(0,0)" stroke="#000000" fill="#FFFFFF" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,2.109 a2.109,2.109 0 0,1 2.109,-2.109 l29.783,0 a2.109,2.109 0 0,1 2.109,2.109 l0,18.45 a2.109,2.109 0 0,1 -2.109,2.109 l-29.783,0 a2.109,2.109 0 0,1 -2.109,-2.109 z" stroke-width="1.667" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="34.5" height="17.667" transform="scale(1,1) translate(6,86.5)">
+                     <g transform="rotate(225,17.25,8.833) scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.724 a1.724,1.724 0 0,1 1.724,-1.724 l31.053,0 a1.724,1.724 0 0,1 1.724,1.724 l0,14.22 a1.724,1.724 0 0,1 -1.724,1.724 l-31.053,0 a1.724,1.724 0 0,1 -1.724,-1.724 z" stroke-width="1.667" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="34" height="22.333" transform="scale(1,1) translate(80.5,9.167)">
+                     <g transform="rotate(45,17,11.167) scale(1,1) translate(0,0)" stroke="#000000" fill="#FFFFFF" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,2.078 a2.078,2.078 0 0,1 2.078,-2.078 l29.845,0 a2.078,2.078 0 0,1 2.078,2.078 l0,18.178 a2.078,2.078 0 0,1 -2.078,2.078 l-29.845,0 a2.078,2.078 0 0,1 -2.078,-2.078 z" stroke-width="1.667" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="34.5" height="17.833" transform="scale(1,1) translate(78.5,13.5)">
+                     <g transform="rotate(45,17.25,8.917) scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.74 a1.74,1.74 0 0,1 1.74,-1.74 l31.02,0 a1.74,1.74 0 0,1 1.74,1.74 l0,14.354 a1.74,1.74 0 0,1 -1.74,1.74 l-31.02,0 a1.74,1.74 0 0,1 -1.74,-1.74 z" stroke-width="1.667" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="98.5" height="101.333" transform="scale(1,1) translate(8.833,8.5)">
+                     <g class="tableshape" id="tb7" width="98.5" height="101.333" transform="rotate(45,49.25,50.667) scale(1,1) translate(0,0)" stroke="#000000" stroke-width="1.6666666666666665" stroke-dasharray="none" fill="white" fill-opacity="1" stroke-opacity="1">
+                        <ellipse rx="49.25" ry="50.6665" cx="49.25" cy="50.6665" />
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g width="34.66" height="34.66" transform="scale(1,1) translate(28.587,28.253)">
+               <g width="34.66" height="34.66" transform="scale(1,1) translate(0,0)" stroke="#000000" stroke-width="1" stroke-dasharray="none" fill="none" stroke-opacity="1">
+                  <ellipse rx="17.33" ry="17.33" cx="17.33" cy="17.33" />
+               </g>
+               <g width="23.801231288767575" height="23.958332061767578" transform="scale(1,1) translate(5.429,5.429)">
+                  <text width="23.801231288767575" height="23.958332061767578" transform="scale(1,1) translate(0,0)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="19.444444444444443" font-weight="normal" font-style="normal" fill="#000000" opacity="1" x="5.72" text-anchor="start" y="19.792" textLength="12.36054801940918" style="font-family: Verdana, Geneva, sans-serif;">7</tspan></text>
+               </g>
+            </g>
+         </g>
+      </g>
+      <g width="100.667" height="58.5" transform="scale(1,1) translate(641.667,905.012)">
+         <g width="100.667" height="58.5" transform="scale(1,1) translate(0,0)">
+            <g width="100.667" height="58.5" transform="scale(1,1) translate(0,0)">
+               <g width="100.667" height="58.5" transform="scale(1,1) translate(0,0)">
+                  <g width="26.333" height="17.833" transform="scale(1,1) translate(-4.167,20.167)">
+                     <g transform="rotate(270,13.167,8.917) scale(1,1) translate(0,0)" stroke="#000000" fill="#FFFFFF" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.659 a1.659,1.659 0 0,1 1.659,-1.659 l23.016,0 a1.659,1.659 0 0,1 1.659,1.659 l0,14.516 a1.659,1.659 0 0,1 -1.659,1.659 l-23.016,0 a1.659,1.659 0 0,1 -1.659,-1.659 z" stroke-width="1.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="26.667" height="13.667" transform="scale(1,1) translate(-2.5,22.333)">
+                     <g transform="rotate(270,13.333,6.833) scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.333 a1.333,1.333 0 0,1 1.333,-1.333 l24,0 a1.333,1.333 0 0,1 1.333,1.333 l0,11 a1.333,1.333 0 0,1 -1.333,1.333 l-24,0 a1.333,1.333 0 0,1 -1.333,-1.333 z" stroke-width="1.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="26.333" height="17.667" transform="scale(1,1) translate(78.667,20.167)">
+                     <g transform="rotate(90,13.167,8.833) scale(1,1) translate(0,0)" stroke="#000000" fill="#FFFFFF" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.643 a1.643,1.643 0 0,1 1.643,-1.643 l23.047,0 a1.643,1.643 0 0,1 1.643,1.643 l0,14.38 a1.643,1.643 0 0,1 -1.643,1.643 l-23.047,0 a1.643,1.643 0 0,1 -1.643,-1.643 z" stroke-width="1.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="26.667" height="13.333" transform="scale(1,1) translate(76.5,22.333)">
+                     <g transform="rotate(90,13.333,6.667) scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.301 a1.301,1.301 0 0,1 1.301,-1.301 l24.065,0 a1.301,1.301 0 0,1 1.301,1.301 l0,10.732 a1.301,1.301 0 0,1 -1.301,1.301 l-24.065,0 a1.301,1.301 0 0,1 -1.301,-1.301 z" stroke-width="1.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="71.333" height="58.5" transform="scale(1,1) translate(14.833,0)">
+                     <g class="tableshape" id="tb8" stroke="#000000" stroke-opacity="1" stroke-width="1.3333333333333333" stroke-dasharray="none" width="71.333" height="58.5" transform="scale(1,1) translate(0,0)" fill="white" fill-opacity="1">
+                        <rect width="71.333" height="58.5" />
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g width="34.833" height="34.833" transform="scale(1,1) translate(33,11.833)">
+               <g width="34.833" height="34.833" transform="scale(1,1) translate(0,0)" stroke="#000000" stroke-width="1" stroke-dasharray="none" fill="none" stroke-opacity="1">
+                  <ellipse rx="17.4165" ry="17.4165" cx="17.4165" cy="17.4165" />
+               </g>
+               <g width="23.92377945766666" height="23.958332061767578" transform="scale(1,1) translate(5.455,5.455)">
+                  <text width="23.92377945766666" height="23.958332061767578" transform="scale(1,1) translate(0,0)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="19.444444444444443" font-weight="normal" font-style="normal" fill="#000000" opacity="1" x="5.782" text-anchor="start" y="19.792" textLength="12.36054801940918" style="font-family: Verdana, Geneva, sans-serif;">8</tspan></text>
+               </g>
+            </g>
+         </g>
+      </g>
+      <g width="101.333" height="233.667" transform="scale(1,1) translate(782.667,588.679)">
+         <g width="101.333" height="233.667" transform="scale(1,1) translate(0,0)">
+            <g width="100.667" height="58.5" transform="scale(1,1) translate(0,0)">
+               <g width="100.667" height="58.5" transform="scale(1,1) translate(0,0)">
+                  <g width="26.333" height="17.833" transform="scale(1,1) translate(-4.167,20.167)">
+                     <g transform="rotate(270,13.167,8.917) scale(1,1) translate(0,0)" stroke="#000000" fill="#FFFFFF" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.659 a1.659,1.659 0 0,1 1.659,-1.659 l23.016,0 a1.659,1.659 0 0,1 1.659,1.659 l0,14.516 a1.659,1.659 0 0,1 -1.659,1.659 l-23.016,0 a1.659,1.659 0 0,1 -1.659,-1.659 z" stroke-width="1.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="26.667" height="13.667" transform="scale(1,1) translate(-2.5,22.333)">
+                     <g transform="rotate(270,13.333,6.833) scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.333 a1.333,1.333 0 0,1 1.333,-1.333 l24,0 a1.333,1.333 0 0,1 1.333,1.333 l0,11 a1.333,1.333 0 0,1 -1.333,1.333 l-24,0 a1.333,1.333 0 0,1 -1.333,-1.333 z" stroke-width="1.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="26.333" height="17.667" transform="scale(1,1) translate(78.667,20.167)">
+                     <g transform="rotate(90,13.167,8.833) scale(1,1) translate(0,0)" stroke="#000000" fill="#FFFFFF" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.643 a1.643,1.643 0 0,1 1.643,-1.643 l23.047,0 a1.643,1.643 0 0,1 1.643,1.643 l0,14.38 a1.643,1.643 0 0,1 -1.643,1.643 l-23.047,0 a1.643,1.643 0 0,1 -1.643,-1.643 z" stroke-width="1.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="26.667" height="13.333" transform="scale(1,1) translate(76.5,22.333)">
+                     <g transform="rotate(90,13.333,6.667) scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.301 a1.301,1.301 0 0,1 1.301,-1.301 l24.065,0 a1.301,1.301 0 0,1 1.301,1.301 l0,10.732 a1.301,1.301 0 0,1 -1.301,1.301 l-24.065,0 a1.301,1.301 0 0,1 -1.301,-1.301 z" stroke-width="1.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="71.333" height="58.5" transform="scale(1,1) translate(14.833,0)">
+                     <g class="tableshape" id="tb9" stroke="#000000" stroke-opacity="1" stroke-width="1.3333333333333333" stroke-dasharray="none" width="71.333" height="58.5" transform="scale(1,1) translate(0,0)" fill="white" fill-opacity="1">
+                        <rect width="71.333" height="58.5" />
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g width="34.833" height="34.833" transform="scale(1,1) translate(33,11.833)">
+               <g width="34.833" height="34.833" transform="scale(1,1) translate(0,0)" stroke="#000000" stroke-width="1" stroke-dasharray="none" fill="none" stroke-opacity="1">
+                  <ellipse rx="17.4165" ry="17.4165" cx="17.4165" cy="17.4165" />
+               </g>
+               <g width="23.92377945766666" height="23.958332061767578" transform="scale(1,1) translate(5.455,5.455)">
+                  <text width="23.92377945766666" height="23.958332061767578" transform="scale(1,1) translate(0,0)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="19.444444444444443" font-weight="normal" font-style="normal" fill="#000000" opacity="1" x="5.782" text-anchor="start" y="19.792" textLength="12.36054801940918" style="font-family: Verdana, Geneva, sans-serif;">9</tspan></text>
+               </g>
+            </g>
+            <g width="100.667" height="58.5" transform="scale(1,1) translate(0,58.5)">
+               <g width="100.667" height="58.5" transform="scale(1,1) translate(0,0)">
+                  <g width="26.333" height="17.833" transform="scale(1,1) translate(-4.167,20.167)">
+                     <g transform="rotate(270,13.167,8.917) scale(1,1) translate(0,0)" stroke="#000000" fill="#FFFFFF" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.659 a1.659,1.659 0 0,1 1.659,-1.659 l23.016,0 a1.659,1.659 0 0,1 1.659,1.659 l0,14.516 a1.659,1.659 0 0,1 -1.659,1.659 l-23.016,0 a1.659,1.659 0 0,1 -1.659,-1.659 z" stroke-width="1.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="26.667" height="13.667" transform="scale(1,1) translate(-2.5,22.333)">
+                     <g transform="rotate(270,13.333,6.833) scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.333 a1.333,1.333 0 0,1 1.333,-1.333 l24,0 a1.333,1.333 0 0,1 1.333,1.333 l0,11 a1.333,1.333 0 0,1 -1.333,1.333 l-24,0 a1.333,1.333 0 0,1 -1.333,-1.333 z" stroke-width="1.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="26.333" height="17.667" transform="scale(1,1) translate(78.667,20.167)">
+                     <g transform="rotate(90,13.167,8.833) scale(1,1) translate(0,0)" stroke="#000000" fill="#FFFFFF" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.643 a1.643,1.643 0 0,1 1.643,-1.643 l23.047,0 a1.643,1.643 0 0,1 1.643,1.643 l0,14.38 a1.643,1.643 0 0,1 -1.643,1.643 l-23.047,0 a1.643,1.643 0 0,1 -1.643,-1.643 z" stroke-width="1.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="26.667" height="13.333" transform="scale(1,1) translate(76.5,22.333)">
+                     <g transform="rotate(90,13.333,6.667) scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.301 a1.301,1.301 0 0,1 1.301,-1.301 l24.065,0 a1.301,1.301 0 0,1 1.301,1.301 l0,10.732 a1.301,1.301 0 0,1 -1.301,1.301 l-24.065,0 a1.301,1.301 0 0,1 -1.301,-1.301 z" stroke-width="1.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="71.333" height="58.5" transform="scale(1,1) translate(14.833,0)">
+                     <g class="tableshape" id="tb10" stroke="#000000" stroke-opacity="1" stroke-width="1.3333333333333333" stroke-dasharray="none" width="71.333" height="58.5" transform="scale(1,1) translate(0,0)" fill="white" fill-opacity="1">
+                        <rect width="71.333" height="58.5" />
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g width="36.424" height="36.424" transform="scale(1,1) translate(32.205,69.538)">
+               <g width="36.424" height="36.424" transform="scale(1,1) translate(0,0)" stroke="#000000" stroke-width="1" stroke-dasharray="none" fill="none" stroke-opacity="1">
+                  <ellipse rx="18.212" ry="18.212" cx="18.212" cy="18.212" />
+               </g>
+               <g width="25.04844592637925" height="25.04844592637925" transform="scale(1,1) translate(5.688,5.688)">
+                  <text width="25.04844592637925" height="23.958332061767578" transform="scale(1,1) translate(0,0.5450569323058367)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="19.444444444444443" font-weight="normal" font-style="normal" fill="#000000" opacity="1" x="0.164" text-anchor="start" y="19.792" textLength="24.72109603881836" style="font-family: Verdana, Geneva, sans-serif;">10</tspan></text>
+               </g>
+            </g>
+            <g width="100.667" height="58.5" transform="scale(1,1) translate(0.667,116.667)">
+               <g width="100.667" height="58.5" transform="scale(1,1) translate(0,0)">
+                  <g width="26.333" height="17.833" transform="scale(1,1) translate(-4.167,20.167)">
+                     <g transform="rotate(270,13.167,8.917) scale(1,1) translate(0,0)" stroke="#000000" fill="#FFFFFF" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.659 a1.659,1.659 0 0,1 1.659,-1.659 l23.016,0 a1.659,1.659 0 0,1 1.659,1.659 l0,14.516 a1.659,1.659 0 0,1 -1.659,1.659 l-23.016,0 a1.659,1.659 0 0,1 -1.659,-1.659 z" stroke-width="1.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="26.667" height="13.667" transform="scale(1,1) translate(-2.5,22.333)">
+                     <g transform="rotate(270,13.333,6.833) scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.333 a1.333,1.333 0 0,1 1.333,-1.333 l24,0 a1.333,1.333 0 0,1 1.333,1.333 l0,11 a1.333,1.333 0 0,1 -1.333,1.333 l-24,0 a1.333,1.333 0 0,1 -1.333,-1.333 z" stroke-width="1.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="26.333" height="17.667" transform="scale(1,1) translate(78.667,20.167)">
+                     <g transform="rotate(90,13.167,8.833) scale(1,1) translate(0,0)" stroke="#000000" fill="#FFFFFF" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.643 a1.643,1.643 0 0,1 1.643,-1.643 l23.047,0 a1.643,1.643 0 0,1 1.643,1.643 l0,14.38 a1.643,1.643 0 0,1 -1.643,1.643 l-23.047,0 a1.643,1.643 0 0,1 -1.643,-1.643 z" stroke-width="1.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="26.667" height="13.333" transform="scale(1,1) translate(76.5,22.333)">
+                     <g transform="rotate(90,13.333,6.667) scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.301 a1.301,1.301 0 0,1 1.301,-1.301 l24.065,0 a1.301,1.301 0 0,1 1.301,1.301 l0,10.732 a1.301,1.301 0 0,1 -1.301,1.301 l-24.065,0 a1.301,1.301 0 0,1 -1.301,-1.301 z" stroke-width="1.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="71.333" height="58.5" transform="scale(1,1) translate(14.833,0)">
+                     <g class="tableshape" id="tb11" stroke="#000000" stroke-opacity="1" stroke-width="1.3333333333333333" stroke-dasharray="none" width="71.333" height="58.5" transform="scale(1,1) translate(0,0)" fill="white" fill-opacity="1">
+                        <rect width="71.333" height="58.5" />
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g width="36.424" height="36.424" transform="scale(1,1) translate(32.871,127.705)">
+               <g width="36.424" height="36.424" transform="scale(1,1) translate(0,0)" stroke="#000000" stroke-width="1" stroke-dasharray="none" fill="none" stroke-opacity="1">
+                  <ellipse rx="18.212" ry="18.212" cx="18.212" cy="18.212" />
+               </g>
+               <g width="25.04844592637925" height="25.04844592637925" transform="scale(1,1) translate(5.688,5.688)">
+                  <text width="25.04844592637925" height="23.958332061767578" transform="scale(1,1) translate(0,0.5450569323058367)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="19.444444444444443" font-weight="normal" font-style="normal" fill="#000000" opacity="1" x="0.164" text-anchor="start" y="19.792" textLength="24.72109603881836" style="font-family: Verdana, Geneva, sans-serif;">11</tspan></text>
+               </g>
+            </g>
+            <g width="100.667" height="58.5" transform="scale(1,1) translate(0.667,175.167)">
+               <g width="100.667" height="58.5" transform="scale(1,1) translate(0,0)">
+                  <g width="26.333" height="17.833" transform="scale(1,1) translate(-4.167,20.167)">
+                     <g transform="rotate(270,13.167,8.917) scale(1,1) translate(0,0)" stroke="#000000" fill="#FFFFFF" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.659 a1.659,1.659 0 0,1 1.659,-1.659 l23.016,0 a1.659,1.659 0 0,1 1.659,1.659 l0,14.516 a1.659,1.659 0 0,1 -1.659,1.659 l-23.016,0 a1.659,1.659 0 0,1 -1.659,-1.659 z" stroke-width="1.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="26.667" height="13.667" transform="scale(1,1) translate(-2.5,22.333)">
+                     <g transform="rotate(270,13.333,6.833) scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.333 a1.333,1.333 0 0,1 1.333,-1.333 l24,0 a1.333,1.333 0 0,1 1.333,1.333 l0,11 a1.333,1.333 0 0,1 -1.333,1.333 l-24,0 a1.333,1.333 0 0,1 -1.333,-1.333 z" stroke-width="1.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="26.333" height="17.667" transform="scale(1,1) translate(78.667,20.167)">
+                     <g transform="rotate(90,13.167,8.833) scale(1,1) translate(0,0)" stroke="#000000" fill="#FFFFFF" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.643 a1.643,1.643 0 0,1 1.643,-1.643 l23.047,0 a1.643,1.643 0 0,1 1.643,1.643 l0,14.38 a1.643,1.643 0 0,1 -1.643,1.643 l-23.047,0 a1.643,1.643 0 0,1 -1.643,-1.643 z" stroke-width="1.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="26.667" height="13.333" transform="scale(1,1) translate(76.5,22.333)">
+                     <g transform="rotate(90,13.333,6.667) scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+                        <path d="M0,1.301 a1.301,1.301 0 0,1 1.301,-1.301 l24.065,0 a1.301,1.301 0 0,1 1.301,1.301 l0,10.732 a1.301,1.301 0 0,1 -1.301,1.301 l-24.065,0 a1.301,1.301 0 0,1 -1.301,-1.301 z" stroke-width="1.333" stroke-dasharray="none" />
+                     </g>
+                  </g>
+                  <g width="71.333" height="58.5" transform="scale(1,1) translate(14.833,0)">
+                     <g class="tableshape" id="tb12" stroke="#000000" stroke-opacity="1" stroke-width="1.3333333333333333" stroke-dasharray="none" width="71.333" height="58.5" transform="scale(1,1) translate(0,0)" fill="white" fill-opacity="1">
+                        <rect width="71.333" height="58.5" />
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g width="36.424" height="36.424" transform="scale(1,1) translate(32.871,186.205)">
+               <g width="36.424" height="36.424" transform="scale(1,1) translate(0,0)" stroke="#000000" stroke-width="1" stroke-dasharray="none" fill="none" stroke-opacity="1">
+                  <ellipse rx="18.212" ry="18.212" cx="18.212" cy="18.212" />
+               </g>
+               <g width="25.04844592637925" height="25.04844592637925" transform="scale(1,1) translate(5.688,5.688)">
+                  <text width="25.04844592637925" height="23.958332061767578" transform="scale(1,1) translate(0,0.5450569323058367)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="19.444444444444443" font-weight="normal" font-style="normal" fill="#000000" opacity="1" x="0.164" text-anchor="start" y="19.792" textLength="24.72109603881836" style="font-family: Verdana, Geneva, sans-serif;">12</tspan></text>
+               </g>
+            </g>
+         </g>
+      </g>
+      <g width="100" height="216.738" transform="scale(1,1) translate(920.961,910.346)">
+         <g width="100" height="216.738" transform="scale(1,1) translate(0,0)">
+            <g width="60.5" height="96.5" transform="scale(1,1) translate(20,6.833)">
+               <g transform="rotate(90,30.25,48.25) scale(1,1) translate(0,0)" stroke="#000000" fill="#FFFFFF" fill-opacity="1" stroke-opacity="1">
+                  <path class="tableshape" id="tb17" d="M0.249,0 L0.249,0 L0.249,85.167 L0.249,85.167 L0.249,85.167 L0.217,85.333 L0.188,85.498 L0.16,85.661 L0.134,85.824 L0.111,85.985 L0.09,86.145 L0.071,86.303 L0.055,86.46 L0.04,86.616 L0.028,86.771 L0.018,86.925 L0.01,87.077 L0.005,87.228 L0.001,87.378 L0,87.526 L0.001,87.674 L0.004,87.819 L0.01,87.964 L0.017,88.108 L0.027,88.25 L0.039,88.391 L0.053,88.53 L0.069,88.669 L0.088,88.806 L0.109,88.942 L0.132,89.076 L0.157,89.21 L0.184,89.342 L0.214,89.473 L0.246,89.602 L0.28,89.731 L0.316,89.858 L0.354,89.984 L0.395,90.108 L0.437,90.231 L0.482,90.353 L0.529,90.474 L0.579,90.594 L0.63,90.712 L0.684,90.829 L0.74,90.945 L0.798,91.059 L0.859,91.172 L0.921,91.284 L0.986,91.395 L1.053,91.504 L1.122,91.612 L1.193,91.719 L1.267,91.825 L1.343,91.929 L1.421,92.032 L1.501,92.134 L1.583,92.235 L1.668,92.334 L1.755,92.432 L1.844,92.529 L1.935,92.625 L2.028,92.719 L2.124,92.812 L2.221,92.904 L2.321,92.994 L2.423,93.084 L2.528,93.172 L2.634,93.258 L2.743,93.344 L2.854,93.428 L2.967,93.511 L3.083,93.593 L3.2,93.673 L3.32,93.752 L3.442,93.83 L3.566,93.907 L3.692,93.982 L3.821,94.056 L3.952,94.129 L4.085,94.201 L4.22,94.271 L4.357,94.34 L4.497,94.408 L4.638,94.475 L4.782,94.54 L4.928,94.604 L5.077,94.667 L5.227,94.728 L5.38,94.789 L5.535,94.848 L5.692,94.905 L5.851,94.962 L6.013,95.017 L6.177,95.071 L6.343,95.124 L6.511,95.175 L6.681,95.225 L6.854,95.274 L7.028,95.322 L7.205,95.368 L7.384,95.413 L7.566,95.457 L7.749,95.5 L7.749,95.5 L7.749,95.5 L50.583,95.5 L50.583,95.5 L50.583,95.5 L50.711,95.443 L50.839,95.385 L50.966,95.326 L51.092,95.266 L51.217,95.204 L51.342,95.142 L51.466,95.078 L51.589,95.013 L51.711,94.947 L51.833,94.88 L51.954,94.812 L52.074,94.743 L52.193,94.672 L52.311,94.6 L52.429,94.527 L52.546,94.454 L52.662,94.378 L52.778,94.302 L52.892,94.225 L53.006,94.146 L53.119,94.067 L53.232,93.986 L53.343,93.904 L53.454,93.821 L53.564,93.736 L53.674,93.651 L53.782,93.564 L53.89,93.477 L53.997,93.388 L54.103,93.298 L54.209,93.207 L54.313,93.115 L54.417,93.021 L54.521,92.927 L54.623,92.831 L54.725,92.734 L54.825,92.636 L54.926,92.537 L55.025,92.437 L55.123,92.336 L55.221,92.233 L55.318,92.129 L55.415,92.025 L55.51,91.919 L55.605,91.812 L55.699,91.703 L55.792,91.594 L55.884,91.484 L55.976,91.372 L56.067,91.259 L56.157,91.145 L56.247,91.03 L56.335,90.914 L56.423,90.796 L56.51,90.678 L56.596,90.558 L56.682,90.438 L56.767,90.316 L56.851,90.193 L56.934,90.068 L57.016,89.943 L57.098,89.816 L57.179,89.689 L57.259,89.56 L57.339,89.43 L57.417,89.299 L57.495,89.167 L57.572,89.034 L57.649,88.899 L57.724,88.763 L57.799,88.627 L57.873,88.489 L57.946,88.35 L58.019,88.209 L58.091,88.068 L58.162,87.926 L58.232,87.782 L58.301,87.637 L58.37,87.491 L58.438,87.344 L58.505,87.196 L58.571,87.047 L58.637,86.896 L58.702,86.745 L58.766,86.592 L58.829,86.438 L58.892,86.283 L58.954,86.127 L59.015,85.969 L59.075,85.811 L59.134,85.651 L59.193,85.491 L59.251,85.329 L59.308,85.166 L59.365,85.001 L59.42,84.836 L59.475,84.67 L59.529,84.502 L59.583,84.333 L59.583,84.333 L59.583,84.333 L59.583,0 L59.583,0 L59.583,0 L0.249,0 L0.249,0 z" stroke-width="1" stroke-dasharray="none" />
+               </g>
+            </g>
+            <g width="100" height="25" transform="scale(1,1) translate(0,0)">
+               <g transform="scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+                  <path d="M0,5 a5,5 0 0,1 5,-5 l90,0 a5,5 0 0,1 5,5 l0,15 a5,5 0 0,1 -5,5 l-90,0 a5,5 0 0,1 -5,-5 z" stroke-width="1" stroke-dasharray="none" />
+               </g>
+            </g>
+            <g width="100" height="25" transform="scale(1,1) translate(0,81.333)">
+               <g transform="scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+                  <path d="M0,5 a5,5 0 0,1 5,-5 l90,0 a5,5 0 0,1 5,5 l0,15 a5,5 0 0,1 -5,5 l-90,0 a5,5 0 0,1 -5,-5 z" stroke-width="1" stroke-dasharray="none" />
+               </g>
+            </g>
+            <g width="36.424" height="36.424" transform="scale(1,1) translate(32.038,36.871)">
+               <g width="36.424" height="36.424" transform="scale(1,1) translate(0,0)" stroke="#000000" stroke-width="1" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+                  <ellipse rx="18.212" ry="18.212" cx="18.212" cy="18.212" />
+               </g>
+               <g width="25.04844592637925" height="25.04844592637925" transform="scale(1,1) translate(5.688,5.688)">
+                  <text width="25.04844592637925" height="23.958332061767578" transform="scale(1,1) translate(0,0.5450569323058367)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="19.444444444444443" font-weight="normal" font-style="normal" fill="#000000" opacity="1" x="0.164" text-anchor="start" y="19.792" textLength="24.72109603881836" style="font-family: Verdana, Geneva, sans-serif;">17</tspan></text>
+               </g>
+            </g>
+            <g width="60.5" height="96.5" transform="scale(1,1) translate(20,117.238)">
+               <g transform="rotate(90,30.25,48.25) scale(1,1) translate(0,0)" stroke="#000000" fill="#FFFFFF" fill-opacity="1" stroke-opacity="1">
+                  <path class="tableshape" id="tb18" d="M0.249,0 L0.249,0 L0.249,85.167 L0.249,85.167 L0.249,85.167 L0.217,85.333 L0.188,85.498 L0.16,85.661 L0.134,85.824 L0.111,85.985 L0.09,86.145 L0.071,86.303 L0.055,86.46 L0.04,86.616 L0.028,86.771 L0.018,86.925 L0.01,87.077 L0.005,87.228 L0.001,87.378 L0,87.526 L0.001,87.674 L0.004,87.819 L0.01,87.964 L0.017,88.108 L0.027,88.25 L0.039,88.391 L0.053,88.53 L0.069,88.669 L0.088,88.806 L0.109,88.942 L0.132,89.076 L0.157,89.21 L0.184,89.342 L0.214,89.473 L0.246,89.602 L0.28,89.731 L0.316,89.858 L0.354,89.984 L0.395,90.108 L0.437,90.231 L0.482,90.353 L0.529,90.474 L0.579,90.594 L0.63,90.712 L0.684,90.829 L0.74,90.945 L0.798,91.059 L0.859,91.172 L0.921,91.284 L0.986,91.395 L1.053,91.504 L1.122,91.612 L1.193,91.719 L1.267,91.825 L1.343,91.929 L1.421,92.032 L1.501,92.134 L1.583,92.235 L1.668,92.334 L1.755,92.432 L1.844,92.529 L1.935,92.625 L2.028,92.719 L2.124,92.812 L2.221,92.904 L2.321,92.994 L2.423,93.084 L2.528,93.172 L2.634,93.258 L2.743,93.344 L2.854,93.428 L2.967,93.511 L3.083,93.593 L3.2,93.673 L3.32,93.752 L3.442,93.83 L3.566,93.907 L3.692,93.982 L3.821,94.056 L3.952,94.129 L4.085,94.201 L4.22,94.271 L4.357,94.34 L4.497,94.408 L4.638,94.475 L4.782,94.54 L4.928,94.604 L5.077,94.667 L5.227,94.728 L5.38,94.789 L5.535,94.848 L5.692,94.905 L5.851,94.962 L6.013,95.017 L6.177,95.071 L6.343,95.124 L6.511,95.175 L6.681,95.225 L6.854,95.274 L7.028,95.322 L7.205,95.368 L7.384,95.413 L7.566,95.457 L7.749,95.5 L7.749,95.5 L7.749,95.5 L50.583,95.5 L50.583,95.5 L50.583,95.5 L50.711,95.443 L50.839,95.385 L50.966,95.326 L51.092,95.266 L51.217,95.204 L51.342,95.142 L51.466,95.078 L51.589,95.013 L51.711,94.947 L51.833,94.88 L51.954,94.812 L52.074,94.743 L52.193,94.672 L52.311,94.6 L52.429,94.527 L52.546,94.454 L52.662,94.378 L52.778,94.302 L52.892,94.225 L53.006,94.146 L53.119,94.067 L53.232,93.986 L53.343,93.904 L53.454,93.821 L53.564,93.736 L53.674,93.651 L53.782,93.564 L53.89,93.477 L53.997,93.388 L54.103,93.298 L54.209,93.207 L54.313,93.115 L54.417,93.021 L54.521,92.927 L54.623,92.831 L54.725,92.734 L54.825,92.636 L54.926,92.537 L55.025,92.437 L55.123,92.336 L55.221,92.233 L55.318,92.129 L55.415,92.025 L55.51,91.919 L55.605,91.812 L55.699,91.703 L55.792,91.594 L55.884,91.484 L55.976,91.372 L56.067,91.259 L56.157,91.145 L56.247,91.03 L56.335,90.914 L56.423,90.796 L56.51,90.678 L56.596,90.558 L56.682,90.438 L56.767,90.316 L56.851,90.193 L56.934,90.068 L57.016,89.943 L57.098,89.816 L57.179,89.689 L57.259,89.56 L57.339,89.43 L57.417,89.299 L57.495,89.167 L57.572,89.034 L57.649,88.899 L57.724,88.763 L57.799,88.627 L57.873,88.489 L57.946,88.35 L58.019,88.209 L58.091,88.068 L58.162,87.926 L58.232,87.782 L58.301,87.637 L58.37,87.491 L58.438,87.344 L58.505,87.196 L58.571,87.047 L58.637,86.896 L58.702,86.745 L58.766,86.592 L58.829,86.438 L58.892,86.283 L58.954,86.127 L59.015,85.969 L59.075,85.811 L59.134,85.651 L59.193,85.491 L59.251,85.329 L59.308,85.166 L59.365,85.001 L59.42,84.836 L59.475,84.67 L59.529,84.502 L59.583,84.333 L59.583,84.333 L59.583,84.333 L59.583,0 L59.583,0 L59.583,0 L0.249,0 L0.249,0 z" stroke-width="1" stroke-dasharray="none" />
+               </g>
+            </g>
+            <g width="100" height="25" transform="scale(1,1) translate(0,110.405)">
+               <g transform="scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+                  <path d="M0,5 a5,5 0 0,1 5,-5 l90,0 a5,5 0 0,1 5,5 l0,15 a5,5 0 0,1 -5,5 l-90,0 a5,5 0 0,1 -5,-5 z" stroke-width="1" stroke-dasharray="none" />
+               </g>
+            </g>
+            <g width="100" height="25" transform="scale(1,1) translate(0,191.738)">
+               <g transform="scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+                  <path d="M0,5 a5,5 0 0,1 5,-5 l90,0 a5,5 0 0,1 5,5 l0,15 a5,5 0 0,1 -5,5 l-90,0 a5,5 0 0,1 -5,-5 z" stroke-width="1" stroke-dasharray="none" />
+               </g>
+            </g>
+            <g width="36.483" height="36.483" transform="scale(1,1) translate(32.008,147.247)">
+               <g width="36.483" height="36.483" transform="scale(1,1) translate(0,0)" stroke="#000000" stroke-width="1" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+                  <ellipse rx="18.2415" ry="18.2415" cx="18.2415" cy="18.2415" />
+               </g>
+               <g width="25.090496369563972" height="25.090496369563972" transform="scale(1,1) translate(5.696,5.696)">
+                  <text width="25.090496369563972" height="23.958332061767578" transform="scale(1,1) translate(0,0.566082153898197)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="19.444444444444443" font-weight="normal" font-style="normal" fill="#000000" opacity="1" x="0.185" text-anchor="start" y="19.792" textLength="24.72109603881836" style="font-family: Verdana, Geneva, sans-serif;">18</tspan></text>
+               </g>
+            </g>
+         </g>
+      </g>
+      <g width="100" height="216.667" transform="scale(1,1) translate(920.961,586.512)">
+         <g width="100" height="216.667" transform="scale(1,1) translate(0,0)">
+            <g width="60.5" height="96.5" transform="scale(1,1) translate(20,6.833)">
+               <g transform="rotate(90,30.25,48.25) scale(1,1) translate(0,0)" stroke="#000000" fill="#FFFFFF" fill-opacity="1" stroke-opacity="1">
+                  <path class="tableshape" id="tb15" d="M0.249,0 L0.249,0 L0.249,85.167 L0.249,85.167 L0.249,85.167 L0.217,85.333 L0.188,85.498 L0.16,85.661 L0.134,85.824 L0.111,85.985 L0.09,86.145 L0.071,86.303 L0.055,86.46 L0.04,86.616 L0.028,86.771 L0.018,86.925 L0.01,87.077 L0.005,87.228 L0.001,87.378 L0,87.526 L0.001,87.674 L0.004,87.819 L0.01,87.964 L0.017,88.108 L0.027,88.25 L0.039,88.391 L0.053,88.53 L0.069,88.669 L0.088,88.806 L0.109,88.942 L0.132,89.076 L0.157,89.21 L0.184,89.342 L0.214,89.473 L0.246,89.602 L0.28,89.731 L0.316,89.858 L0.354,89.984 L0.395,90.108 L0.437,90.231 L0.482,90.353 L0.529,90.474 L0.579,90.594 L0.63,90.712 L0.684,90.829 L0.74,90.945 L0.798,91.059 L0.859,91.172 L0.921,91.284 L0.986,91.395 L1.053,91.504 L1.122,91.612 L1.193,91.719 L1.267,91.825 L1.343,91.929 L1.421,92.032 L1.501,92.134 L1.583,92.235 L1.668,92.334 L1.755,92.432 L1.844,92.529 L1.935,92.625 L2.028,92.719 L2.124,92.812 L2.221,92.904 L2.321,92.994 L2.423,93.084 L2.528,93.172 L2.634,93.258 L2.743,93.344 L2.854,93.428 L2.967,93.511 L3.083,93.593 L3.2,93.673 L3.32,93.752 L3.442,93.83 L3.566,93.907 L3.692,93.982 L3.821,94.056 L3.952,94.129 L4.085,94.201 L4.22,94.271 L4.357,94.34 L4.497,94.408 L4.638,94.475 L4.782,94.54 L4.928,94.604 L5.077,94.667 L5.227,94.728 L5.38,94.789 L5.535,94.848 L5.692,94.905 L5.851,94.962 L6.013,95.017 L6.177,95.071 L6.343,95.124 L6.511,95.175 L6.681,95.225 L6.854,95.274 L7.028,95.322 L7.205,95.368 L7.384,95.413 L7.566,95.457 L7.749,95.5 L7.749,95.5 L7.749,95.5 L50.583,95.5 L50.583,95.5 L50.583,95.5 L50.711,95.443 L50.839,95.385 L50.966,95.326 L51.092,95.266 L51.217,95.204 L51.342,95.142 L51.466,95.078 L51.589,95.013 L51.711,94.947 L51.833,94.88 L51.954,94.812 L52.074,94.743 L52.193,94.672 L52.311,94.6 L52.429,94.527 L52.546,94.454 L52.662,94.378 L52.778,94.302 L52.892,94.225 L53.006,94.146 L53.119,94.067 L53.232,93.986 L53.343,93.904 L53.454,93.821 L53.564,93.736 L53.674,93.651 L53.782,93.564 L53.89,93.477 L53.997,93.388 L54.103,93.298 L54.209,93.207 L54.313,93.115 L54.417,93.021 L54.521,92.927 L54.623,92.831 L54.725,92.734 L54.825,92.636 L54.926,92.537 L55.025,92.437 L55.123,92.336 L55.221,92.233 L55.318,92.129 L55.415,92.025 L55.51,91.919 L55.605,91.812 L55.699,91.703 L55.792,91.594 L55.884,91.484 L55.976,91.372 L56.067,91.259 L56.157,91.145 L56.247,91.03 L56.335,90.914 L56.423,90.796 L56.51,90.678 L56.596,90.558 L56.682,90.438 L56.767,90.316 L56.851,90.193 L56.934,90.068 L57.016,89.943 L57.098,89.816 L57.179,89.689 L57.259,89.56 L57.339,89.43 L57.417,89.299 L57.495,89.167 L57.572,89.034 L57.649,88.899 L57.724,88.763 L57.799,88.627 L57.873,88.489 L57.946,88.35 L58.019,88.209 L58.091,88.068 L58.162,87.926 L58.232,87.782 L58.301,87.637 L58.37,87.491 L58.438,87.344 L58.505,87.196 L58.571,87.047 L58.637,86.896 L58.702,86.745 L58.766,86.592 L58.829,86.438 L58.892,86.283 L58.954,86.127 L59.015,85.969 L59.075,85.811 L59.134,85.651 L59.193,85.491 L59.251,85.329 L59.308,85.166 L59.365,85.001 L59.42,84.836 L59.475,84.67 L59.529,84.502 L59.583,84.333 L59.583,84.333 L59.583,84.333 L59.583,0 L59.583,0 L59.583,0 L0.249,0 L0.249,0 z" stroke-width="1" stroke-dasharray="none" />
+               </g>
+            </g>
+            <g width="100" height="25" transform="scale(1,1) translate(0,0)">
+               <g transform="scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+                  <path d="M0,5 a5,5 0 0,1 5,-5 l90,0 a5,5 0 0,1 5,5 l0,15 a5,5 0 0,1 -5,5 l-90,0 a5,5 0 0,1 -5,-5 z" stroke-width="1" stroke-dasharray="none" />
+               </g>
+            </g>
+            <g width="100" height="25" transform="scale(1,1) translate(0,81.333)">
+               <g transform="scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+                  <path d="M0,5 a5,5 0 0,1 5,-5 l90,0 a5,5 0 0,1 5,5 l0,15 a5,5 0 0,1 -5,5 l-90,0 a5,5 0 0,1 -5,-5 z" stroke-width="1" stroke-dasharray="none" />
+               </g>
+            </g>
+            <g width="36.424" height="36.424" transform="scale(1,1) translate(32.038,36.871)">
+               <g width="36.424" height="36.424" transform="scale(1,1) translate(0,0)" stroke="#000000" stroke-width="1" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+                  <ellipse rx="18.212" ry="18.212" cx="18.212" cy="18.212" />
+               </g>
+               <g width="25.04844592637925" height="25.04844592637925" transform="scale(1,1) translate(5.688,5.688)">
+                  <text width="25.04844592637925" height="23.958332061767578" transform="scale(1,1) translate(0,0.5450569323058367)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="19.444444444444443" font-weight="normal" font-style="normal" fill="#000000" opacity="1" x="0.164" text-anchor="start" y="19.792" textLength="24.72109603881836" style="font-family: Verdana, Geneva, sans-serif;">15</tspan></text>
+               </g>
+            </g>
+            <g width="60.5" height="96.5" transform="scale(1,1) translate(20,117.167)">
+               <g transform="rotate(90,30.25,48.25) scale(1,1) translate(0,0)" stroke="#000000" fill="#FFFFFF" fill-opacity="1" stroke-opacity="1">
+                  <path class="tableshape" id="tb16" d="M0.249,0 L0.249,0 L0.249,85.167 L0.249,85.167 L0.249,85.167 L0.217,85.333 L0.188,85.498 L0.16,85.661 L0.134,85.824 L0.111,85.985 L0.09,86.145 L0.071,86.303 L0.055,86.46 L0.04,86.616 L0.028,86.771 L0.018,86.925 L0.01,87.077 L0.005,87.228 L0.001,87.378 L0,87.526 L0.001,87.674 L0.004,87.819 L0.01,87.964 L0.017,88.108 L0.027,88.25 L0.039,88.391 L0.053,88.53 L0.069,88.669 L0.088,88.806 L0.109,88.942 L0.132,89.076 L0.157,89.21 L0.184,89.342 L0.214,89.473 L0.246,89.602 L0.28,89.731 L0.316,89.858 L0.354,89.984 L0.395,90.108 L0.437,90.231 L0.482,90.353 L0.529,90.474 L0.579,90.594 L0.63,90.712 L0.684,90.829 L0.74,90.945 L0.798,91.059 L0.859,91.172 L0.921,91.284 L0.986,91.395 L1.053,91.504 L1.122,91.612 L1.193,91.719 L1.267,91.825 L1.343,91.929 L1.421,92.032 L1.501,92.134 L1.583,92.235 L1.668,92.334 L1.755,92.432 L1.844,92.529 L1.935,92.625 L2.028,92.719 L2.124,92.812 L2.221,92.904 L2.321,92.994 L2.423,93.084 L2.528,93.172 L2.634,93.258 L2.743,93.344 L2.854,93.428 L2.967,93.511 L3.083,93.593 L3.2,93.673 L3.32,93.752 L3.442,93.83 L3.566,93.907 L3.692,93.982 L3.821,94.056 L3.952,94.129 L4.085,94.201 L4.22,94.271 L4.357,94.34 L4.497,94.408 L4.638,94.475 L4.782,94.54 L4.928,94.604 L5.077,94.667 L5.227,94.728 L5.38,94.789 L5.535,94.848 L5.692,94.905 L5.851,94.962 L6.013,95.017 L6.177,95.071 L6.343,95.124 L6.511,95.175 L6.681,95.225 L6.854,95.274 L7.028,95.322 L7.205,95.368 L7.384,95.413 L7.566,95.457 L7.749,95.5 L7.749,95.5 L7.749,95.5 L50.583,95.5 L50.583,95.5 L50.583,95.5 L50.711,95.443 L50.839,95.385 L50.966,95.326 L51.092,95.266 L51.217,95.204 L51.342,95.142 L51.466,95.078 L51.589,95.013 L51.711,94.947 L51.833,94.88 L51.954,94.812 L52.074,94.743 L52.193,94.672 L52.311,94.6 L52.429,94.527 L52.546,94.454 L52.662,94.378 L52.778,94.302 L52.892,94.225 L53.006,94.146 L53.119,94.067 L53.232,93.986 L53.343,93.904 L53.454,93.821 L53.564,93.736 L53.674,93.651 L53.782,93.564 L53.89,93.477 L53.997,93.388 L54.103,93.298 L54.209,93.207 L54.313,93.115 L54.417,93.021 L54.521,92.927 L54.623,92.831 L54.725,92.734 L54.825,92.636 L54.926,92.537 L55.025,92.437 L55.123,92.336 L55.221,92.233 L55.318,92.129 L55.415,92.025 L55.51,91.919 L55.605,91.812 L55.699,91.703 L55.792,91.594 L55.884,91.484 L55.976,91.372 L56.067,91.259 L56.157,91.145 L56.247,91.03 L56.335,90.914 L56.423,90.796 L56.51,90.678 L56.596,90.558 L56.682,90.438 L56.767,90.316 L56.851,90.193 L56.934,90.068 L57.016,89.943 L57.098,89.816 L57.179,89.689 L57.259,89.56 L57.339,89.43 L57.417,89.299 L57.495,89.167 L57.572,89.034 L57.649,88.899 L57.724,88.763 L57.799,88.627 L57.873,88.489 L57.946,88.35 L58.019,88.209 L58.091,88.068 L58.162,87.926 L58.232,87.782 L58.301,87.637 L58.37,87.491 L58.438,87.344 L58.505,87.196 L58.571,87.047 L58.637,86.896 L58.702,86.745 L58.766,86.592 L58.829,86.438 L58.892,86.283 L58.954,86.127 L59.015,85.969 L59.075,85.811 L59.134,85.651 L59.193,85.491 L59.251,85.329 L59.308,85.166 L59.365,85.001 L59.42,84.836 L59.475,84.67 L59.529,84.502 L59.583,84.333 L59.583,84.333 L59.583,84.333 L59.583,0 L59.583,0 L59.583,0 L0.249,0 L0.249,0 z" stroke-width="1" stroke-dasharray="none" />
+               </g>
+            </g>
+            <g width="100" height="25" transform="scale(1,1) translate(0,110.333)">
+               <g transform="scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+                  <path d="M0,5 a5,5 0 0,1 5,-5 l90,0 a5,5 0 0,1 5,5 l0,15 a5,5 0 0,1 -5,5 l-90,0 a5,5 0 0,1 -5,-5 z" stroke-width="1" stroke-dasharray="none" />
+               </g>
+            </g>
+            <g width="100" height="25" transform="scale(1,1) translate(0,191.667)">
+               <g transform="scale(1,1) translate(0,0)" stroke="#000000" fill="#F4F4F4" fill-opacity="1" stroke-opacity="1">
+                  <path d="M0,5 a5,5 0 0,1 5,-5 l90,0 a5,5 0 0,1 5,5 l0,15 a5,5 0 0,1 -5,5 l-90,0 a5,5 0 0,1 -5,-5 z" stroke-width="1" stroke-dasharray="none" />
+               </g>
+            </g>
+            <g width="36.409" height="36.583" transform="scale(1,1) translate(32.046,147.209)">
+               <g width="36.409" height="36.583" transform="scale(1,1) translate(0,0)" stroke="#000000" stroke-width="1" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+                  <ellipse rx="18.2045" ry="18.2915" cx="18.2045" cy="18.2915" />
+               </g>
+               <g width="25.03759240608784" height="25.16077278497821" transform="scale(1,1) translate(5.685,5.711)">
+                  <text width="25.03759240608784" height="23.958332061767578" transform="scale(1,1) translate(0,0.601220361605316)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="19.444444444444443" font-weight="normal" font-style="normal" fill="#000000" opacity="1" x="0.158" text-anchor="start" y="19.792" textLength="24.72109603881836" style="font-family: Verdana, Geneva, sans-serif;">16</tspan></text>
+               </g>
+            </g>
+         </g>
+      </g>
+      <g width="75" height="15" transform="scale(1,1) translate(854.389,1130.76)">
+         <g stroke="#BFBFBF" stroke-opacity="1" stroke-width="0" stroke-dasharray="none" width="75" height="15" transform="scale(1,1) translate(0,0)" fill="white" fill-opacity="1">
+            <rect width="75" height="15" />
+         </g>
+         <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" transform="scale(1,1) translate(0,0)" opacity="0">
+            <path fill="none" stroke-width="1" stroke-dasharray="none" d="M0,0" />
+         </g>
+         <g width="26.88262939453125" height="15.624999046325684" transform="scale(1,1) translate(24.059,-20.625)" opacity="0">
+            <text width="26.88262939453125" height="15.624999046325684" transform="scale(1,1) translate(0,0)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="13.88888888888889" font-weight="normal" font-style="normal" fill="#000" opacity="1" x="0" text-anchor="start" y="12.5" textLength="26.88262939453125" style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">3' 0"</tspan></text>
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M20.152,-16.719 L20.152,-8.906 L12.34,-12.812 L20.152,-16.719 z" />
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M54.848,-16.719 L54.848,-8.906 L62.66,-12.812 L54.848,-16.719 z" />
+         </g>
+         <g width="26.88262939453125" height="15.624999046325684" transform="rotate(270,80,20.941) scale(1,1) translate(80,20.941)" opacity="0">
+            <text width="26.88262939453125" height="15.624999046325684" transform="scale(1,1) translate(0,0)" xml:space="preserve"><tspan xml:space="preserve" text-rendering="optimizeSpeed" font-size="13.88888888888889" font-weight="normal" font-style="normal" fill="#000" opacity="1" x="0" text-anchor="start" y="12.5" textLength="26.88262939453125" style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">0' 7"</tspan></text>
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M91.719,-9.848 L83.906,-9.848 L87.812,-17.66 L91.719,-9.848 z" />
+         </g>
+         <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+            <path d="M91.719,24.848 L83.906,24.848 L87.812,32.66 L91.719,24.848 z" />
+         </g>
+      </g>
+   </g>
+</svg>
