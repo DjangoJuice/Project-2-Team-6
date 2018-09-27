@@ -52,14 +52,15 @@ $(function () {
         }
     }
 
-
+    var counter = 0;
+    
     //Hava - SVG Ajax Calls - Look here!!!
     $("body").on("click", ".restaurant-btn", function () {
         var id = $(this).data("dataRestaurantId");
-        var counter = 0;
 
         //You have to physically walk into a restaurant to choose your table and thus trigger this button. So an Order button shouldn't be made more than once.
         if (counter < 1) {
+            counter++;
             $mButton = $("<button>");
             $mButton.addClass("order-btn mx-5 my-3");
             $mButton.data("RestaurantId", id);
@@ -69,7 +70,6 @@ $(function () {
             $mButton.text("Order");
     
             $("#menu-btn-here").append($mButton);
-            counter++
         }
 
     });
