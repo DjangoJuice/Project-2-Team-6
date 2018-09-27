@@ -5,16 +5,16 @@ module.exports = function(sequelize, DataTypes) {
       allowNull: false,
     },
     restaurantAddress: {
-      type: DataTypes.STRING,
+      type: DataTypes.TEXT,
       allowNull: false
     },
     restaurantImg: {
-      type: DataTypes.STRING,
-      allowNull: true,
+      type: DataTypes.TEXT,
+      allowNull: false
     },
     restaurantDescription: {
       type: DataTypes.TEXT,
-      allowNull: true
+      allowNull: false
     }
   });
   Restaurant.associate = function(models) {

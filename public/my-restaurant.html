@@ -16,10 +16,10 @@
             <!--Add Restaurant Form-->
             <div class="row">
                 <div class="col-md-1"></div>
-                <div id="add-restaurant" class="border border-danger text-center col-md-10">
+                <div id="add-restaurant" class="border rounded text-center col-md-10" style="background-color: ghostwhite;">
                     <h5>Add Restaurant</h5>
 
-                    <form id="restaurant-added">
+                    <form id="restaurant-added" class="bg-white mb-2">
                         <!--Restaurant Name-->
                         <div class="form-group row">
                             <label for="restaurant-name" class="col-sm-2 col-form-label">Name</label>
@@ -55,7 +55,7 @@
                                 <input type="number" class="form-control" id="restaurant-tables" placeholder="12">
                             </div>
                         </div>
-                        <button id="submit-restaurant" type="button" class="btn btn-outline-secondary mb-2">Submit</button>
+                        <button id="submit-restaurant" type="button" class="btn btn-outline-secondary">Submit</button>
                     </form>
                 </div>
                 <div class="col-md-1"></div>
@@ -63,10 +63,20 @@
             <!--Update Tables Form-->
             <div id="table-find" class="row mt-4">
                 <div class="col-md-1"></div>
-                <div class="border border-success text-center col-md-10">
+                <div class="border rounded text-center col-md-10" style="background-color: ghostwhite; height: 300px; overflow-y: auto;">
                     <!--After a user chooses a restaurant, the user chooses a table and then can change that record-->
-                    <h5 id="table-update">Edit Tables</h5>
+                    <h5 id="table-update-header">Add Table Section</h5>
                     <div id="update-table-div" style="overflow-y: auto; height: 300px">
+                            <form id="update-table-form" style="display: none">
+                                <div class="form-group row">
+                                    <label for="table-section" class="col-sm-2 col-form-label">Section</label>
+                                    <div class="col-sm-10">
+                                        <input type="text" class="form-control" id="table-section" placeholder="Section 1">
+                                    </div>
+                                </div>
+        
+                                <button id="submit-table" type="button" class="btn btn-outline-secondary mb-2">Submit</button>
+                            </form>
                     </div>
                 </div>
                 <div class="col-md-1"></div>
@@ -77,7 +87,7 @@
         <section class="col-md-6">
             <div class="row mb-4">
                 <div class="col-md-1"></div>
-                <div id="orders" class="border border-secondary text-center col-md-10" style="overflow-y: auto; height: 400px;">
+                <div id="orders" class="border rounded text-center col-md-10" style="overflow-y: auto; height: 400px;background-color: ghostwhite;">
                     <h5>In the Kitchen</h5>
                     <div id="orders" class="text-center mb-2">
                         
@@ -89,7 +99,7 @@
 
             <div class="row" class="border border-danger">
                 <div class="col-md-1"></div>
-                <div id ="menu-add-section" class="border border-secondary text-center col-md-10" style="overflow-y: auto; height: 300px">
+                <div id ="menu-add-section" class="border rounded text-center col-md-10" style="overflow-y: auto; height: 300px; background-color: ghostwhite;">
                     <h5>Add Menu Items</h5>
                     <div id="r-display"></div>
                     <form id="add-to-menu" style="display: none">
@@ -132,6 +142,17 @@
 
     </main>
 
+    <!--Future Feature - Log of Management-->
+    <!-- <main class="row">
+        <section class="col-md-1"></section>
+        <section class="col-md-10 border rounded text-center mt-4" style="background-color: ghostwhite; height: 300px; overflow-y: auto">
+            <div id="work-log" class="bg-white mt-1">
+                <h3>Log</h3>
+            </div>
+        
+        </section>
+        <section class="col-md-1"></section>
+    </main> -->
 
 
 
@@ -140,7 +161,8 @@
 
 
 
-
+<!--Moment JS - Future feature, a part of management log --> 
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/locale/af.js"></script> -->
 <!--JQuery-->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 

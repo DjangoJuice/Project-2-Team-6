@@ -1,7 +1,7 @@
 $(function () {
     getAllOrders();
     getAllRestaurants();
-    // gAllRestaurants();s
+    getTables();
 
     //In the Kitchen
     function getAllOrders () {
@@ -13,10 +13,9 @@ $(function () {
 
     function displayOrders (data) {
         for (var i = 0; i < data.length; i++) {
-            console.log(data);
             if (!data[i].filled) {
                 $Order = $("<div>");
-                $Order.addClass("border border-dark mb-2 py-2 rounded");
+                $Order.addClass("border border-dark mb-2 py-2 rounded bg-white");
                 $Order.attr("id", "order-" + i);
 
                 $ul = $("<ul>");
@@ -42,7 +41,11 @@ $(function () {
 
                 $for = $("<li>");
                 $for.addClass("list-group-item");
-                $for.text("Customer: " + data[i].Customer.customerName + " - " + data[i].Customer.Tables[0].tableNum);
+                if (data[i].Customer.Tables[0].section) {
+                    $for.text("Customer: " + data[i].Customer.customerName + " - " + data[i].Customer.Tables[0].tableNum + " (" + data[i].Customer.Tables[0].section + ")");
+                } else {
+                    $for.text("Customer: " + data[i].Customer.customerName + " - " + data[i].Customer.Tables[0].tableNum);
+                }
 
                 $buttonLi = $("<li>");
                 $buttonLi.addClass("list-group-item");
@@ -113,59 +116,67 @@ $(function () {
         $("#r-display").append($div);
     }
 
-    // //Edit Tables
-    // function gAllRestaurants () {
-    //     $.ajax({
-    //         url: "/api/restaurants/",
-    //         method: "GET"   
-    //     }).then(dAllRestaurants);
-    // }
+    //Edit Tables
+    function getTables () {
+        $.ajax({
+            url: "/api/tables/restaurants/",
+            method: "GET"   
+        }).then(displayTables);
+    }
 
-    // function dAllRestaurants (data) {
-    //     $div = $("<div>");
-    //     $div.attr("id", "rTables");
-    //     $div.addClass("list-group mx-3");
+    function displayTables (data) {
+       $tableDiv = $("<div>");
+       $tableDiv.attr("id", "table-button-div");
+       $tableDiv.addClass("list-group mx-3");
 
-    //     for (var i = 0; i < data.length; i++) {
-    //         $button = $("<button>");
-    //         $button.text(data[i].restaurantName);
-    //         $button.addClass("list-group-item rTChoice");
-    //         $button.data("restaurantId", data[i].id);
-            
-    //         $div.append($button);
-    //     }
-    //     $("#update-table-div").append($div);
-    // }
+       for(var i = 0; i < data.length; i++) { 
+        $tableButton = $("<button>");
+        $tableButton.text(data[i].tableNum + " - " + data[i].Restaurant.restaurantName);
+        $tableButton.addClass("list-group-item choose-table");
+        $tableButton.data("tableId", data[i].id);
 
-    // $("body").on("click", ".rTChoice", function () {
-    //     event.preventDefault();
-    //     var restaurantId = $(this).data("restaurantId");
+        $tableDiv.append($tableButton);
+       }
+        
+       $("#update-table-div").append($tableDiv);
+    }
 
-    //     queryUrl = "/api/tables/restaurants/" + restaurantId
-    //     $.ajax({
-    //         url: queryUrl,
-    //         method: "GET"
-    //     }).then(function (data) {
-    //         console.log(data);
-    //         //display of all restaurants is hidden
-    //         $("#rTables").css("display", "none");
+    $("body").on("click", ".choose-table", function () {
+        console.log("Firing");
+        var id = $(this).data("tableId");
 
-    //         $div = $("<div>");
-    //         $div.attr("id", "table-div");
-    //         $div.addClass("list-group mx-3");
+        $("#table-button-div").css("display", "none");
+        $("#update-table-form").css("display", "block");
 
-    //         for (var i = 0; i < data.length; i++) {
-    //             $button = $("<button>");
-    //             $button.text(data[i].tableNum);
-    //             $button.addClass("list-group-item table");
-    //             $button.data("table-id", data[i].id);
+        $("#submit-table").on("click", function () {
+            event.preventDefault();
+            var section = $("#table-section").val().trim();
 
-    //             $div.append($button);
-    //         }
-    //         $("").append
-    //     });
-    // });
+            $.ajax({
+                url: "/api/tables/" + id,
+                method: "PUT",
+                data: {
+                    section: section
+                }
+            }).then(function () {
 
+                $("#update-table-form").css("display", "none");
+
+                $tableDiv = $("<div>");
+                $tableDiv.attr("id", "added-section");
+
+                $tableDiv.html("<p>A section is now associated with this table.</p>");
+
+                $("#update-table-div").append($tableDiv);
+
+                setTimeout(function () {
+                    $("#update-table-div").empty();
+                    location.reload();
+                }, 3000);
+            });
+        });
+
+    });
 
     $("#submit-restaurant").on("click", function () {
         event.preventDefault();
@@ -185,7 +196,7 @@ $(function () {
                 restaurantDescription: restaurantDescription 
             }
         }).then(function (result) {
-            console.log(result);
+        
                 $("#restaurant-added").css("display", "none");
 
                 $restaurantDiv = $("<div>");
@@ -220,7 +231,7 @@ $(function () {
                             RestaurantId: id
                         }
                     }).then(function (data) {
-                        console.log(data);
+                
                         count++;
                         makeTable();
                     });
@@ -275,16 +286,8 @@ $(function () {
                     location.reload();
                 }, 3000);
 
-
-            })
-        })
-
-
-
-
-
-
-
+            });
+        });
 
     });
 });
