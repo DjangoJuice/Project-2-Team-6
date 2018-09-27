@@ -61,16 +61,21 @@ $(function () {
         //You have to physically walk into a restaurant to choose your table and thus trigger this button. So an Order button shouldn't be made more than once.
         if (counter < 1) {
             $mButton = $("<button>");
-            $mButton.addClass("menu-btn mx-5 my-3");
-            $mButton.attr("dataRestaurantId", id);
+            $mButton.addClass("order-btn mx-5 my-3");
+            $mButton.data("RestaurantId", id);
             $mButton.attr("data-toggle", "modal");
             $mButton.attr("data-target", "to-order-modal");
             $mButton.addClass("btn btn-sm btn-info");
             $mButton.text("Order");
     
             $("#menu-btn-here").append($mButton);
+            counter++
         }
 
+    });
+
+    $("order-btn").on("click", function () {
+        var id = $(this).data("RestaurantId");
     });
 
     
