@@ -33,17 +33,18 @@ $(function () {
             $descriptionP.addClass("card-text");
             $descriptionP.text(data[i].restaurantDescription);
 
-            $button = $("<button>");
-            $button.addClass("restaurant-btn");
-            $button.attr("dataRestaurantId", data[i].id)
-            $button.addClass("btn btn-sm btn-success");
-            $button.text("Get Seated");
+            $tButton = $("<button>");
+            $tButton.addClass("restaurant-btn");
+            $tButton.attr("dataRestaurantId", data[i].id)
+            $tButton.addClass("btn btn-sm btn-success");
+            $tButton.text("Get Seated");
 
             $div.append($img);
 
             $body.append($nameHeader);
             $body.append($descriptionP);
-            $body.append($button);
+            $body.append($tButton);
+           
 
             $div.append($body);
 
@@ -55,7 +56,20 @@ $(function () {
     //Hava - SVG Ajax Calls - Look here!!!
     $("body").on("click", ".restaurant-btn", function () {
         var id = $(this).data("dataRestaurantId");
-        
+        var counter = 0;
+
+        //You have to physically walk into a restaurant to choose your table and thus trigger this button. So an Order button shouldn't be made more than once.
+        if (counter < 1) {
+            $mButton = $("<button>");
+            $mButton.addClass("menu-btn mx-5 my-3");
+            $mButton.attr("dataRestaurantId", id);
+            $mButton.attr("data-toggle", "modal");
+            $mButton.attr("data-target", "to-order-modal");
+            $mButton.addClass("btn btn-sm btn-info");
+            $mButton.text("Order");
+    
+            $("#menu-btn-here").append($mButton);
+        }
 
     });
 
