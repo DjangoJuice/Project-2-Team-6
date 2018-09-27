@@ -35,7 +35,7 @@ $(function () {
 
             $tButton = $("<button>");
             $tButton.addClass("restaurant-btn");
-            $tButton.attr("dataRestaurantId", data[i].id)
+            $tButton.data("RestaurantId", data[i].id)
             $tButton.addClass("btn btn-sm btn-success");
             $tButton.text("Get Seated");
 
@@ -53,16 +53,17 @@ $(function () {
     }
 
     var counter = 0;
-    
+
     //Hava - SVG Ajax Calls - Look here!!!
     $("body").on("click", ".restaurant-btn", function () {
-        var id = $(this).data("dataRestaurantId");
+        var id = $(this).data("RestaurantId");
 
         //You have to physically walk into a restaurant to choose your table and thus trigger this button. So an Order button shouldn't be made more than once.
         if (counter < 1) {
             counter++;
             $mButton = $("<button>");
-            $mButton.addClass("order-btn mx-5 my-3");
+            $mButton.addClass("mx-5 my-3");
+            $mButton.attr("id", "order-btn");
             $mButton.data("RestaurantId", id);
             $mButton.attr("data-toggle", "modal");
             $mButton.attr("data-target", "to-order-modal");
@@ -74,8 +75,16 @@ $(function () {
 
     });
 
-    $("order-btn").on("click", function () {
+//Menu/Order
+    $("body").on("click", "#order-btn", function () {
         var id = $(this).data("RestaurantId");
+        console.log(id);
+        $.ajax({
+            url: "/api/dishes/restaurants/" + id,
+            method: "GET",
+        }).then(function (data) {
+            console.log(data);
+        });
     });
 
     
