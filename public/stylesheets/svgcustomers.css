@@ -1,0 +1,31 @@
+svg {
+   cursor: default;
+}
+
+.svg-content {
+   display: inline-block;
+   position: absolute;
+   top: 0;
+   left: 0;
+}
+
+.svg-container {
+   display: inline-block;
+   position: relative;
+   width: 100%;
+   padding-bottom: 100%;
+   vertical-align: middle;
+   overflow: hidden;
+   background-color: red;
+   border-width: 5px;
+   border-color: purple;
+}
+
+#order-btn {
+   display: none;
+   visibility: hidden;
+}
+
+#customer-message-area {
+   color: tomato;
+}
