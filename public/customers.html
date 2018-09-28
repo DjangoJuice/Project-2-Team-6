@@ -9,6 +9,19 @@
 </head>
 <body>
     <main class="row">
+        <section class="col-md-10 mb-2">
+            
+        </section>
+        <section class="col-md-2 mb-2 border border-warning row">
+            <div class="col-md-7"></div>
+            <div class="col-md-4 text-center">
+            <button id="pay-btn" data-toggle="modal" data-target="#pay-bill-modal" class="btn btn-md btn-info my-2">Pay Bill</button>
+            </div>
+            <div class="col-md-1"></div>
+        </section>
+    </main>
+
+    <main class="row">
 
         <section class="col-md-1"></section>
         <!--All Content goes within this section-->
@@ -61,12 +74,31 @@
             
             </div>
             <div class="modal-footer">
-              <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+              <button id="done-btn" type="button" class="btn btn-warning" data-dismiss="modal">Done</button>
             </div>
           </div>
         </div>
       </div>
-
+    
+    <!--To Pay Modal-->
+      <div class="modal fade" id="pay-bill-modal" tabindex="-1" role="dialog" aria-labelledby="payBill" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="payBillTitle">Pay Bill</h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                </div>
+                <div id="pay-bill-div" class="modal-body">
+                  
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Pay</button>
+                </div>
+              </div>
+            </div>
+        </div>
 
 
 

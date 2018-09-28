@@ -2,7 +2,6 @@ $(function () {
     getAllRestaurants();
 
 
-
     function getAllRestaurants() {
         $.ajax({
             url: "/api/restaurants/",
@@ -63,7 +62,7 @@ $(function () {
 
     });
 
-// Menu/Order
+    // Menu/Order
     $("body").on("click", "#order-btn", function () {
         var id = $(this).data("RestaurantId");
 
@@ -138,7 +137,7 @@ $(function () {
                 $dishSubmitBtn.addClass("btn btn-sm btn-success form-order-dish-submit");
                 $dishSubmitBtn.data("notes-input", "notes-input" + i);
                 $dishSubmitBtn.data("quantity-input", "quantity-input" + i);
-                $dishSubmitBtn.text("Submit");
+                $dishSubmitBtn.text("+");
 
                 $form.append($quantityDiv);
                 $form.append($notesDiv);
@@ -151,52 +150,70 @@ $(function () {
     });  
     
     //Submit an order 
-
     $("body").on("click", ".choose-order", function () {
-        var id = $(this).data("RestaurantId");
-        var dishPrice = $(this).data("dishPrice");
-        var category = $(this).data("dishCategory");
-        var dishName = $(this).data("dishName");
+        
+        let id = $(this).data("RestaurantId");
+        let dishPrice = $(this).data("dishPrice");
+        let category = $(this).data("dishCategory");
+        let dishName = $(this).data("dishName");
 
+        console.log(dishName);
         //Need to add customerId using local storage
 
         
-        var displayId = $(this).data("displayId");
+        let displayId = $(this).data("displayId");
         
         $("#" + displayId).css("display", "block");
 
         $("body").on("click", ".form-order-dish-submit", function () {
-            event.preventDefault();
             $("#" + displayId).css("display", "none");
-            var dishQuantityInput = $(this).data("quantity-input");
-            var notesInput = $(this).data("notes-input");
-            var dishQuantity = $("#" + dishQuantityInput).val().trim();
-            var notes = $("#" + notesInput) .val().trim();
+            let dishQuantityInput = $(this).data("quantity-input");
 
-            // POST to ORDER model
+
+            let notesInput = $(this).data("notes-input");
+            let dishQuantity = $("#" + dishQuantityInput).val().trim();
+            let notes = $("#" + notesInput) .val().trim();
+
+            var data = {
+                dishName: dishName,
+                category: category,
+                dishPrice: dishPrice,
+                dishQuantity: dishQuantity,
+                notes: notes,
+                RestaurantId: id,
+                CustomerId: 1
+            }
+
             $.ajax({
                 url: "/api/orders/restaurants/",
                 method: "POST",
-                data: {
-                    dishName: dishName,
-                    category: category,
-                    dishPrice: dishPrice,
-                    dishQuantity: dishQuantity,
-                    notes: notes,
-                    RestaurantId: id,
-                    //Get userId out of Local storage if we have time to implement passport.
-                    CustomerId: 1
-                }
-            }).then(function (data) {
-                console.log(data);
-            })
+                data: data
+            });
         });
 
     });
+
+    //pay bill - tied to pay bill button
+    $("#pay-bill").on("click", function () {
+        $.ajax({
+            url: "/api/orders/restaurants/",
+            method: "GET",
+        }).then(function (data) {
+            console.log(data);
+        })
+    });
+    
+
 });
 
-
-
+// // POST to ORDER model
+            // $.ajax({
+            //     url: "/api/orders/restaurants/",
+            //     method: "POST",
+            //     data: orders[i]
+            // }).then(function (data) {
+            //     console.log(data);
+            // })
 
 
 
