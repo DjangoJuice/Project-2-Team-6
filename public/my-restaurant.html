@@ -1,61 +1,103 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>My Restaurant</title>
+    <meta 
+        charset="UTF-8">
+    <meta 
+        name="viewport" 
+        content="width=device-width, initial-scale=1.0">
+
+    <meta 
+        http-equiv="X-UA-Compatible" 
+        content="ie=edge">
+
+    <title>
+        My Restaurant</title>
+
     <!--Bootstrap CSS-->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link 
+        rel="stylesheet" 
+        href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" 
+        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" 
+        crossorigin="anonymous">
+
+    <!--Google Fonts-->
+    <link
+        rel="stylesheet"
+        href="https://fonts.googleapis.com/css?family=Exo+2|Oswald|Shadows+Into+Light|Noto+Serif+KR"> 
+
+    <!--Custom Stylesheet-->
+    <link   
+        rel="stylesheet"
+        href="./stylesheets/my-restaurant.css">
+
 </head>
 <body>
+
+    <nav class="navbar navbar-default sticky-top mike-nav">
+            <div class="container-fluid">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                <!-- <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button> -->
+                <a class="navbar-brand" href="#"><span class="mike-main-title">GRAMS</span><span class="mike-sub-title">&nbsp;&nbsp;&nbsp;The Grapes Restaurant Application Management System</span></a>
+            </div>
+            <div class="divLast">
+
+            </div>
+        </div>
+    </nav>
     
-    <main class="row">
+    <main class="row mike-body">
 
         <section class="col-md-6">
             <!--Add Restaurant Form-->
             <div class="row">
                 <div class="col-md-1"></div>
-                <div id="add-restaurant" class="border rounded text-center col-md-10" style="background-color: ghostwhite;">
-                    <h5>Add Restaurant</h5>
+                <div id="add-restaurant" class="border rounded text-center col-md-10" style="background-color: #E2E2E2;">
+                    <h5 class="data-box-title">Add Restaurant</h5>
 
                     <form id="restaurant-added" class="bg-white mb-2">
                         <!--Restaurant Name-->
                         <div class="form-group row">
-                            <label for="restaurant-name" class="col-sm-2 col-form-label">Name</label>
+                            <label for="restaurant-name" class="col-sm-2 col-form-label mike-text">Name</label>
                             <div class="col-sm-10">
                                 <input type="text" class="form-control" id="restaurant-name" placeholder="Grapes Wine & Fruit">
                             </div>
                         </div>
                         <!--Restaurant Address-->
                         <div class="form-group row">
-                            <label for="restaurant-address" class="col-sm-2 col-form-label">Address</label>
+                            <label for="restaurant-address" class="col-sm-2 col-form-label mike-text">Address</label>
                             <div class="col-sm-10">
                                 <input type="text" class="form-control" id="restaurant-address" placeholder="3307 Grapevine Lane, Grapetown, North Carolina">
                             </div>
                         </div>
                         <!--Restaurant Img-->
                         <div class="form-group row">
-                            <label for="restaurant-img" class="col-sm-2 col-form-label">Image</label>
+                            <label for="restaurant-img" class="col-sm-2 col-form-label mike-text">Image</label>
                             <div class="col-sm-10">
                                 <input type="text" class="form-control" id="restaurant-img">
                             </div>
                         </div>
                         <!--Restaurant Description-->
                         <div class="form-group row">
-                            <label for="restaurant-description" class="col-sm-2 col-form-label">Description</label>
+                            <label for="restaurant-description" class="col-sm-2 col-form-label mike-text">Description</label>
                             <div class="col-sm-10">
                                 <textarea type="text" class="form-control" id="restaurant-description"></textarea>
                             </div>
                         </div>
                         <!--# of Tables at Restaurant-->
                         <div class="form-group row">
-                            <label for="restaurant-tables" class="col-sm-2 col-form-label"># of Tables</label>
+                            <label for="restaurant-tables" class="col-sm-2 col-form-label mike-text"># of Tables</label>
                             <div class="col-sm-10">
                                 <input type="number" class="form-control" id="restaurant-tables" placeholder="12">
                             </div>
                         </div>
-                        <button id="submit-restaurant" type="button" class="btn btn-outline-secondary">Submit</button>
+                        <button id="submit-restaurant" type="button" class="btn btn-outline-secondary mike-text">Submit</button>
                     </form>
                 </div>
                 <div class="col-md-1"></div>
@@ -63,19 +105,19 @@
             <!--Update Tables Form-->
             <div id="table-find" class="row mt-4">
                 <div class="col-md-1"></div>
-                <div class="border rounded text-center col-md-10" style="background-color: ghostwhite; height: 300px; overflow-y: auto;">
+                <div class="border rounded text-center col-md-10" style="background-color: #E2E2E2; height: 300px; overflow-y: auto;">
                     <!--After a user chooses a restaurant, the user chooses a table and then can change that record-->
-                    <h5 id="table-update-header">Add Table Section</h5>
+                    <h5 class="data-box-title" id="table-update-header">Add Table Section</h5>
                     <div id="update-table-div" style="overflow-y: auto; height: 300px">
                             <form id="update-table-form" style="display: none">
                                 <div class="form-group row">
-                                    <label for="table-section" class="col-sm-2 col-form-label">Section</label>
+                                    <label for="table-section" class="col-sm-2 col-form-label mike-text">Section</label>
                                     <div class="col-sm-10">
                                         <input type="text" class="form-control" id="table-section" placeholder="Section 1">
                                     </div>
                                 </div>
         
-                                <button id="submit-table" type="button" class="btn btn-outline-secondary mb-2">Submit</button>
+                                <button id="submit-table" type="button" class="btn btn-outline-secondary mb-2 mike-text">Submit</button>
                             </form>
                     </div>
                 </div>
@@ -87,8 +129,8 @@
         <section class="col-md-6">
             <div class="row mb-4">
                 <div class="col-md-1"></div>
-                <div id="orders" class="border rounded text-center col-md-10" style="overflow-y: auto; height: 400px;background-color: ghostwhite;">
-                    <h5>In the Kitchen</h5>
+                <div id="orders" class="border rounded text-center col-md-10" style="overflow-y: auto; height: 400px;background-color: #E2E2E2;">
+                    <h5 class="data-box-title">In the Kitchen</h5>
                     <div id="orders" class="text-center mb-2">
                         
                     </div>
@@ -99,40 +141,40 @@
 
             <div class="row" class="border border-danger">
                 <div class="col-md-1"></div>
-                <div id ="menu-add-section" class="border rounded text-center col-md-10" style="overflow-y: auto; height: 300px; background-color: ghostwhite;">
-                    <h5>Add Menu Items</h5>
+                <div id ="menu-add-section" class="border rounded text-center col-md-10" style="overflow-y: auto; height: 300px; background-color: #E2E2E2;">
+                    <h5 class="data-box-title">Add Menu Items</h5>
                     <div id="r-display"></div>
                     <form id="add-to-menu" style="display: none">
                             <!--Dish Name-->
                             <div class="form-group row">
-                                <label for="dish-name" class="col-sm-2 col-form-label">Name</label>
+                                <label for="dish-name" class="col-sm-2 col-form-label mike-text">Name</label>
                                 <div class="col-sm-10">
                                     <input type="text" class="form-control" id="dish-name" placeholder="Grape Juice">
                                 </div>
                             </div>
                             <!--Dish Category-->
                             <div class="form-group row">
-                                <label for="dish-category" class="col-sm-2 col-form-label">Category</label>
+                                <label for="dish-category" class="col-sm-2 col-form-label mike-text">Category</label>
                                 <div class="col-sm-10">
                                     <input type="text" class="form-control" id="dish-category" placeholder="Drinks">
                                 </div>
                             </div>
                             <!--Dish Description-->
                             <div class="form-group row">
-                                <label for="dish-description" class="col-sm-2 col-form-label">Description</label>
+                                <label for="dish-description" class="col-sm-2 col-form-label mike-text">Description</label>
                                 <div class="col-sm-10">
                                     <input type="text" class="form-control" id="dish-description">
                                 </div>
                             </div>
                             <!--Dish Price-->
                             <div class="form-group row">
-                                <label for="dish-price" class="col-sm-2 col-form-label">Price</label>
+                                <label for="dish-price" class="col-sm-2 col-form-label mike-text">Price</label>
                                 <div class="col-sm-10">
                                     <input type="number" class="form-control" id="dish-price">
                                 </div>
                             </div>
                             
-                            <button id="submit-dish" type="button" class="btn btn-outline-secondary mb-2">Submit</button>
+                            <button id="submit-dish" type="button" class="btn btn-outline-secondary mb-2 mike-text">Submit</button>
                         </form>
                 </div>
                 <div class="col-md-1"></div>
@@ -141,6 +183,13 @@
         </section>
 
     </main>
+
+    <footer class="footer mike-footer">
+        <div class="container footer-container">
+          <span class="text-muted"><a href="https://github.com/DjangoJuice/Project-2-Team-6">Github</a></span><br>
+          <span class="authors">Team Grapes: Chris&nbsp;&nbsp;&nbsp;Hava&nbsp;&nbsp;&nbsp;Mike&nbsp;&nbsp;&nbsp;Leo</span>
+        </div>
+    </footer>
 
     <!--Future Feature - Log of Management-->
     <!-- <main class="row">

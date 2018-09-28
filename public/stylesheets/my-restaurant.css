@@ -1,0 +1,58 @@
+main {
+    padding-bottom: 3em;
+}
+
+.mike-nav {
+    background-color: #E2E2E2;
+    /*margin-bottom: 3em;*/
+}
+
+.mike-main-title {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 2.5em;
+}
+
+.mike-sub-title {
+    font-family: 'Oswald', sans-serif;
+    font-size: 2em;
+}
+
+.divLast 
+{
+   top: 0px;
+   margin:0px;  
+   padding: 0px 2px 2px 3px;    
+   border-width: 2px;
+   border-bottom-width:2px;
+   border-bottom-color:maroon;
+   border-bottom-style: solid;
+   width: 100%;
+}
+
+.mike-body {
+    background-color: #E2E2E2;
+    padding-top: 2em;
+}
+
+.data-box-title, .mike-text {
+    font-family: 'Exo 2', sans-serif;
+    /* font-size: 1.5em; */
+}
+
+#restaurant-added, #orders, #update-table-div, #menu-add-section {
+    border: rgb(158, 83, 13) solid .3em;
+    padding: .5em;
+}
+
+.mike-footer {
+    height: 3em;
+}
+
+.footer-container {
+    margin: 0;
+    height: 100%;
+}
+
+.authors {
+    font-family: 'Noto Serif KR', sans-serif;
+}
