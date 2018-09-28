@@ -1,6 +1,6 @@
 $(function () {
     getAllRestaurants();
-
+   
 
     function getAllRestaurants() {
         $.ajax({
@@ -193,15 +193,37 @@ $(function () {
 
     });
 
+    $("#pay-btn").on("click", function () {
+        payBill();
+    });
     //pay bill - tied to pay bill button
-    $("#pay-bill").on("click", function () {
+    function payBill () {
         $.ajax({
             url: "/api/orders/restaurants/",
-            method: "GET",
+            method: "GET"
         }).then(function (data) {
             console.log(data);
-        })
-    });
+            var totalArr = [];
+            var total = 0;
+            for (var i = 0; i < data.length; i++) {
+                if (data[i].filled) {
+                    if(!data[i].paid) {
+                        totalArr.push(data[i].dishPrice);
+                    }
+                }
+            }
+
+            for (var j = 0; j < totalArr.length; j++) {
+                total += totalArr[i];
+            }
+
+
+            $totalDiv = $("<div>");
+            $totalDiv.text("Total: $" + total);
+
+            $("#body-modal-div").append($totalDiv);
+        });
+    }
     
 
 });

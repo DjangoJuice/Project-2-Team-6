@@ -65,7 +65,7 @@ INSERT INTO Users (email, password, createdAt, updatedAt) VALUES ("grapesongrams
 
 /*--Customer Table Seed Data--*/
 
-INSERT INTO Customers(customerName, customerPhone) VALUES ("Gee", "555-555-5555", 1);
+INSERT INTO Customers(customerName, customerPhone, customerEmail, UserId) VALUES ("Gee", "555-555-5555", "grapesongrams@gmail.com",1);
 
 /*--Order Table Seed Data--*/
     /*--Thai Cafe RestaurantId = 2, ClientId = 1--*/
