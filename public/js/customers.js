@@ -58,34 +58,174 @@ $(function () {
     $("body").on("click", ".restaurant-btn", function () {
         var id = $(this).data("RestaurantId");
 
-        //You have to physically walk into a restaurant to choose your table and thus trigger this button. So an Order button shouldn't be made more than once.
-        if (counter < 1) {
-            counter++;
-            $mButton = $("<button>");
-            $mButton.addClass("mx-5 my-3");
-            $mButton.attr("id", "order-btn");
-            $mButton.data("RestaurantId", id);
-            $mButton.attr("data-toggle", "modal");
-            $mButton.attr("data-target", "to-order-modal");
-            $mButton.addClass("btn btn-sm btn-info");
-            $mButton.text("Order");
-    
-            $("#menu-btn-here").append($mButton);
-        }
+        $("#order-btn").css("display", "inline");
+        $("#order-btn").data("RestaurantId", id);
 
     });
 
-//Menu/Order
+// Menu/Order
     $("body").on("click", "#order-btn", function () {
         var id = $(this).data("RestaurantId");
-        console.log(id);
+
         $.ajax({
             url: "/api/dishes/restaurants/" + id,
             method: "GET",
         }).then(function (data) {
             console.log(data);
-        });
-    });
+            for (var i = 0; i < data.length; i++) {
+                $div = $("<div>");
 
+                $category = $("<button>");
+                $category.addClass("mb-1 btn-block choose-order");
+                $category.data("dishName", data[i].dishName);
+                $category.attr("display", "block");
+                $category.data("dishCategory", data[i].category);
+                $category.data("displayId", "display-" + i);
+                $category.data("dishPrice", data[i].dishPrice);
+                $category.data("RestaurantId", data[i].RestaurantId);
+
+                $category.html("<h5>" + data[i].category + "</h5>" + "<p>" + data[i].dishName + "</p>" + "<p>" + data[i].dishDescription + "</p>" + "<p>$ " + data[i].dishPrice + "</p>");
+               
+                $div.append($category);
+
+                $form = $("<form>");
+                $form.addClass("mb-2 form-to-order");
+                $form.attr("id", "display-" + i);
+                $form.css("display", "none");
+
+                $quantityDiv = $("<div>");
+                $quantityDiv.addClass("form-group row");
+
+                $quantityLabel = $("<label>");
+                $quantityLabel.attr("for", "quantity-input" + i);
+                $quantityLabel.addClass("col-sm-2 col-form-label");
+                $quantityLabel.text("Quantity");
+
+                $quantityTextDiv = $("<div>");
+                $quantityTextDiv.addClass("col-sm-10");
+
+                $quantity = $("<input>");
+                $quantity.attr("type", "text");
+                $quantity.attr("value", "1");
+                $quantity.attr("id", "quantity-input" + i);
+                $quantity.addClass("form-control-plaintext");
+
+                $quantityTextDiv.append($quantity);
+                $quantityDiv.append($quantityLabel);
+                $quantityDiv.append($quantityTextDiv);
+
+                $notesDiv = $("<div>");
+                $notesDiv.addClass("form-group row");
+
+                $notesLabel = $("<label>");
+                $notesLabel.attr("for", "notes-input" + i);
+                $notesLabel.addClass("col-sm-2 col-form-label");
+                $notesLabel.text("Notes");
+
+                $notesTextDiv = $("<div>");
+                $notesTextDiv.addClass("col-sm-10");
+
+                $textArea = $("<textarea>");
+                $textArea.addClass("form-control");
+                $textArea.attr("id", "notes-input" + i);
+                $textArea.attr("rows", "3");
+
+                $notesTextDiv.append($textArea);
+                $notesDiv.append($notesLabel);
+                $notesDiv.append($notesTextDiv);
+
+                $dishSubmitBtn = $("<button>");
+                $dishSubmitBtn.addClass("btn btn-sm btn-success form-order-dish-submit");
+                $dishSubmitBtn.data("notes-input", "notes-input" + i);
+                $dishSubmitBtn.data("quantity-input", "quantity-input" + i);
+                $dishSubmitBtn.text("Submit");
+
+                $form.append($quantityDiv);
+                $form.append($notesDiv);
+                $form.append($dishSubmitBtn);
+
+                $("#body-modal").append($div);
+                $("#body-modal").append($form);
+            }
+        });
+    });  
     
+    //Submit an order 
+
+    $("body").on("click", ".choose-order", function () {
+        var id = $(this).data("RestaurantId");
+        var dishPrice = $(this).data("dishPrice");
+        var category = $(this).data("dishCategory");
+        var dishName = $(this).data("dishName");
+
+        //Need to add customerId using local storage
+
+        
+        var displayId = $(this).data("displayId");
+        
+        $("#" + displayId).css("display", "block");
+
+        $("body").on("click", ".form-order-dish-submit", function () {
+            event.preventDefault();
+            $("#" + displayId).css("display", "none");
+            var dishQuantityInput = $(this).data("quantity-input");
+            var notesInput = $(this).data("notes-input");
+            var dishQuantity = $("#" + dishQuantityInput).val().trim();
+            var notes = $("#" + notesInput) .val().trim();
+
+            // POST to ORDER model
+            $.ajax({
+                url: "/api/orders/restaurants/",
+                method: "POST",
+                data: {
+                    dishName: dishName,
+                    category: category,
+                    dishPrice: dishPrice,
+                    dishQuantity: dishQuantity,
+                    notes: notes,
+                    RestaurantId: id,
+                    //Get userId out of Local storage if we have time to implement passport.
+                    CustomerId: 1
+                }
+            }).then(function (data) {
+                console.log(data);
+            })
+        });
+
+    });
 });
+
+
+
+
+
+
+/*
+
+0.) set orders
+var orders = []
+
+1.) whenever we add an order (with quanityt and notes, push an object to a global arr)
+
+orders.push(orderObj)
+
+ when orders are set (close modal or hit confirm), run some logic to set aan array of promises
+[ object, object, object ]
+ const promisedOrders = orders.map(order => {
+     return $.ajax({
+         url: 'stuff',
+         method: 'post',
+         data: {}
+     })
+ })
+
+ promisedOrders is am array of unresolved promises
+ [<Promise>, <Promise>, ...]
+
+ Promise.all(promisedOrders).then(allResults => {
+     allResults is an array of every response from all promises
+     [ res, res, res, res, res ]
+
+     // ok do logic that i want done after promises are finished (namely confirmation modal)
+ })
+*/
