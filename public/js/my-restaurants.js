@@ -12,6 +12,7 @@ $(function () {
     }
 
     function displayOrders (data) {
+      console.log(data);
         for (var i = 0; i < data.length; i++) {
             if (!data[i].filled) {
                 $Order = $("<div>");
@@ -125,6 +126,7 @@ $(function () {
     }
 
     function displayTables (data) {
+       console.log(data);
        $tableDiv = $("<div>");
        $tableDiv.attr("id", "table-button-div");
        $tableDiv.addClass("list-group mx-3");

@@ -798,7 +798,7 @@
                            </g>
                         </g>
                         <g width="158.333" height="194.833" transform="rotate(90,142.167,79.667) scale(1,1) translate(63,-17.75)">
-                           <g class="tableshape" id="tb11" stroke="#000000" opacity="1" stroke-width="1" stroke-dasharray="none" width="158.333" height="194.833" transform="scale(1,1) translate(0,0)" fill="white" fill-opacity="1" stroke-opacity="1">
+                           <g onclick="abcde()" class="tableshape" id="tb11" stroke="#000000" opacity="1" stroke-width="1" stroke-dasharray="none" width="158.333" height="194.833" transform="scale(1,1) translate(0,0)" fill="white" fill-opacity="1" stroke-opacity="1">
                               <rect width="158.333" height="194.833" />
                            </g>
                         </g>

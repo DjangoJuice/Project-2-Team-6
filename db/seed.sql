@@ -37,6 +37,12 @@ INSERT INTO Restaurants (restaurantName, restaurantAddress, restaurantImg, resta
     INSERT INTO Tables (tableNum, RestaurantId) VALUES("Table 10", 2); 
     INSERT INTO Tables (tableNum, RestaurantId) VALUES("Table 11", 2); 
     INSERT INTO Tables (tableNum, RestaurantId) VALUES("Table 12", 2); 
+    INSERT INTO Tables (tableNum, RestaurantId) VALUES("Table 13", 2);
+    INSERT INTO Tables (tableNum, RestaurantId) VALUES("Table 14", 2);
+    INSERT INTO Tables (tableNum, RestaurantId) VALUES("Table 15", 2);
+    INSERT INTO Tables (tableNum, RestaurantId) VALUES("Table 16", 2);
+    INSERT INTO Tables (tableNum, RestaurantId) VALUES("Table 17", 2);
+    INSERT INTO Tables (tableNum, RestaurantId) VALUES("Table 18", 2);
 
 /*--Dish Table Seed Data--*/
     /*--Menu for RestaurantId = 1--*/
