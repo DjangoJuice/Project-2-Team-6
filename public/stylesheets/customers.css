@@ -3,7 +3,27 @@
     margin-bottom: 0rem !important;
 }
 
+#menu-btn-here {
+    font-family: 'Exo 2', sans-serif;
+}
+
 footer {
     background-color: #E2E2E2;
     height: 10em;
+}
+
+#restaurants-div {
+    padding-bottom: 2.5em;
+}
+
+.divLast 
+{
+   top: 0px;
+   margin:0px;  
+   padding: 0px 5px 2px 3px;    
+   border-width: 2px;
+   border-bottom-width:2px;
+   border-bottom-color:maroon;
+   border-bottom-style: solid;
+   width: 100%;
 }
