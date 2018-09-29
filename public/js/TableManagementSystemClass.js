@@ -88,7 +88,6 @@ TableManagementSystem.prototype.getTables = function () {
 TableManagementSystem.prototype.getTableStates = TableManagementSystem.prototype.getTables;
 
 TableManagementSystem.prototype.setTable = function (tableNumber, tableState) {
-   console.log("in st");
    this.tableStates[tableNumber - 1] = tableState;
    this.updateUI(tableNumber);
 };
