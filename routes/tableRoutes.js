@@ -62,7 +62,7 @@ module.exports = function (app) {
          }
       }).then(function () {
          res.json({
-            message: "Table updated"
+            message: "Table Updated!"
          });
       });
    });
