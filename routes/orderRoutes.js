@@ -79,7 +79,7 @@ module.exports = function(app) {
         }, {
             where: {id: req.params.id}
         }).then(function() {
-            res.json({message: "Order updated"})
+            res.json({message: "Order updated"});
         });
     });
 
@@ -95,7 +95,7 @@ module.exports = function(app) {
         }, {
             where: {id: req.params.id}
         }).then(function() {
-            res.json({message: "Order updated"})
+            res.json({message: "Order updated"});
         });
     });
 
