@@ -18,12 +18,14 @@ $(function () {
          $("#order-btn").css("visibility", "visible");
          $("#order-btn").css("display", "inline-block");
          $("#customer-message-area").text("Please click the \"Order\" button to place the table's order.");
+
+         var displayUpdateMessage = () => "Table Updated!";
          
          $.ajax({
             url: "/api/tables/manage/" + tableId,
             type: "PUT",
             data: {'occupied': true}
-         }).then(doSomethingABC); 
+         });
 
       }
 
