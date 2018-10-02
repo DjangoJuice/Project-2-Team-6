@@ -253,7 +253,6 @@ $(function () {
        $("#" + displayId).css("display", "block");
 
        $("body").on("click", ".form-order-dish-submit", function () {
-           event.preventDefault();
            $("#" + displayId).css("display", "none");
            var dishQuantityInput = $(this).data("quantity-input");
            var notesInput = $(this).data("notes-input");
