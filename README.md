@@ -1,6 +1,6 @@
 # GRAMS by Grapes 
 
-GRAMS by Grapes has been the most ambitious project any of the contributors have been a part of to date. For some time now with the addition of smart phones to our society, it has been possible for restaurant owners to reduce their operating costs with regards to the amount of menus they choose to print, and the amount of staff they choose hire.
+GRAMS by Grapes has been the most ambitious project most of the contributors have been a part of to date. For some time now with the addition of smart phones to our society, it has been possible for restaurant owners to reduce their operating costs with regards to the amount of menus they choose to print, and the amount of staff they choose hire.
 
 With GRAMS, restaurant owners/managers are able to shift some of the duties traditionally left for staff on to their customers. Through the restaurant managers UI, owners are currently able to "add a restaurant", select how many tables are in that restaurant, and insert the menu for that restaurant. There is also section for owners to monitor customers' orders as they come in across their stores.
 
