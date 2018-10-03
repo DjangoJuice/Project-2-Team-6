@@ -49,5 +49,7 @@ After some research, we decided on SVG (Scalable Vector Graphics) files. Because
 
 After creating a layout file in the SVG format, the only other step needed to prepare the file for use in our Restaurant Management System is to apply some simple styling to the shapes that represent tables in order that the app can recognize that these shapes are tables. 
 
+SVG does not natively work with jquery; we used an external library called svg.js in this project in order to access svg elements via jquery syntax.
+
 ### Express.js, Node.js, Sequelize ORM Notes
 							
