@@ -61,3 +61,6 @@ Below is a reverse engineered illustration of the tables and the associations be
 ![GRAMS by GRAMS Database](./readme_images/p2-models.png)
 
 The back-end of this application is served using the Express.js framework for Node.js. Our controllers can be found in the routes folder. It is here that a fully RESTful API resides. Although not all of the routes are currently be used by the front-end, the architecure is already there to make future enhancements to our UI.
+
+### Conclusion
+There is still plenty of work to be done on this project to get to version 1.0. Due to time constraints and the small amount of project contributors, the UI is a major focus in the upcoming development cycle, as well as getting the application properly deployed to Heroku so that no functionality is lost between the development and deployment phases.  
