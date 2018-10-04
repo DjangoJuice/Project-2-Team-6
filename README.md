@@ -29,7 +29,7 @@ Javascript
 JQuery
 Node.JS
 Express.JS
-Sequalize
+Sequelize
 MySQL
 SVG (Scalable Vector Graphics)
 Heroku/JawsDB
@@ -52,4 +52,12 @@ After creating a layout file in the SVG format, the only other step needed to pr
 SVG does not natively work with jquery; we used an external library called svg.js in this project in order to access svg elements via jquery syntax.
 
 ### Express.js, Node.js, Sequelize ORM Notes
-							
+This application follows the MVC model. 
+
+The Sequelize npm package was used as our object-relational mapper (ORM) between our MySQL database and our server. Within the models folder, you can inspect the models and their associations, which together, forms the backbone of our application.   
+
+Below is a reverse engineered illustration of the tables and the associations between each of the tables being used:
+
+![GRAMS by GRAMS Database](./readme_images/p2-models.png)
+
+The back-end of this application is served using the Express.js framework for Node.js. Our controllers can be found in the routes folder. It is here that a fully RESTful API resides. Although not all of the routes are currently be used by the front-end, the architecure is already there to make future enhancements to our UI.
