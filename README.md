@@ -19,8 +19,8 @@ Customers interact with GRAMS through the customer UI. Currently with only "walk
 After a user finishes ordering that order is sent to the kitchen view (currently can be seen in the restaurant owners UI) where it will give information on the table, the customer, and how they would like there food prepared.
 
 # Application Deployment
-To see the customers view, go to: https://gramsbygrapes.herokuapp.com/customers.html
-To see the restaurant view, go to: https://gramsbygrapes.herokuapp.com/grams/my-restaurants
+To see the customers view, go to: https://gramsbygrapes.herokuapp.com/grams/customers/
+To see the restaurant view, go to: https://gramsbygrapes.herokuapp.com/grams/my-restaurants/
 
 # Technologies in use 
 HTML
