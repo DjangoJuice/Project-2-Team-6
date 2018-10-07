@@ -55,7 +55,7 @@ module.exports = function (app) {
    app.put("/api/tables/manage/:tableId", function (req, res) {
       db.Table.update({
          occupied: req.body.occupied,
-         CustomerId: 1
+         // CustomerId: 1
       }, {
          where: {
             id: req.params.tableId
