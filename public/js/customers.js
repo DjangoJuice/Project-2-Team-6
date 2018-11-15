@@ -149,7 +149,8 @@ $(function () {
       svgRestaurantId = id;
       injectSVGTableLayout(id);
       getTablesForRestaurant(id);
-      $("#order-btn").css("display", "inline");
+      $("#order-btn").css("visibility", "visible");
+      $("#order-btn").css("display", "inline-block");
       $("#order-btn").data("RestaurantId", id);
 
    });
